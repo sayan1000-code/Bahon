@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "shapoorji_bus_terminus",
+    "name": "Shapoorji Bus Terminus",
+    "lat": 22.565812,
+    "lng": 88.498421,
+    "corridor": "Action Area III Main Road, New Town",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "sukhobristi_gate_1",
+    "name": "Sukhobristi Gate 1",
+    "lat": 22.567345,
+    "lng": 88.49128,
+    "corridor": "Action Area III Arterial Road",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "unitech_infospace",
+    "name": "Unitech (Infospace)",
+    "lat": 22.576214,
+    "lng": 88.477651,
+    "corridor": "Major Arterial Road (MAR), Action Area II",
+    "alignment": "Southeastbound"
+  },
+  {
+    "id": "narkelbagan_biswa_bangla_gate",
+    "name": "Narkelbagan (Biswa Bangla Gate)",
+    "lat": 22.584627,
+    "lng": 88.459341,
+    "corridor": "Major Arterial Road (MAR), Action Area I",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "new_town_bus_stand_dlf_1",
+    "name": "New Town Bus Stand (DLF 1)",
+    "lat": 22.580124,
+    "lng": 88.452816,
+    "corridor": "Major Arterial Road (MAR), Action Area I",
+    "alignment": "Northeastbound"
+  },
+  {
+    "id": "technopolis_bus_stop",
+    "name": "Technopolis Bus Stop",
+    "lat": 22.580436,
+    "lng": 88.437295,
+    "corridor": "Street Number 18 / Ring Road, Sector V",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "college_more",
+    "name": "College More",
+    "lat": 22.573516,
+    "lng": 88.433465,
+    "corridor": "Major Arterial Road, Sector V",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "sdf_building",
+    "name": "SDF Building",
+    "lat": 22.57142,
+    "lng": 88.431248,
+    "corridor": "GP Block, Sector V, Salt Lake",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "swasthya_bhawan",
+    "name": "Swasthya Bhawan",
+    "lat": 22.571182,
+    "lng": 88.42531,
+    "corridor": "GN Block, Sector V",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "nicco_park",
+    "name": "Nicco Park",
+    "lat": 22.568415,
+    "lng": 88.418723,
+    "corridor": "HM Block, Salt Lake Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "sukanta_nagar",
+    "name": "Sukanta Nagar",
+    "lat": 22.56124,
+    "lng": 88.409852,
+    "corridor": "Salt Lake Bypass Connector",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "chingrighata_crossing",
+    "name": "Chingrighata Crossing",
+    "lat": 22.555812,
+    "lng": 88.401249,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "metropolitan_crossing",
+    "name": "Metropolitan Crossing",
+    "lat": 22.548914,
+    "lng": 88.39958,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "beliaghata_mathpukur",
+    "name": "Beliaghata / Mathpukur",
+    "lat": 22.54412,
+    "lng": 88.397645,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "science_city",
+    "name": "Science City",
+    "lat": 22.539281,
+    "lng": 88.393412,
+    "corridor": "J.B.S. Haldane Avenue",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "topsia_crossing",
+    "name": "Topsia Crossing",
+    "lat": 22.53965,
+    "lng": 88.38421,
+    "corridor": "Park Circus Connector",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "bridge_no_4",
+    "name": "Bridge No. 4",
+    "lat": 22.539912,
+    "lng": 88.37463,
+    "corridor": "Park Circus Connector",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "park_circus_7_point",
+    "name": "Park Circus 7-Point",
+    "lat": 22.543265,
+    "lng": 88.365418,
+    "corridor": "Shakespeare Sarani / Suhrawardy Ave",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "beck_bagan_quest_mall",
+    "name": "Beck Bagan (Quest Mall)",
+    "lat": 22.539871,
+    "lng": 88.36124,
+    "corridor": "Syed Amir Ali Avenue",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "minto_park_kalamandir",
+    "name": "Minto Park / Kalamandir",
+    "lat": 22.541315,
+    "lng": 88.355124,
+    "corridor": "AJC Bose Road, Elgin",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "exide_crossing_rabindra_sadan",
+    "name": "Exide Crossing (Rabindra Sadan)",
+    "lat": 22.539824,
+    "lng": 88.344682,
+    "corridor": "AJC Bose Road / Ashutosh Mukherjee Rd",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "birla_planetarium_maidan",
+    "name": "Birla Planetarium / Maidan",
+    "lat": 22.546115,
+    "lng": 88.34789,
+    "corridor": "Cathedral Road / Jawaharlal Nehru Rd",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "park_street_crossing",
+    "name": "Park Street Crossing",
+    "lat": 22.55284,
+    "lng": 88.35121,
+    "corridor": "Jawaharlal Nehru Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "esplanade_dorina_crossing",
+    "name": "Esplanade / Dorina Crossing",
+    "lat": 22.564735,
+    "lng": 88.35142,
+    "corridor": "Chowringhee Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "b_b_d_bagh_lal_dighi",
+    "name": "B.B.D. Bagh (Lal Dighi)",
+    "lat": 22.57189,
+    "lng": 88.348612,
+    "corridor": "B.B.D. Bagh North",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "tea_board_brabourne_road",
+    "name": "Tea Board / Brabourne Road",
+    "lat": 22.57762,
+    "lng": 88.34914,
+    "corridor": "Brabourne Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "burrabazar_canning_street",
+    "name": "Burrabazar / Canning Street",
+    "lat": 22.583115,
+    "lng": 88.34823,
+    "corridor": "Brabourne Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "howrah_long_route_bus_stand",
+    "name": "Howrah Long Route Bus Stand",
+    "lat": 22.58418,
+    "lng": 88.342915,
+    "corridor": "Station Road / Howrah Bridge West Ramp",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "joka_depot_and_terminus",
+    "name": "Joka Depot And Terminus",
+    "lat": 22.441154,
+    "lng": 88.30312,
+    "corridor": "Diamond Harbour Road (NH 12), Joka",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "thakurpukur_3a_bus_stand",
+    "name": "Thakurpukur 3A Bus Stand",
+    "lat": 22.464871,
+    "lng": 88.308742,
+    "corridor": "Diamond Harbour Road (NH 12)",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "shilpara",
+    "name": "Shilpara",
+    "lat": 22.476124,
+    "lng": 88.310651,
+    "corridor": "Diamond Harbour Road (NH 12), Barisha",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "sakher_bazar",
+    "name": "Sakher Bazar",
+    "lat": 22.48123,
+    "lng": 88.312185,
+    "corridor": "Diamond Harbour Road (NH 12), Behala",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "behala_chowrasta",
+    "name": "Behala Chowrasta",
+    "lat": 22.486842,
+    "lng": 88.31359,
+    "corridor": "Diamond Harbour Road (NH 12), Behala",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "behala_manton",
+    "name": "Behala Manton",
+    "lat": 22.492518,
+    "lng": 88.315622,
+    "corridor": "Diamond Harbour Road (NH 12), Behala",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "behala_tram_depot",
+    "name": "Behala Tram Depot",
+    "lat": 22.498842,
+    "lng": 88.318357,
+    "corridor": "Diamond Harbour Road (NH 12), Behala",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "behala_14_no",
+    "name": "Behala 14 No.",
+    "lat": 22.50619,
+    "lng": 88.320485,
+    "corridor": "Diamond Harbour Road (NH 12), Behala",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "taratala_crossing",
+    "name": "Taratala Crossing",
+    "lat": 22.51341,
+    "lng": 88.32189,
+    "corridor": "Diamond Harbour Road (NH 12), Taratala",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "majherhat_mint",
+    "name": "Majherhat / Mint",
+    "lat": 22.520845,
+    "lng": 88.323612,
+    "corridor": "Diamond Harbour Road, Majherhat",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "mominpore",
+    "name": "Mominpore",
+    "lat": 22.529815,
+    "lng": 88.325982,
+    "corridor": "Diamond Harbour Road, Mominpur",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "ekbalpur_crossing",
+    "name": "Ekbalpur Crossing",
+    "lat": 22.53512,
+    "lng": 88.327415,
+    "corridor": "Diamond Harbour Road, Ekbalpur",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "khidirpur_more_babubazar",
+    "name": "Khidirpur More / Babubazar",
+    "lat": 22.540825,
+    "lng": 88.32984,
+    "corridor": "Diamond Harbour Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "hastings_race_course",
+    "name": "Hastings / Race Course",
+    "lat": 22.546312,
+    "lng": 88.33465,
+    "corridor": "Casuarina Avenue / St. Georges Gate",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "p_t_s_police_training_school",
+    "name": "P.T.S. (Police Training School)",
+    "lat": 22.54148,
+    "lng": 88.33912,
+    "corridor": "AJC Bose Road, Race Course",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "rabindra_sadan_exide",
+    "name": "Rabindra Sadan / Exide",
+    "lat": 22.539824,
+    "lng": 88.344682,
+    "corridor": "AJC Bose Road / Ashutosh Mukherjee Rd",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "maidan_metro_planetarium",
+    "name": "Maidan Metro / Planetarium",
+    "lat": 22.546115,
+    "lng": 88.34789,
+    "corridor": "Jawaharlal Nehru Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "brabourne_road_canning_st",
+    "name": "Brabourne Road / Canning St",
+    "lat": 22.58124,
+    "lng": 88.34871,
+    "corridor": "Brabourne Road, Burrabazar",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "karunamoyee_bus_terminal_bidhannagar",
+    "name": "Karunamoyee Bus Terminal Bidhannagar",
+    "lat": 22.586714,
+    "lng": 88.419632,
+    "corridor": "Central Park / 7th Cross Rd, Salt Lake",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "central_park_bikash_bhawan",
+    "name": "Central Park / Bikash Bhawan",
+    "lat": 22.583152,
+    "lng": 88.41472,
+    "corridor": "7th Cross Road, Salt Lake",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "labony_gd_island",
+    "name": "Labony / GD Island",
+    "lat": 22.576824,
+    "lng": 88.41154,
+    "corridor": "Sector III Main Road, Salt Lake",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "salt_lake_stadium_gate_3",
+    "name": "Salt Lake Stadium (Gate 3)",
+    "lat": 22.569812,
+    "lng": 88.406815,
+    "corridor": "Broadway Road, Salt Lake",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "mathpukur_beliaghata_more",
+    "name": "Mathpukur / Beliaghata More",
+    "lat": 22.54412,
+    "lng": 88.397645,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "science_city_crossing",
+    "name": "Science City Crossing",
+    "lat": 22.539281,
+    "lng": 88.39651,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "topsia_vip_bazar",
+    "name": "Topsia VIP Bazar",
+    "lat": 22.52964,
+    "lng": 88.397825,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "ruby_general_hospital_crossing",
+    "name": "Ruby General Hospital Crossing",
+    "lat": 22.513271,
+    "lng": 88.402128,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "kalikapur_crossing",
+    "name": "Kalikapur Crossing",
+    "lat": 22.502845,
+    "lng": 88.400115,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "mukundapur_crossing",
+    "name": "Mukundapur Crossing",
+    "lat": 22.493218,
+    "lng": 88.39794,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "ajay_nagar_hiland_park",
+    "name": "Ajay Nagar / Hiland Park",
+    "lat": 22.483652,
+    "lng": 88.394812,
+    "corridor": "Eastern Metropolitan (EM) Bypass",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "peerless_hospital_crossing",
+    "name": "Peerless Hospital Crossing",
+    "lat": 22.47641,
+    "lng": 88.39265,
+    "corridor": "EM Bypass Connector / New Garia Link",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "dhalai_bridge",
+    "name": "Dhalai Bridge",
+    "lat": 22.468245,
+    "lng": 88.38871,
+    "corridor": "EM Bypass Extension / Patuli Link",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "kamalgazi_more",
+    "name": "Kamalgazi More",
+    "lat": 22.44183,
+    "lng": 88.38624,
+    "corridor": "NSC Bose Road / Baruipur Highway",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "narendrapur_rkm",
+    "name": "Narendrapur (RKM)",
+    "lat": 22.435124,
+    "lng": 88.38942,
+    "corridor": "NSC Bose Road, Narendrapur",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "rajpur_bazar",
+    "name": "Rajpur Bazar",
+    "lat": 22.41876,
+    "lng": 88.39865,
+    "corridor": "NSC Bose Road, Rajpur",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "harinavi_more",
+    "name": "Harinavi More",
+    "lat": 22.406325,
+    "lng": 88.40518,
+    "corridor": "NSC Bose Road, Harinavi",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "malancha_bazar",
+    "name": "Malancha Bazar",
+    "lat": 22.387915,
+    "lng": 88.41824,
+    "corridor": "Kulpi Road / Baruipur Road",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "padmapukur_baruipur",
+    "name": "Padmapukur (Baruipur)",
+    "lat": 22.37214,
+    "lng": 88.42851,
+    "corridor": "Kulpi Road, Baruipur",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "baruipur_rail_gate",
+    "name": "Baruipur Rail Gate",
+    "lat": 22.361845,
+    "lng": 88.43592,
+    "corridor": "Kulpi Road / Station Road",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "baruipur_bus_terminus",
+    "name": "Baruipur Bus Terminus",
+    "lat": 22.355642,
+    "lng": 88.439815,
+    "corridor": "Kulpi Road / Phooltala Main Road",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "santragachhi_bus_terminus",
+    "name": "Santragachhi Bus Terminus",
+    "lat": 22.58412,
+    "lng": 88.28315,
+    "corridor": "Kona Expressway (NH 12), Santragachi",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "garfa_crossing_kona_link",
+    "name": "Garfa Crossing / Kona Link",
+    "lat": 22.604218,
+    "lng": 88.291325,
+    "corridor": "Kona Expressway (NH 12)",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "nibra_salap_crossing",
+    "name": "Nibra / Salap Crossing",
+    "lat": 22.62145,
+    "lng": 88.284612,
+    "corridor": "Kona Expressway / NH 16 Junction",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "bally_halt_toll_plaza",
+    "name": "Bally Halt / Toll Plaza",
+    "lat": 22.65142,
+    "lng": 88.34185,
+    "corridor": "Belgharia Expressway (NH 12)",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "dunlop_crossing",
+    "name": "Dunlop Crossing",
+    "lat": 22.654812,
+    "lng": 88.373456,
+    "corridor": "Barrackpore Trunk (B.T.) Road (SH 1)",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "kamarhati_sagar_dutta_hospital",
+    "name": "Kamarhati / Sagar Dutta Hospital",
+    "lat": 22.67124,
+    "lng": 88.37682,
+    "corridor": "B.T. Road, Kamarhati",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "agarpara_crossing",
+    "name": "Agarpara Crossing",
+    "lat": 22.684152,
+    "lng": 88.37914,
+    "corridor": "B.T. Road, Agarpara",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "panihati_sodepur_traffic_more",
+    "name": "Panihati / Sodepur Traffic More",
+    "lat": 22.698514,
+    "lng": 88.380915,
+    "corridor": "B.T. Road, Sodepur",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "sukchar_more",
+    "name": "Sukchar More",
+    "lat": 22.71214,
+    "lng": 88.37862,
+    "corridor": "B.T. Road, Sukchar",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "khardah_priya_cinema_more",
+    "name": "Khardah / Priya Cinema More",
+    "lat": 22.72481,
+    "lng": 88.376115,
+    "corridor": "B.T. Road, Khardah",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "titagarh_bazar_crossing",
+    "name": "Titagarh Bazar Crossing",
+    "lat": 22.74125,
+    "lng": 88.37348,
+    "corridor": "B.T. Road, Titagarh",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "talpukur_crossing",
+    "name": "Talpukur Crossing",
+    "lat": 22.75612,
+    "lng": 88.36985,
+    "corridor": "B.T. Road, Barrackpore",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "chiria_more_barrackpore",
+    "name": "Chiria More (Barrackpore)",
+    "lat": 22.762415,
+    "lng": 88.36671,
+    "corridor": "B.T. Road / SN Banerjee Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "barrackpore_court_terminus",
+    "name": "Barrackpore Court Terminus",
+    "lat": 22.766124,
+    "lng": 88.362145,
+    "corridor": "Cantonment Road, Barrackpore",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "rajchandrapur_kalitala_terminus",
+    "name": "Rajchandrapur Kalitala Terminus",
+    "lat": 22.65814,
+    "lng": 88.33215,
+    "corridor": "Old Kolkata Road, Bally",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "bally_toll_plaza_nivedita_setu",
+    "name": "Bally Toll Plaza (Nivedita Setu)",
+    "lat": 22.652115,
+    "lng": 88.34458,
+    "corridor": "Belgharia Expressway (NH 12)",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "dakshineswar_more_expressway_ramp",
+    "name": "Dakshineswar More (Expressway Ramp)",
+    "lat": 22.657814,
+    "lng": 88.36142,
+    "corridor": "Belgharia Expressway Ramp",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "dunlop_toll_point_expressway",
+    "name": "Dunlop Toll Point / Expressway",
+    "lat": 22.65912,
+    "lng": 88.38461,
+    "corridor": "Belgharia Expressway (NH 12)",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "durganagar_crossing",
+    "name": "Durganagar Crossing",
+    "lat": 22.64895,
+    "lng": 88.41124,
+    "corridor": "Belgharia Expressway, Durganagar",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "airport_1_no_gate",
+    "name": "Airport 1 No. Gate",
+    "lat": 22.64412,
+    "lng": 88.434615,
+    "corridor": "VIP Road (Kazi Nazrul Islam Ave)",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "kaikhali_crossing",
+    "name": "Kaikhali Crossing",
+    "lat": 22.63184,
+    "lng": 88.43612,
+    "corridor": "VIP Road, Kaikhali",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "chinar_park",
+    "name": "Chinar Park",
+    "lat": 22.617415,
+    "lng": 88.448512,
+    "corridor": "Major Arterial Road (MAR), Rajarhat",
+    "alignment": "Southeastbound"
+  },
+  {
+    "id": "city_centre_2_new_town",
+    "name": "City Centre 2 (New Town)",
+    "lat": 22.61214,
+    "lng": 88.45521,
+    "corridor": "Major Arterial Road (MAR), Action Area II",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "akankha_more",
+    "name": "Akankha More",
+    "lat": 22.60412,
+    "lng": 88.45784,
+    "corridor": "Major Arterial Road (MAR), Action Area II",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "eco_park_gate_2",
+    "name": "Eco Park Gate 2",
+    "lat": 22.596815,
+    "lng": 88.458912,
+    "corridor": "Major Arterial Road (MAR), Action Area II",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "dlf_1_new_town_bus_stand",
+    "name": "DLF 1 / New Town Bus Stand",
+    "lat": 22.580124,
+    "lng": 88.452816,
+    "corridor": "Major Arterial Road (MAR), New Town",
+    "alignment": "Southwestbound"
+  },
+  {
+    "id": "patuli_floating_market_terminus",
+    "name": "Patuli Floating Market / Terminus",
+    "lat": 22.47214,
+    "lng": 88.38125,
+    "corridor": "EM Bypass Connector / Patuli Link",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "baghajatin_crossing_bazar",
+    "name": "Baghajatin Crossing / Bazar",
+    "lat": 22.482615,
+    "lng": 88.37184,
+    "corridor": "Raja Subodh Chandra Mallick Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "jadavpur_8b_bus_stand",
+    "name": "Jadavpur 8B Bus Stand",
+    "lat": 22.498412,
+    "lng": 88.36812,
+    "corridor": "Raja Subodh Chandra Mallick Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "jadavpur_thana",
+    "name": "Jadavpur Thana",
+    "lat": 22.50284,
+    "lng": 88.366915,
+    "corridor": "Raja Subodh Chandra Mallick Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "dhakuria_bridge_station",
+    "name": "Dhakuria Bridge / Station",
+    "lat": 22.51125,
+    "lng": 88.36481,
+    "corridor": "Gariahat Road, Dhakuria",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "golpark_crossing",
+    "name": "Golpark Crossing",
+    "lat": 22.51512,
+    "lng": 88.36395,
+    "corridor": "Gariahat Road, Golpark",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "gariahat_crossing",
+    "name": "Gariahat Crossing",
+    "lat": 22.518621,
+    "lng": 88.365314,
+    "corridor": "Rashbehari Avenue, Gariahat",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "deshapriya_park",
+    "name": "Deshapriya Park",
+    "lat": 22.51914,
+    "lng": 88.35462,
+    "corridor": "Rashbehari Avenue",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "kalighat_metro_rasbehari_crossing",
+    "name": "Kalighat Metro / Rasbehari Crossing",
+    "lat": 22.520412,
+    "lng": 88.345815,
+    "corridor": "Shyama Prasad Mukherjee Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "hazra_crossing_jatin_das_park",
+    "name": "Hazra Crossing (Jatin Das Park)",
+    "lat": 22.52684,
+    "lng": 88.34612,
+    "corridor": "Shyama Prasad Mukherjee Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "rabindra_sadan_exide_crossing",
+    "name": "Rabindra Sadan / Exide Crossing",
+    "lat": 22.539824,
+    "lng": 88.344682,
+    "corridor": "AJC Bose Road / Ashutosh Mukherjee Rd",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "vidyasagar_setu_toll_plaza",
+    "name": "Vidyasagar Setu Toll Plaza",
+    "lat": 22.55184,
+    "lng": 88.32461,
+    "corridor": "Vidyasagar Setu Toll Approach",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "mandirtala_nabanna",
+    "name": "Mandirtala (Nabanna)",
+    "lat": 22.558412,
+    "lng": 88.312845,
+    "corridor": "Kona Expressway / Setu Ramp",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "shibpur_tram_depot",
+    "name": "Shibpur Tram Depot",
+    "lat": 22.56512,
+    "lng": 88.31981,
+    "corridor": "Grand Trunk (G.T.) Road (South)",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "mullick_phatak",
+    "name": "Mullick Phatak",
+    "lat": 22.574615,
+    "lng": 88.32742,
+    "corridor": "Grand Trunk (G.T.) Road (South)",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "howrah_maidan",
+    "name": "Howrah Maidan",
+    "lat": 22.58014,
+    "lng": 88.332615,
+    "corridor": "Grand Trunk (G.T.) Road (South)",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "kamal_gazi_more_terminus",
+    "name": "Kamal Gazi More (Terminus)",
+    "lat": 22.44183,
+    "lng": 88.38624,
+    "corridor": "NSC Bose Road / EM Bypass Link",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "mahamayatala",
+    "name": "Mahamayatala",
+    "lat": 22.45142,
+    "lng": 88.383115,
+    "corridor": "NSC Bose Road, Garia",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "garia_no_6_bus_terminus",
+    "name": "Garia No. 6 Bus Terminus",
+    "lat": 22.463124,
+    "lng": 88.37941,
+    "corridor": "NSC Bose Road / Raja S.C. Mullick Rd",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "raja_s_c_mullick_road_garia_more",
+    "name": "Raja S.C. Mullick Road / Garia More",
+    "lat": 22.467812,
+    "lng": 88.37684,
+    "corridor": "Raja Subodh Chandra Mullick Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "ramgarh_ganguly_bagan",
+    "name": "Ramgarh / Ganguly Bagan",
+    "lat": 22.474512,
+    "lng": 88.373925,
+    "corridor": "Raja Subodh Chandra Mallick Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "baghajatin_crossing",
+    "name": "Baghajatin Crossing",
+    "lat": 22.482615,
+    "lng": 88.37184,
+    "corridor": "Raja Subodh Chandra Mallick Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "sulekha_crossing",
+    "name": "Sulekha Crossing",
+    "lat": 22.49124,
+    "lng": 88.369812,
+    "corridor": "Raja Subodh Chandra Mallick Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "jadavpur_8b_bus_terminus",
+    "name": "Jadavpur 8B Bus Terminus",
+    "lat": 22.498412,
+    "lng": 88.36812,
+    "corridor": "Raja Subodh Chandra Mallick Road",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "dhakuria_bridge",
+    "name": "Dhakuria Bridge",
+    "lat": 22.51125,
+    "lng": 88.36481,
+    "corridor": "Gariahat Road (South), Dhakuria",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "lansdowne_sarat_bose_road_crossing",
+    "name": "Lansdowne (Sarat Bose Road Crossing)",
+    "lat": 22.527415,
+    "lng": 88.350812,
+    "corridor": "Sarat Bose Road / Chakraberia",
+    "alignment": "Northbound"
+  },
+  {
+    "id": "lake_town_jaya_cinema_terminus",
+    "name": "Lake Town Jaya Cinema (Terminus)",
+    "lat": 22.60314,
+    "lng": 88.40045,
+    "corridor": "Lake Town Link Road / Block A",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "lake_town_vip_road_crossing",
+    "name": "Lake Town VIP Road Crossing",
+    "lat": 22.600812,
+    "lng": 88.402145,
+    "corridor": "VIP Road (Kazi Nazrul Islam Ave)",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "sreebhumi_bus_stop",
+    "name": "Sreebhumi Bus Stop",
+    "lat": 22.59624,
+    "lng": 88.39762,
+    "corridor": "VIP Road, Sreebhumi",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "ultadanga_hudco_bus_stop",
+    "name": "Ultadanga / HUDCO Bus Stop",
+    "lat": 22.593418,
+    "lng": 88.391264,
+    "corridor": "CIT Scheme VII M / Ultadanga Main Rd",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "gouribari_bagmari_crossing",
+    "name": "Gouribari / Bagmari Crossing",
+    "lat": 22.58985,
+    "lng": 88.38312,
+    "corridor": "Ultadanga Main Road / Gouribari",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "kankurgachi_crossing",
+    "name": "Kankurgachi Crossing",
+    "lat": 22.582145,
+    "lng": 88.38421,
+    "corridor": "Maniktala Main Road / CIT Road",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "maniktala_bazar",
+    "name": "Maniktala Bazar",
+    "lat": 22.58431,
+    "lng": 88.37425,
+    "corridor": "Vivekananda Road / APC Road Crossing",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "chaltabagan_hedua",
+    "name": "Chaltabagan / Hedua",
+    "lat": 22.58512,
+    "lng": 88.368415,
+    "corridor": "Vivekananda Road, Simla",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "girish_park_metro_crossing",
+    "name": "Girish Park Metro Crossing",
+    "lat": 22.586115,
+    "lng": 88.36014,
+    "corridor": "Chittaranjan (CR) Avenue",
+    "alignment": "Southbound"
+  },
+  {
+    "id": "mahatma_gandhi_road_crossing",
+    "name": "Mahatma Gandhi Road Crossing",
+    "lat": 22.58045,
+    "lng": 88.35824,
+    "corridor": "CR Avenue / MG Road Crossing",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "raja_katra_cotton_street",
+    "name": "Raja Katra / Cotton Street",
+    "lat": 22.58184,
+    "lng": 88.35312,
+    "corridor": "Mahatma Gandhi Road, Burrabazar",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "burrabazar_satyanarayan_park",
+    "name": "Burrabazar / Satyanarayan Park",
+    "lat": 22.583625,
+    "lng": 88.348612,
+    "corridor": "Kalakar Street / Brabourne Road Approach",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "howrah_bridge_east_strand_road",
+    "name": "Howrah Bridge East (Strand Road)",
+    "lat": 22.584812,
+    "lng": 88.34685,
+    "corridor": "Strand Road Approach, Burrabazar",
+    "alignment": "Westbound"
+  },
+  {
+    "id": "ultadanga_bus_terminal_hudco",
+    "name": "Ultadanga Bus Terminal / HUDCO",
+    "lat": 22.593418,
+    "lng": 88.391264,
+    "corridor": "CIT Scheme VII M / Ultadanga Main Rd",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "13_no_tank_bidhannagar_link",
+    "name": "13 No. Tank / Bidhannagar Link",
+    "lat": 22.59214,
+    "lng": 88.401825,
+    "corridor": "1st Avenue,  Salt Lake Block AA/AB",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "pnb_more_2_no_island",
+    "name": "PNB More / 2 No. Island",
+    "lat": 22.590812,
+    "lng": 88.40984,
+    "corridor": "1st Avenue,  Salt Lake Block BD",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "wipro_crossing",
+    "name": "Wipro Crossing",
+    "lat": 22.57621,
+    "lng": 88.428514,
+    "corridor": "Major Arterial Road, Sector V",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "mahisbathan_box_bridge",
+    "name": "Mahisbathan / Box Bridge",
+    "lat": 22.58241,
+    "lng": 88.44418,
+    "corridor": "Sector V – New Town Box Bridge Ramp",
+    "alignment": "Eastbound"
+  },
+  {
+    "id": "ecospace_bus_stop",
+    "name": "EcoSpace Bus Stop",
+    "lat": 22.58145,
+    "lng": 88.468912,
+    "corridor": "Major Arterial Road (MAR), Action Area II",
+    "alignment": "Southeastbound"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "key": "dlf-1-home-town",
+    "oldPath": 1446,
+    "newPath": 1446,
+    "oldRatio": 32.73,
+    "newRatio": 4.42,
+    "oldPoints": 33,
+    "newPoints": 33,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "home-town-narkel-bagan",
+    "oldPath": 3739,
+    "newPath": 3739,
+    "oldRatio": 7.79,
+    "newRatio": 4.72,
+    "oldPoints": 105,
+    "newPoints": 105,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "jadavpur-prince-a-saha-rd",
+    "oldPath": 2156,
+    "newPath": 384,
+    "oldRatio": 5.79,
+    "newRatio": 1.32,
+    "oldPoints": 88,
+    "newPoints": 25,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "bidhannagar-college-city-centre-1-bhavans",
+    "oldPath": 534,
+    "newPath": 534,
+    "oldRatio": 5.11,
+    "newRatio": 5.2,
+    "oldPoints": 17,
+    "newPoints": 17,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "sealdah-cannel-bridge",
+    "oldPath": 1411,
+    "newPath": 1411,
+    "oldRatio": 4.74,
+    "newRatio": 5.32,
+    "oldPoints": 51,
+    "newPoints": 51,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "moulali-sealdah",
+    "oldPath": 497,
+    "newPath": 408,
+    "oldRatio": 4.48,
+    "newRatio": 3.67,
+    "oldPoints": 30,
+    "newPoints": 11,
+    "action": "Knot Removed (Task 2)"
+  },
+  {
+    "key": "baguiati-tegharia",
+    "oldPath": 4673,
+    "newPath": 4673,
+    "oldRatio": 4.3,
+    "newRatio": 4.33,
+    "oldPoints": 172,
+    "newPoints": 172,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "airport-3-no-gate-airport-gate-no-1",
+    "oldPath": 8310,
+    "newPath": 8310,
+    "oldRatio": 3.87,
+    "newRatio": 3.8,
+    "oldPoints": 273,
+    "newPoints": 273,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "baguiati-kestopur",
+    "oldPath": 3412,
+    "newPath": 3412,
+    "oldRatio": 3.75,
+    "newRatio": 3.84,
+    "oldPoints": 110,
+    "newPoints": 110,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "college-more-technopolis",
+    "oldPath": 1793,
+    "newPath": 1793,
+    "oldRatio": 3.67,
+    "newRatio": 3.66,
+    "oldPoints": 85,
+    "newPoints": 85,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "halder-para-abestors-more",
+    "oldPath": 985,
+    "newPath": 985,
+    "oldRatio": 3.58,
+    "newRatio": 4.02,
+    "oldPoints": 23,
+    "newPoints": 23,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "tollygunge-metro-tollygunge-phari",
+    "oldPath": 1156,
+    "newPath": 1156,
+    "oldRatio": 3.38,
+    "newRatio": 3.46,
+    "oldPoints": 44,
+    "newPoints": 44,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "airport-durganagar",
+    "oldPath": 10616,
+    "newPath": 10616,
+    "oldRatio": 3.26,
+    "newRatio": 3.73,
+    "oldPoints": 411,
+    "newPoints": 411,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "nicco-park-sdf",
+    "oldPath": 5965,
+    "newPath": 5965,
+    "oldRatio": 3.23,
+    "newRatio": 3.73,
+    "oldPoints": 240,
+    "newPoints": 240,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "esplanade-mission-row-xing",
+    "oldPath": 1535,
+    "newPath": 1535,
+    "oldRatio": 3.12,
+    "newRatio": 3.07,
+    "oldPoints": 53,
+    "newPoints": 53,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "v-i-p-road-kaikhali",
+    "oldPath": 1795,
+    "newPath": 1795,
+    "oldRatio": 3.12,
+    "newRatio": 2.69,
+    "oldPoints": 61,
+    "newPoints": 61,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "elgin-road-p-t-s",
+    "oldPath": 414,
+    "newPath": 414,
+    "oldRatio": 3,
+    "newRatio": 3.34,
+    "oldPoints": 17,
+    "newPoints": 17,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "stand-road-howrah",
+    "oldPath": 2100,
+    "newPath": 2100,
+    "oldRatio": 2.97,
+    "newRatio": 2.31,
+    "oldPoints": 80,
+    "newPoints": 80,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "narkel-bagan-dlf-1",
+    "oldPath": 1273,
+    "newPath": 1273,
+    "oldRatio": 2.92,
+    "newRatio": 2.73,
+    "oldPoints": 71,
+    "newPoints": 71,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "dhalai-bridge-patuli",
+    "oldPath": 1676,
+    "newPath": 1676,
+    "oldRatio": 2.84,
+    "newRatio": 2.96,
+    "oldPoints": 63,
+    "newPoints": 63,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "dakshineswar-bally-ghat",
+    "oldPath": 4292,
+    "newPath": 4292,
+    "oldRatio": 2.78,
+    "newRatio": 2.78,
+    "oldPoints": 174,
+    "newPoints": 174,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "wipro-more-sdf",
+    "oldPath": 6252,
+    "newPath": 6252,
+    "oldRatio": 2.75,
+    "newRatio": 3.14,
+    "oldPoints": 243,
+    "newPoints": 243,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "moulali-sealdah-rajabazar-t-d",
+    "oldPath": 1714,
+    "newPath": 1714,
+    "oldRatio": 2.56,
+    "newRatio": 3,
+    "oldPoints": 49,
+    "newPoints": 49,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "sdf-technopolis",
+    "oldPath": 10927,
+    "newPath": 10927,
+    "oldRatio": 2.55,
+    "newRatio": 2.66,
+    "oldPoints": 350,
+    "newPoints": 350,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "howrah-bridge-south-howrah",
+    "oldPath": 1883,
+    "newPath": 1883,
+    "oldRatio": 2.54,
+    "newRatio": 2.08,
+    "oldPoints": 74,
+    "newPoints": 74,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "narkel-bagan-sapoorji",
+    "oldPath": 1837,
+    "newPath": 1837,
+    "oldRatio": 2.5,
+    "newRatio": 2.43,
+    "oldPoints": 119,
+    "newPoints": 119,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "chingrihata-beliaghata-main-road",
+    "oldPath": 1993,
+    "newPath": 1993,
+    "oldRatio": 2.49,
+    "newRatio": 2.38,
+    "oldPoints": 42,
+    "newPoints": 42,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "cancer-hospital-kabardanga",
+    "oldPath": 1910,
+    "newPath": 1910,
+    "oldRatio": 2.47,
+    "newRatio": 2.52,
+    "oldPoints": 115,
+    "newPoints": 115,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "airport-gate-no-1-durganagar",
+    "oldPath": 5231,
+    "newPath": 5231,
+    "oldRatio": 2.47,
+    "newRatio": 2.53,
+    "oldPoints": 209,
+    "newPoints": 209,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "chingrihata-nicco-park",
+    "oldPath": 5708,
+    "newPath": 6463,
+    "oldRatio": 2.44,
+    "newRatio": 1.81,
+    "oldPoints": 180,
+    "newPoints": 203,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "kaikhali-airport",
+    "oldPath": 7098,
+    "newPath": 7098,
+    "oldRatio": 2.4,
+    "newRatio": 2.69,
+    "oldPoints": 297,
+    "newPoints": 297,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "sealdha-moulali",
+    "oldPath": 937,
+    "newPath": 937,
+    "oldRatio": 2.36,
+    "newRatio": 2.37,
+    "oldPoints": 26,
+    "newPoints": 26,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "v-i-p-road-airport",
+    "oldPath": 7705,
+    "newPath": 7705,
+    "oldRatio": 2.34,
+    "newRatio": 2.43,
+    "oldPoints": 298,
+    "newPoints": 298,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "b-b-d-bag-stand-road",
+    "oldPath": 3096,
+    "newPath": 3096,
+    "oldRatio": 2.33,
+    "newRatio": 2.44,
+    "oldPoints": 71,
+    "newPoints": 71,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "esplanade-b-b-d-bag",
+    "oldPath": 1625,
+    "newPath": 1625,
+    "oldRatio": 2.28,
+    "newRatio": 2.24,
+    "oldPoints": 56,
+    "newPoints": 56,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "golpark-gariahat",
+    "oldPath": 602,
+    "newPath": 602,
+    "oldRatio": 2.27,
+    "newRatio": 2.37,
+    "oldPoints": 31,
+    "newPoints": 31,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "barrabazar-howrah",
+    "oldPath": 3281,
+    "newPath": 3281,
+    "oldRatio": 2.27,
+    "newRatio": 2.21,
+    "oldPoints": 85,
+    "newPoints": 85,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "manton-xing-behala-tram-depot",
+    "oldPath": 307,
+    "newPath": 307,
+    "oldRatio": 2.25,
+    "newRatio": 2.03,
+    "oldPoints": 28,
+    "newPoints": 28,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "city-centre-1-bhavans-karunamoyee",
+    "oldPath": 722,
+    "newPath": 1272,
+    "oldRatio": 2.25,
+    "newRatio": 1.38,
+    "oldPoints": 31,
+    "newPoints": 27,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "p-t-s-nabanna",
+    "oldPath": 9151,
+    "newPath": 9151,
+    "oldRatio": 2.23,
+    "newRatio": 2.39,
+    "oldPoints": 209,
+    "newPoints": 209,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "dakshineswar-vivekananda-bridge",
+    "oldPath": 7199,
+    "newPath": 7199,
+    "oldRatio": 2.23,
+    "newRatio": 2.38,
+    "oldPoints": 317,
+    "newPoints": 317,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "sdf-college-more",
+    "oldPath": 9660,
+    "newPath": 9660,
+    "oldRatio": 2.22,
+    "newRatio": 2.33,
+    "oldPoints": 326,
+    "newPoints": 326,
+    "action": "OSRM Refetched (Task 3)"
+  },
+  {
+    "key": "nicco-park-wipro-more",
+    "oldPath": 1659,
+    "newPath": 1659,
+    "oldRatio": 2.21,
+    "newRatio": 2.12,
+    "oldPoints": 51,
+    "newPoints": 51,
+    "action": "OSRM Refetched (Task 3)"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "Smart City Bus Tracker",
+  "description": "Mobile-first smart city bus tracking web app with live GPS simulation, QR stop detection, route recommendations, and high-contrast outdoor UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

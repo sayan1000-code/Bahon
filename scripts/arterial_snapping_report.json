@@ -1,0 +1,17 @@
+[
+  {
+    "routeNumber": "EB-12",
+    "routeId": "EB-12",
+    "stopCount": 10,
+    "origPoints": 956,
+    "newPoints": 767,
+    "origDistKm": 22.4,
+    "newDistKm": 19.17,
+    "distChangeKm": -3.23,
+    "distChangePercent": -14.4,
+    "origTurns": 23,
+    "newTurns": 9,
+    "turnsEliminated": 14,
+    "isSignificant": true
+  }
+]

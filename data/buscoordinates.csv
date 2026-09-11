@@ -1,0 +1,175 @@
+Bus Route Name,Stoppage Name,Road / Corridor Location,Road Alignment Direction,Latitude,Longitude,Full Route Duration (Avg Traffic)
+AC-12,Shapoorji Bus Terminus,Action Area III Main Road, New Town,Westbound,22.565812,88.498421,95 – 115 mins
+AC-12,Sukhobristi Gate 1,Action Area III Arterial Road,Westbound,22.567345,88.491280,95 – 115 mins
+AC-12,Unitech (Infospace),"Major Arterial Road (MAR), Action Area II",Northwestbound,22.576214,88.477651,95 – 115 mins
+AC-12,Narkelbagan (Biswa Bangla Gate),"Major Arterial Road (MAR), Action Area I",Southbound,22.584627,88.459341,95 – 115 mins
+AC-12,New Town Bus Stand (DLF 1),"Major Arterial Road (MAR), New Town",Southwestbound,22.580124,88.452816,95 – 115 mins
+AC-12,Technopolis Bus Stop,"Street No. 18 / Ring Road, Sector V",Southbound,22.580436,88.437295,95 – 115 mins
+AC-12,College More,"Major Arterial Road, Sector V",Westbound,22.573516,88.433465,95 – 115 mins
+AC-12,SDF Building,"GP Block, Sector V, Salt Lake",Westbound,22.571420,88.431248,95 – 115 mins
+AC-12,Swasthya Bhawan,"GN Block, Sector V",Westbound,22.571182,88.425310,95 – 115 mins
+AC-12,Nicco Park,"HM Block, Salt Lake Bypass",Southbound,22.568415,88.418723,95 – 115 mins
+AC-12,Sukanta Nagar,Salt Lake Bypass Connector,Southbound,22.561240,88.409852,95 – 115 mins
+AC-12,Chingrighata Crossing,Eastern Metropolitan (EM) Bypass,Southbound,22.555812,88.401249,95 – 115 mins
+AC-12,Metropolitan Crossing,Eastern Metropolitan (EM) Bypass,Southbound,22.548914,88.399580,95 – 115 mins
+AC-12,Beliaghata / Mathpukur,Eastern Metropolitan (EM) Bypass,Southbound,22.544120,88.397645,95 – 115 mins
+AC-12,Science City,J.B.S. Haldane Avenue,Westbound,22.539281,88.393412,95 – 115 mins
+AC-12,Topsia Crossing,Park Circus Connector,Westbound,22.539650,88.384210,95 – 115 mins
+AC-12,Bridge No. 4,Park Circus Connector,Westbound,22.539912,88.374630,95 – 115 mins
+AC-12,Park Circus 7-Point,Shakespeare Sarani / Suhrawardy Ave,Westbound,22.543265,88.365418,95 – 115 mins
+AC-12,Beck Bagan (Quest Mall),Syed Amir Ali Avenue,Westbound,22.539871,88.361240,95 – 115 mins
+AC-12,Minto Park (Kalamandir),"AJC Bose Road, Elgin",Westbound,22.541315,88.355124,95 – 115 mins
+AC-12,Exide Crossing (Rabindra Sadan),AJC Bose Road / Ashutosh Mukherjee Rd,Westbound,22.539824,88.344682,95 – 115 mins
+AC-12,Birla Planetarium / Maidan,Cathedral Road / Jawaharlal Nehru Rd,Northbound,22.546115,88.347890,95 – 115 mins
+AC-12,Park Street Crossing,Jawaharlal Nehru Road,Northbound,22.552840,88.351210,95 – 115 mins
+AC-12,Esplanade / Dorina Crossing,Chowringhee Road,Northbound,22.564735,88.351420,95 – 115 mins
+AC-12,B.B.D. Bagh (Lal Dighi),B.B.D. Bagh North,Northbound,22.571890,88.348612,95 – 115 mins
+AC-12,Tea Board / Brabourne Road,Brabourne Road,Northbound,22.577620,88.349140,95 – 115 mins
+AC-12,Burrabazar / Canning Street,Brabourne Road,Northbound,22.583115,88.348230,95 – 115 mins
+AC-12,Howrah Long Route Bus Stand,Station Road / Howrah Bridge Approach,Westbound,22.584180,88.342915,95 – 115 mins
+AC-12D,Joka Depot And Terminus,"Diamond Harbour Road (NH 12), Joka",Northbound,22.441154,88.303120,80 – 100 mins
+AC-12D,Thakurpukur 3A Bus Stand,Diamond Harbour Road (NH 12),Northbound,22.464871,88.308742,80 – 100 mins
+AC-12D,Shilpara,"Diamond Harbour Road (NH 12), Barisha",Northbound,22.476124,88.310651,80 – 100 mins
+AC-12D,Sakher Bazar,"Diamond Harbour Road (NH 12), Behala",Northbound,22.481230,88.312185,80 – 100 mins
+AC-12D,Behala Chowrasta,"Diamond Harbour Road (NH 12), Behala",Northbound,22.486842,88.313590,80 – 100 mins
+AC-12D,Behala Manton,"Diamond Harbour Road (NH 12), Behala",Northbound,22.492518,88.315622,80 – 100 mins
+AC-12D,Behala Tram Depot,"Diamond Harbour Road (NH 12), Behala",Northbound,22.498842,88.318357,80 – 100 mins
+AC-12D,Behala 14 No.,"Diamond Harbour Road (NH 12), Behala",Northbound,22.506190,88.320485,80 – 100 mins
+AC-12D,Taratala Crossing,"Diamond Harbour Road (NH 12), Taratala",Northbound,22.513410,88.321890,80 – 100 mins
+AC-12D,Majherhat / Mint,"Diamond Harbour Road, Majherhat",Northbound,22.520845,88.323612,80 – 100 mins
+AC-12D,Mominpore,"Diamond Harbour Road, Mominpur",Northbound,22.529815,88.325982,80 – 100 mins
+AC-12D,Ekbalpur Crossing,"Diamond Harbour Road, Ekbalpur",Northbound,22.535120,88.327415,80 – 100 mins
+AC-12D,Khidirpur More / Babubazar,Diamond Harbour Road,Northbound,22.540825,88.329840,80 – 100 mins
+AC-12D,Hastings / Race Course,Casuarina Avenue / St. Georges Gate,Northbound,22.546312,88.334650,80 – 100 mins
+AC-12D,P.T.S. (Police Training School),"AJC Bose Road, Race Course",Eastbound,22.541480,88.339120,80 – 100 mins
+AC-12D,Rabindra Sadan / Exide,AJC Bose Road / Ashutosh Mukherjee Rd,Eastbound,22.539824,88.344682,80 – 100 mins
+AC-12D,Maidan Metro / Planetarium,Jawaharlal Nehru Road,Northbound,22.546115,88.347890,80 – 100 mins
+AC-12D,Park Street Crossing,Jawaharlal Nehru Road,Northbound,22.552840,88.351210,80 – 100 mins
+AC-12D,Esplanade / Dorina Crossing,Chowringhee Road,Northbound,22.564735,88.351420,80 – 100 mins
+AC-12D,B.B.D. Bagh (Lal Dighi),B.B.D. Bagh North,Northbound,22.571890,88.348612,80 – 100 mins
+AC-12D,Brabourne Road / Canning St,"Brabourne Road, Burrabazar",Northbound,22.581240,88.348710,80 – 100 mins
+AC-12D,Howrah Long Route Bus Stand,Station Road / Howrah Bridge Approach,Westbound,22.584180,88.342915,80 – 100 mins
+AC-14,Karunamoyee Bus Terminal Bidhannagar,"Central Park / 7th Cross Road, Salt Lake",Southbound,22.586714,88.419632,110 – 130 mins
+AC-14,Central Park / Bikash Bhawan,7th Cross Road / Broadway Connector,Southbound,22.583152,88.414720,110 – 130 mins
+AC-14,Labony / GD Island,"Sector III Main Road, Salt Lake",Southbound,22.576824,88.411540,110 – 130 mins
+AC-14,Salt Lake Stadium (Gate 3),"Broadway Road, Salt Lake",Southbound,22.569812,88.406815,110 – 130 mins
+AC-14,Chingrighata Crossing,Eastern Metropolitan (EM) Bypass,Southbound,22.555812,88.401249,110 – 130 mins
+AC-14,Metropolitan Crossing,Eastern Metropolitan (EM) Bypass,Southbound,22.548914,88.399580,110 – 130 mins
+AC-14,Mathpukur / Beliaghata More,Eastern Metropolitan (EM) Bypass,Southbound,22.544120,88.397645,110 – 130 mins
+AC-14,Science City Crossing,Eastern Metropolitan (EM) Bypass,Southbound,22.539281,88.396510,110 – 130 mins
+AC-14,Topsia VIP Bazar,Eastern Metropolitan (EM) Bypass,Southbound,22.529640,88.397825,110 – 130 mins
+AC-14,Ruby General Hospital Crossing,Eastern Metropolitan (EM) Bypass,Southbound,22.513271,88.402128,110 – 130 mins
+AC-14,Kalikapur Crossing,Eastern Metropolitan (EM) Bypass,Southbound,22.502845,88.400115,110 – 130 mins
+AC-14,Mukundapur Crossing,Eastern Metropolitan (EM) Bypass,Southbound,22.493218,88.397940,110 – 130 mins
+AC-14,Ajay Nagar / Hiland Park,Eastern Metropolitan (EM) Bypass,Southbound,22.483652,88.394812,110 – 130 mins
+AC-14,Peerless Hospital Crossing,EM Bypass Connector / New Garia Link,Southbound,22.476410,88.392650,110 – 130 mins
+AC-14,Dhalai Bridge,EM Bypass Extension / Patuli Link,Southbound,22.468245,88.388710,110 – 130 mins
+AC-14,Kamalgazi More,NSC Bose Road / Baruipur Highway,Southbound,22.441830,88.386240,110 – 130 mins
+AC-14,Narendrapur (RKM),"NSC Bose Road, Narendrapur",Southbound,22.435124,88.389420,110 – 130 mins
+AC-14,Rajpur Bazar,"NSC Bose Road, Rajpur",Southbound,22.418760,88.398650,110 – 130 mins
+AC-14,Harinavi More,"NSC Bose Road, Harinavi",Southbound,22.406325,88.405180,110 – 130 mins
+AC-14,Malancha Bazar,Kulpi Road / Baruipur Road,Southbound,22.387915,88.418240,110 – 130 mins
+AC-14,Padmapukur (Baruipur),"Kulpi Road, Baruipur",Southbound,22.372140,88.428510,110 – 130 mins
+AC-14,Baruipur Rail Gate,Kulpi Road / Station Road,Southbound,22.361845,88.435920,110 – 130 mins
+AC-14,Baruipur Bus Terminus,Kulpi Road / Phooltala Main Road,Southbound,22.355642,88.439815,110 – 130 mins
+AC-20,Santragachhi Bus Terminus,"Kona Expressway (NH 12), Santragachi",Northbound,22.584120,88.283150,120 – 145 mins
+AC-20,Garfa Crossing / Kona Link,Kona Expressway (NH 12),Northbound,22.604218,88.291325,120 – 145 mins
+AC-20,Nibra / Salap Crossing,Kona Expressway / NH 16 Junction,Northbound,22.621450,88.284612,120 – 145 mins
+AC-20,Bally Halt / Toll Plaza,Belgharia Expressway (NH 12),Eastbound,22.651420,88.341850,120 – 145 mins
+AC-20,Dunlop Crossing,Barrackpore Trunk (B.T.) Road (SH 1),Northbound,22.654812,88.373456,120 – 145 mins
+AC-20,Kamarhati / Sagar Dutta Hospital,"B.T. Road, Kamarhati",Northbound,22.671240,88.376820,120 – 145 mins
+AC-20,Agarpara Crossing,"B.T. Road, Agarpara",Northbound,22.684152,88.379140,120 – 145 mins
+AC-20,Panihati / Sodepur Traffic More,"B.T. Road, Sodepur",Northbound,22.698514,88.380915,120 – 145 mins
+AC-20,Sukchar More,"B.T. Road, Sukchar",Northbound,22.712140,88.378620,120 – 145 mins
+AC-20,Khardah / Priya Cinema More,"B.T. Road, Khardah",Northbound,22.724810,88.376115,120 – 145 mins
+AC-20,Titagarh Bazar Crossing,"B.T. Road, Titagarh",Northbound,22.741250,88.373480,120 – 145 mins
+AC-20,Talpukur Crossing,"B.T. Road, Barrackpore",Northbound,22.756120,88.369850,120 – 145 mins
+AC-20,Chiria More (Barrackpore),B.T. Road / SN Banerjee Road,Northbound,22.762415,88.366710,120 – 145 mins
+AC-20,Barrackpore Court Terminus,"Cantonment Road, Barrackpore",Northbound,22.766124,88.362145,120 – 145 mins
+AC-23A,Rajchandrapur Kalitala Terminus,"Old Kolkata Road, Bally",Eastbound,22.658140,88.332150,90 – 110 mins
+AC-23A,Bally Toll Plaza (Nivedita Setu),Belgharia Expressway (NH 12),Eastbound,22.652115,88.344580,90 – 110 mins
+AC-23A,Dakshineswar More (Expressway Ramp),Belgharia Expressway Ramp,Eastbound,22.657814,88.361420,90 – 110 mins
+AC-23A,Dunlop Toll Point / Expressway,Belgharia Expressway (NH 12),Eastbound,22.659120,88.384610,90 – 110 mins
+AC-23A,Durganagar Crossing,"Belgharia Expressway, Durganagar",Eastbound,22.648950,88.411240,90 – 110 mins
+AC-23A,Airport 1 No. Gate,VIP Road (Kazi Nazrul Islam Ave),Southbound,22.644120,88.434615,90 – 110 mins
+AC-23A,Kaikhali Crossing,"VIP Road, Kaikhali",Southbound,22.631840,88.436120,90 – 110 mins
+AC-23A,Chinar Park,"Major Arterial Road (MAR), Rajarhat",Southeastbound,22.617415,88.448512,90 – 110 mins
+AC-23A,City Centre 2 (New Town),"Major Arterial Road (MAR), Action Area II",Southbound,22.612140,88.455210,90 – 110 mins
+AC-23A,Akankha More,"Major Arterial Road (MAR), Action Area II",Southbound,22.604120,88.457840,90 – 110 mins
+AC-23A,Eco Park Gate 2,"Major Arterial Road (MAR), Action Area II",Southbound,22.596815,88.458912,90 – 110 mins
+AC-23A,Narkelbagan / Biswa Bangla Gate,"Major Arterial Road (MAR), Action Area I",Southbound,22.584627,88.459341,90 – 110 mins
+AC-23A,DLF 1 / New Town Bus Stand,"Major Arterial Road (MAR), New Town",Southwestbound,22.580124,88.452816,90 – 110 mins
+AC-23A,Technopolis Bus Stop,"Street No. 18 / Ring Road, Sector V",Southbound,22.580436,88.437295,90 – 110 mins
+AC-23A,College More,"Major Arterial Road, Sector V",Westbound,22.573516,88.433465,90 – 110 mins
+AC-23A,Central Park / Bikash Bhawan,"7th Cross Road, Salt Lake",Northbound,22.583152,88.414720,90 – 110 mins
+AC-23A,Karunamoyee Bus Terminal Bidhannagar,"Central Park / 7th Cross Rd, Salt Lake",Northbound,22.586714,88.419632,90 – 110 mins
+AC-24,Patuli Floating Market / Terminus,EM Bypass Connector / Patuli Link,Westbound,22.472140,88.381250,85 – 105 mins
+AC-24,Baghajatin Crossing / Bazar,Raja Subodh Chandra Mallick Road,Northbound,22.482615,88.371840,85 – 105 mins
+AC-24,Jadavpur 8B Bus Stand,Raja Subodh Chandra Mallick Road,Northbound,22.498412,88.368120,85 – 105 mins
+AC-24,Jadavpur Thana,Raja Subodh Chandra Mallick Road,Northbound,22.502840,88.366915,85 – 105 mins
+AC-24,Dhakuria Bridge / Station,"Gariahat Road, Dhakuria",Northbound,22.511250,88.364810,85 – 105 mins
+AC-24,Golpark Crossing,"Gariahat Road, Golpark",Northbound,22.515120,88.363950,85 – 105 mins
+AC-24,Gariahat Crossing,"Rashbehari Avenue, Gariahat",Westbound,22.518621,88.365314,85 – 105 mins
+AC-24,Deshapriya Park,"Rashbehari Avenue, Kalighat",Westbound,22.519140,88.354620,85 – 105 mins
+AC-24,Kalighat Metro / Rasbehari Crossing,Shyama Prasad Mukherjee Road,Northbound,22.520412,88.345815,85 – 105 mins
+AC-24,Hazra Crossing (Jatin Das Park),Shyama Prasad Mukherjee Road,Northbound,22.526840,88.346120,85 – 105 mins
+AC-24,Rabindra Sadan / Exide Crossing,Ashutosh Mukherjee Road / AJC Bose Rd,Northbound,22.539824,88.344682,85 – 105 mins
+AC-24,P.T.S. (Police Training School),Acharya Jagadish Chandra (AJC) Bose Road,Westbound,22.541480,88.339120,85 – 105 mins
+AC-24,Vidyasagar Setu Toll Plaza,Vidyasagar Setu Toll Plaza Approach,Westbound,22.551840,88.324610,85 – 105 mins
+AC-24,Mandirtala (Nabanna),Kona Expressway / Vidyasagar Setu Ramp,Westbound,22.558412,88.312845,85 – 105 mins
+AC-24,Shibpur Tram Depot,Grand Trunk (G.T.) Road (South),Northbound,22.565120,88.319810,85 – 105 mins
+AC-24,Mullick Phatak,"Grand Trunk (G.T.) Road (South), Howrah",Northbound,22.574615,88.327420,85 – 105 mins
+AC-24,Howrah Maidan,Grand Trunk (G.T.) Road (South),Northbound,22.580140,88.332615,85 – 105 mins
+AC-24,Howrah Long Route Bus Stand,Station Road / Howrah Bridge Approach,Northbound,22.584180,88.342915,85 – 105 mins
+AC-24A,Kamal Gazi More (Terminus),NSC Bose Road / EM Bypass Link,Northbound,22.441830,88.386240,95 – 120 mins
+AC-24A,Mahamayatala,"NSC Bose Road, Garia",Northbound,22.451420,88.383115,95 – 120 mins
+AC-24A,Garia No. 6 Bus Terminus,NSC Bose Road / Raja S.C. Mullick Rd,Northbound,22.463124,88.379410,95 – 120 mins
+AC-24A,Raja S.C. Mullick Road / Garia More,Raja Subodh Chandra Mullick Road,Northbound,22.467812,88.376840,95 – 120 mins
+AC-24A,Ramgarh / Ganguly Bagan,Raja Subodh Chandra Mallick Road,Northbound,22.474512,88.373925,95 – 120 mins
+AC-24A,Baghajatin Crossing,Raja Subodh Chandra Mallick Road,Northbound,22.482615,88.371840,95 – 120 mins
+AC-24A,Sulekha Crossing,Raja Subodh Chandra Mallick Road,Northbound,22.491240,88.369812,95 – 120 mins
+AC-24A,Jadavpur 8B Bus Terminus,Raja Subodh Chandra Mallick Road,Northbound,22.498412,88.368120,95 – 120 mins
+AC-24A,Jadavpur Thana,Raja Subodh Chandra Mallick Road,Northbound,22.502840,88.366915,95 – 120 mins
+AC-24A,Dhakuria Bridge,"Gariahat Road (South), Dhakuria",Northbound,22.511250,88.364810,95 – 120 mins
+AC-24A,Golpark Crossing,"Gariahat Road, Golpark",Northbound,22.515120,88.363950,95 – 120 mins
+AC-24A,Gariahat Crossing,"Rashbehari Avenue, Gariahat",Westbound,22.518621,88.365314,95 – 120 mins
+AC-24A,Deshapriya Park,Rashbehari Avenue,Westbound,22.519140,88.354620,95 – 120 mins
+AC-24A,Lansdowne (Sarat Bose Road Crossing),Sarat Bose Road / Chakraberia,Northbound,22.527415,88.350812,95 – 120 mins
+AC-24A,Minto Park / Kalamandir,"AJC Bose Road, Elgin",Westbound,22.541315,88.355124,95 – 120 mins
+AC-24A,Rabindra Sadan / Exide Crossing,AJC Bose Road / Ashutosh Mukherjee Rd,Westbound,22.539824,88.344682,95 – 120 mins
+AC-24A,P.T.S. (Police Training School),"AJC Bose Road, Race Course",Westbound,22.541480,88.339120,95 – 120 mins
+AC-24A,Vidyasagar Setu Toll Plaza,Vidyasagar Setu Toll Approach,Westbound,22.551840,88.324610,95 – 120 mins
+AC-24A,Mandirtala (Nabanna),Kona Expressway / Setu Ramp,Westbound,22.558412,88.312845,95 – 120 mins
+AC-24A,Shibpur Tram Depot,Grand Trunk (G.T.) Road (South),Northbound,22.565120,88.319810,95 – 120 mins
+AC-24A,Mullick Phatak,Grand Trunk (G.T.) Road (South),Northbound,22.574615,88.327420,95 – 120 mins
+AC-24A,Howrah Maidan,Grand Trunk (G.T.) Road (South),Northbound,22.580140,88.332615,95 – 120 mins
+AC-24A,Howrah Long Route Bus Stand,Station Road / Howrah Bridge Approach,Northbound,22.584180,88.342915,95 – 120 mins
+AC-30,Lake Town Jaya Cinema (Terminus),Lake Town Link Road / Block A,Southbound,22.603140,88.400450,55 – 70 mins
+AC-30,Lake Town VIP Road Crossing,VIP Road (Kazi Nazrul Islam Ave),Southbound,22.600812,88.402145,55 – 70 mins
+AC-30,Sreebhumi Bus Stop,"VIP Road, Sreebhumi",Southbound,22.596240,88.397620,55 – 70 mins
+AC-30,Ultadanga / HUDCO Bus Stop,CIT Scheme VII M / Ultadanga Main Rd,Westbound,22.593418,88.391264,55 – 70 mins
+AC-30,Gouribari / Bagmari Crossing,Ultadanga Main Road / Gouribari,Westbound,22.589850,88.383120,55 – 70 mins
+AC-30,Kankurgachi Crossing,Maniktala Main Road / CIT Road,Westbound,22.582145,88.384210,55 – 70 mins
+AC-30,Maniktala Bazar,Vivekananda Road / APC Road Crossing,Westbound,22.584310,88.374250,55 – 70 mins
+AC-30,Chaltabagan / Hedua,"Vivekananda Road, Simla",Westbound,22.585120,88.368415,55 – 70 mins
+AC-30,Girish Park Metro Crossing,Chittaranjan (CR) Avenue,Southbound,22.586115,88.360140,55 – 70 mins
+AC-30,Mahatma Gandhi Road Crossing,CR Avenue / MG Road Crossing,Westbound,22.580450,88.358240,55 – 70 mins
+AC-30,Raja Katra / Cotton Street,"Mahatma Gandhi Road, Burrabazar",Westbound,22.581840,88.353120,55 – 70 mins
+AC-30,Burrabazar / Satyanarayan Park,Kalakar Street / Brabourne Road Approach,Westbound,22.583625,88.348612,55 – 70 mins
+AC-30,Howrah Bridge East (Strand Road),"Strand Road Approach, Burrabazar",Westbound,22.584812,88.346850,55 – 70 mins
+AC-30,Howrah Long Route Bus Stand,Station Road / Howrah Bridge West Ramp,Westbound,22.584180,88.342915,55 – 70 mins
+AC-30S (IT Spl.),Ultadanga Bus Terminal / HUDCO,CIT Scheme VII M / Ultadanga Main Rd,Eastbound,22.593418,88.391264,60 – 80 mins
+AC-30S (IT Spl.),13 No. Tank / Bidhannagar Link,1st Avenue, Salt Lake Block AA/AB,Eastbound,22.592140,88.401825,60 – 80 mins
+AC-30S (IT Spl.),PNB More / 2 No. Island,1st Avenue, Salt Lake Block BD,Eastbound,22.590812,88.409840,60 – 80 mins
+AC-30S (IT Spl.),Central Park / Bikash Bhawan,"7th Cross Road, Salt Lake",Southbound,22.583152,88.414720,60 – 80 mins
+AC-30S (IT Spl.),Karunamoyee Bus Terminal Bidhannagar,"Central Park / 7th Cross Rd, Salt Lake",Southbound,22.586714,88.419632,60 – 80 mins
+AC-30S (IT Spl.),Wipro Crossing,"Major Arterial Road, Sector V",Eastbound,22.576210,88.428514,60 – 80 mins
+AC-30S (IT Spl.),College More,"Major Arterial Road, Sector V",Eastbound,22.573516,88.433465,60 – 80 mins
+AC-30S (IT Spl.),Technopolis Bus Stop,"Street Number 18 / Ring Road, Sector V",Eastbound,22.580436,88.437295,60 – 80 mins
+AC-30S (IT Spl.),Mahisbathan / Box Bridge,Sector V – New Town Box Bridge Ramp,Eastbound,22.582410,88.444180,60 – 80 mins
+AC-30S (IT Spl.),New Town Bus Stand (DLF 1),"Major Arterial Road (MAR), Action Area I",Northeastbound,22.580124,88.452816,60 – 80 mins
+AC-30S (IT Spl.),Narkelbagan (Biswa Bangla Gate),"Major Arterial Road (MAR), Action Area I",Eastbound,22.584627,88.459341,60 – 80 mins
+AC-30S (IT Spl.),EcoSpace Bus Stop,"Major Arterial Road (MAR), Action Area II",Southeastbound,22.581450,88.468912,60 – 80 mins
+AC-30S (IT Spl.),Unitech (Infospace),"Major Arterial Road (MAR), Action Area II",Southeastbound,22.576214,88.477651,60 – 80 mins
+AC-30S (IT Spl.),Sukhobristi Gate 1,Action Area III Arterial Road,Eastbound,22.567345,88.491280,60 – 80 mins
+AC-30S (IT Spl.),Shapoorji Bus Terminus,"Action Area III Main Road, New Town",Eastbound,22.565812,88.498421,60 – 80 mins

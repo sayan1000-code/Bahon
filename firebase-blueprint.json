@@ -1,0 +1,80 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string", "maxLength": 128 },
+        "email": { "type": "string", "maxLength": 256 },
+        "displayName": { "type": "string", "maxLength": 128 },
+        "createdAt": { "type": "string", "maxLength": 64 },
+        "updatedAt": { "type": "string", "maxLength": 64 }
+      },
+      "required": ["userId", "email"]
+    },
+    "FavoriteStop": {
+      "title": "FavoriteStop",
+      "description": "User saved favorite bus stops",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "userId": { "type": "string", "maxLength": 128 },
+        "stopId": { "type": "string", "maxLength": 64 },
+        "stopName": { "type": "string", "maxLength": 128 },
+        "savedAt": { "type": "string", "maxLength": 64 }
+      },
+      "required": ["id", "userId", "stopId", "stopName"]
+    },
+    "SavedRoute": {
+      "title": "SavedRoute",
+      "description": "User saved transit routes and commute pairs",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "userId": { "type": "string", "maxLength": 128 },
+        "fromStopId": { "type": "string", "maxLength": 64 },
+        "toStopId": { "type": "string", "maxLength": 64 },
+        "fromStopName": { "type": "string", "maxLength": 128 },
+        "toStopName": { "type": "string", "maxLength": 128 },
+        "routeNumber": { "type": "string", "maxLength": 32 },
+        "savedAt": { "type": "string", "maxLength": 64 }
+      },
+      "required": ["id", "userId", "fromStopId", "toStopId", "routeNumber"]
+    },
+    "TransitAlert": {
+      "title": "TransitAlert",
+      "description": "Crowdsourced transit reports or commuter delay updates",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "maxLength": 128 },
+        "userId": { "type": "string", "maxLength": 128 },
+        "userName": { "type": "string", "maxLength": 128 },
+        "stopId": { "type": "string", "maxLength": 64 },
+        "routeNumber": { "type": "string", "maxLength": 32 },
+        "message": { "type": "string", "maxLength": 500 },
+        "severity": { "type": "string", "enum": ["low", "medium", "high"] },
+        "createdAt": { "type": "string", "maxLength": 64 }
+      },
+      "required": ["id", "userId", "stopId", "routeNumber", "message", "severity"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "UserProfile",
+      "description": "User profile document"
+    },
+    "/users/{userId}/favorites/{favoriteId}": {
+      "schema": "FavoriteStop",
+      "description": "User bookmarked stops"
+    },
+    "/users/{userId}/savedRoutes/{savedRouteId}": {
+      "schema": "SavedRoute",
+      "description": "User bookmarked travel routes"
+    },
+    "/alerts/{alertId}": {
+      "schema": "TransitAlert",
+      "description": "Real-time commuter alerts"
+    }
+  }
+}

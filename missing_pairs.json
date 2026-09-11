@@ -1,0 +1,1055 @@
+[
+  {
+    "key": "khanna-hatibagan",
+    "from": "khanna",
+    "to": "hatibagan",
+    "fromCoord": {
+      "lat": 22.588,
+      "lng": 88.376
+    },
+    "toCoord": {
+      "lat": 22.594957,
+      "lng": 88.370928
+    }
+  },
+  {
+    "key": "hatibagan-khanna",
+    "from": "hatibagan",
+    "to": "khanna",
+    "fromCoord": {
+      "lat": 22.594957,
+      "lng": 88.370928
+    },
+    "toCoord": {
+      "lat": 22.588,
+      "lng": 88.376
+    }
+  },
+  {
+    "key": "howrah-howrah-bridge",
+    "from": "howrah",
+    "to": "howrah",
+    "fromCoord": {
+      "lat": 22.5857,
+      "lng": 88.342583
+    },
+    "toCoord": {
+      "lat": 22.5857,
+      "lng": 88.342583
+    }
+  },
+  {
+    "key": "paikpara-shyambazar",
+    "from": "paikpara",
+    "to": "shyambazar",
+    "fromCoord": {
+      "lat": 22.612051,
+      "lng": 88.385565
+    },
+    "toCoord": {
+      "lat": 22.5975,
+      "lng": 88.3745
+    }
+  },
+  {
+    "key": "shyambazar-paikpara",
+    "from": "shyambazar",
+    "to": "paikpara",
+    "fromCoord": {
+      "lat": 22.5975,
+      "lng": 88.3745
+    },
+    "toCoord": {
+      "lat": 22.612051,
+      "lng": 88.385565
+    }
+  },
+  {
+    "key": "maniktala-sealdah",
+    "from": "maniktala",
+    "to": "sealdah",
+    "fromCoord": {
+      "lat": 22.578002,
+      "lng": 88.380001
+    },
+    "toCoord": {
+      "lat": 22.568,
+      "lng": 88.371
+    }
+  },
+  {
+    "key": "sealdah-maniktala",
+    "from": "sealdah",
+    "to": "maniktala",
+    "fromCoord": {
+      "lat": 22.568,
+      "lng": 88.371
+    },
+    "toCoord": {
+      "lat": 22.578002,
+      "lng": 88.380001
+    }
+  },
+  {
+    "key": "moulali-padmapukur",
+    "from": "moulali",
+    "to": "padmapukur",
+    "fromCoord": {
+      "lat": 22.565,
+      "lng": 88.369
+    },
+    "toCoord": {
+      "lat": 22.531543,
+      "lng": 88.352457
+    }
+  },
+  {
+    "key": "padmapukur-moulali",
+    "from": "padmapukur",
+    "to": "moulali",
+    "fromCoord": {
+      "lat": 22.531543,
+      "lng": 88.352457
+    },
+    "toCoord": {
+      "lat": 22.565,
+      "lng": 88.369
+    }
+  },
+  {
+    "key": "sarsuna-bakultala",
+    "from": "sarsuna",
+    "to": "bakultala",
+    "fromCoord": {
+      "lat": 22.480999,
+      "lng": 88.284838
+    },
+    "toCoord": {
+      "lat": 22.484018,
+      "lng": 88.302391
+    }
+  },
+  {
+    "key": "bakultala-sarsuna",
+    "from": "bakultala",
+    "to": "sarsuna",
+    "fromCoord": {
+      "lat": 22.484018,
+      "lng": 88.302391
+    },
+    "toCoord": {
+      "lat": 22.480999,
+      "lng": 88.284838
+    }
+  },
+  {
+    "key": "bakultala-behala-chowrasta",
+    "from": "bakultala",
+    "to": "behala",
+    "fromCoord": {
+      "lat": 22.484018,
+      "lng": 88.302391
+    },
+    "toCoord": {
+      "lat": 22.5,
+      "lng": 88.313
+    }
+  },
+  {
+    "key": "shyambazar-maniktala",
+    "from": "shyambazar",
+    "to": "maniktala",
+    "fromCoord": {
+      "lat": 22.5975,
+      "lng": 88.3745
+    },
+    "toCoord": {
+      "lat": 22.578002,
+      "lng": 88.380001
+    }
+  },
+  {
+    "key": "maniktala-shyambazar",
+    "from": "maniktala",
+    "to": "shyambazar",
+    "fromCoord": {
+      "lat": 22.578002,
+      "lng": 88.380001
+    },
+    "toCoord": {
+      "lat": 22.5975,
+      "lng": 88.3745
+    }
+  },
+  {
+    "key": "burrabazar-howrah-bridge",
+    "from": "burrabazar",
+    "to": "howrah",
+    "fromCoord": {
+      "lat": 22.574969,
+      "lng": 88.355126
+    },
+    "toCoord": {
+      "lat": 22.5857,
+      "lng": 88.342583
+    }
+  },
+  {
+    "key": "baghajatin-jadavpur",
+    "from": "baghajatin",
+    "to": "jadavpur",
+    "fromCoord": {
+      "lat": 22.482739,
+      "lng": 88.386671
+    },
+    "toCoord": {
+      "lat": 22.495499,
+      "lng": 88.370901
+    }
+  },
+  {
+    "key": "jadavpur-baghajatin",
+    "from": "jadavpur",
+    "to": "baghajatin",
+    "fromCoord": {
+      "lat": 22.495499,
+      "lng": 88.370901
+    },
+    "toCoord": {
+      "lat": 22.482739,
+      "lng": 88.386671
+    }
+  },
+  {
+    "key": "jadavpur-dhakuria",
+    "from": "jadavpur",
+    "to": "dhakuria",
+    "fromCoord": {
+      "lat": 22.495499,
+      "lng": 88.370901
+    },
+    "toCoord": {
+      "lat": 22.509107,
+      "lng": 88.371131
+    }
+  },
+  {
+    "key": "dhakuria-jadavpur",
+    "from": "dhakuria",
+    "to": "jadavpur",
+    "fromCoord": {
+      "lat": 22.509107,
+      "lng": 88.371131
+    },
+    "toCoord": {
+      "lat": 22.495499,
+      "lng": 88.370901
+    }
+  },
+  {
+    "key": "dhakuria-golpark",
+    "from": "dhakuria",
+    "to": "golpark",
+    "fromCoord": {
+      "lat": 22.509107,
+      "lng": 88.371131
+    },
+    "toCoord": {
+      "lat": 22.513432,
+      "lng": 88.401745
+    }
+  },
+  {
+    "key": "golpark-dhakuria",
+    "from": "golpark",
+    "to": "dhakuria",
+    "fromCoord": {
+      "lat": 22.513432,
+      "lng": 88.401745
+    },
+    "toCoord": {
+      "lat": 22.509107,
+      "lng": 88.371131
+    }
+  },
+  {
+    "key": "pts-nabanna",
+    "from": "pts",
+    "to": "nabanna",
+    "fromCoord": {
+      "lat": 22.544254,
+      "lng": 88.336332
+    },
+    "toCoord": {
+      "lat": 22.567568,
+      "lng": 88.313683
+    }
+  },
+  {
+    "key": "nabanna-pts",
+    "from": "nabanna",
+    "to": "pts",
+    "fromCoord": {
+      "lat": 22.567568,
+      "lng": 88.313683
+    },
+    "toCoord": {
+      "lat": 22.544254,
+      "lng": 88.336332
+    }
+  },
+  {
+    "key": "hridaypur-madhyamgram",
+    "from": "hridaypur",
+    "to": "madhyamgram",
+    "fromCoord": {
+      "lat": 22.710997,
+      "lng": 88.469999
+    },
+    "toCoord": {
+      "lat": 22.694635,
+      "lng": 88.449874
+    }
+  },
+  {
+    "key": "madhyamgram-hridaypur",
+    "from": "madhyamgram",
+    "to": "hridaypur",
+    "fromCoord": {
+      "lat": 22.694635,
+      "lng": 88.449874
+    },
+    "toCoord": {
+      "lat": 22.710997,
+      "lng": 88.469999
+    }
+  },
+  {
+    "key": "kamalgazi-patuli",
+    "from": "kamalgazi",
+    "to": "patuli",
+    "fromCoord": {
+      "lat": 22.462,
+      "lng": 88.409
+    },
+    "toCoord": {
+      "lat": 22.482,
+      "lng": 88.396
+    }
+  },
+  {
+    "key": "patuli-kamalgazi",
+    "from": "patuli",
+    "to": "kamalgazi",
+    "fromCoord": {
+      "lat": 22.482,
+      "lng": 88.396
+    },
+    "toCoord": {
+      "lat": 22.462,
+      "lng": 88.409
+    }
+  },
+  {
+    "key": "tollygunge-karunamoyee-motilal-gupta-road",
+    "from": "tollygunge",
+    "to": "karunamoyee",
+    "fromCoord": {
+      "lat": 22.499,
+      "lng": 88.345
+    },
+    "toCoord": {
+      "lat": 22.583,
+      "lng": 88.416
+    }
+  },
+  {
+    "key": "tollygunge-karunamoyee-lake-gardens",
+    "from": "tollygunge",
+    "to": "karunamoyee",
+    "fromCoord": {
+      "lat": 22.499,
+      "lng": 88.345
+    },
+    "toCoord": {
+      "lat": 22.583,
+      "lng": 88.416
+    }
+  },
+  {
+    "key": "patuli-ruby",
+    "from": "patuli",
+    "to": "ruby",
+    "fromCoord": {
+      "lat": 22.482,
+      "lng": 88.396
+    },
+    "toCoord": {
+      "lat": 22.51331,
+      "lng": 88.398988
+    }
+  },
+  {
+    "key": "ruby-patuli",
+    "from": "ruby",
+    "to": "patuli",
+    "fromCoord": {
+      "lat": 22.51331,
+      "lng": 88.398988
+    },
+    "toCoord": {
+      "lat": 22.482,
+      "lng": 88.396
+    }
+  },
+  {
+    "key": "esplanade-babughat",
+    "from": "esplanade",
+    "to": "babughat",
+    "fromCoord": {
+      "lat": 22.564412,
+      "lng": 88.35158
+    },
+    "toCoord": {
+      "lat": 22.568108,
+      "lng": 88.340771
+    }
+  },
+  {
+    "key": "babughat-esplanade",
+    "from": "babughat",
+    "to": "esplanade",
+    "fromCoord": {
+      "lat": 22.568108,
+      "lng": 88.340771
+    },
+    "toCoord": {
+      "lat": 22.564412,
+      "lng": 88.35158
+    }
+  },
+  {
+    "key": "khidderpur-babubazar",
+    "from": "khidderpur",
+    "to": "babubazar",
+    "fromCoord": {
+      "lat": 22.539,
+      "lng": 88.326
+    },
+    "toCoord": {
+      "lat": 22.537618,
+      "lng": 88.315821
+    }
+  },
+  {
+    "key": "babubazar-khidderpur",
+    "from": "babubazar",
+    "to": "khidderpur",
+    "fromCoord": {
+      "lat": 22.537618,
+      "lng": 88.315821
+    },
+    "toCoord": {
+      "lat": 22.539,
+      "lng": 88.326
+    }
+  },
+  {
+    "key": "ramnagar-fatehpur",
+    "from": "ramnagar",
+    "to": "fatehpur",
+    "fromCoord": {
+      "lat": 22.54357,
+      "lng": 88.267934
+    },
+    "toCoord": {
+      "lat": 22.54357,
+      "lng": 88.267934
+    }
+  },
+  {
+    "key": "fatehpur-ramnagar",
+    "from": "fatehpur",
+    "to": "ramnagar",
+    "fromCoord": {
+      "lat": 22.54357,
+      "lng": 88.267934
+    },
+    "toCoord": {
+      "lat": 22.54357,
+      "lng": 88.267934
+    }
+  },
+  {
+    "key": "ruby-rashbehari",
+    "from": "ruby",
+    "to": "rashbehari",
+    "fromCoord": {
+      "lat": 22.51331,
+      "lng": 88.398988
+    },
+    "toCoord": {
+      "lat": 22.519,
+      "lng": 88.363
+    }
+  },
+  {
+    "key": "rashbehari-ruby",
+    "from": "rashbehari",
+    "to": "ruby",
+    "fromCoord": {
+      "lat": 22.519,
+      "lng": 88.363
+    },
+    "toCoord": {
+      "lat": 22.51331,
+      "lng": 88.398988
+    }
+  },
+  {
+    "key": "tollygunge-kabardanga",
+    "from": "tollygunge",
+    "to": "kabardanga",
+    "fromCoord": {
+      "lat": 22.499,
+      "lng": 88.345
+    },
+    "toCoord": {
+      "lat": 22.4632,
+      "lng": 88.3245
+    }
+  },
+  {
+    "key": "kabardanga-tollygunge",
+    "from": "kabardanga",
+    "to": "tollygunge",
+    "fromCoord": {
+      "lat": 22.4632,
+      "lng": 88.3245
+    },
+    "toCoord": {
+      "lat": 22.499,
+      "lng": 88.345
+    }
+  },
+  {
+    "key": "padmapukur-khasmallick",
+    "from": "padmapukur",
+    "to": "khasmallick",
+    "fromCoord": {
+      "lat": 22.531543,
+      "lng": 88.352457
+    },
+    "toCoord": {
+      "lat": 22.360715,
+      "lng": 88.432558
+    }
+  },
+  {
+    "key": "khasmallick-padmapukur",
+    "from": "khasmallick",
+    "to": "padmapukur",
+    "fromCoord": {
+      "lat": 22.360715,
+      "lng": 88.432558
+    },
+    "toCoord": {
+      "lat": 22.531543,
+      "lng": 88.352457
+    }
+  },
+  {
+    "key": "khasmallick-harinavi",
+    "from": "khasmallick",
+    "to": "harinavi",
+    "fromCoord": {
+      "lat": 22.360715,
+      "lng": 88.432558
+    },
+    "toCoord": {
+      "lat": 22.412517,
+      "lng": 88.418577
+    }
+  },
+  {
+    "key": "harinavi-khasmallick",
+    "from": "harinavi",
+    "to": "khasmallick",
+    "fromCoord": {
+      "lat": 22.412517,
+      "lng": 88.418577
+    },
+    "toCoord": {
+      "lat": 22.360715,
+      "lng": 88.432558
+    }
+  },
+  {
+    "key": "narendrapur-kamalgazi",
+    "from": "narendrapur",
+    "to": "kamalgazi",
+    "fromCoord": {
+      "lat": 22.453901,
+      "lng": 88.41849
+    },
+    "toCoord": {
+      "lat": 22.462,
+      "lng": 88.409
+    }
+  },
+  {
+    "key": "kamalgazi-narendrapur",
+    "from": "kamalgazi",
+    "to": "narendrapur",
+    "fromCoord": {
+      "lat": 22.462,
+      "lng": 88.409
+    },
+    "toCoord": {
+      "lat": 22.453901,
+      "lng": 88.41849
+    }
+  },
+  {
+    "key": "titagarh-khardah",
+    "from": "titagarh",
+    "to": "khardah",
+    "fromCoord": {
+      "lat": 22.74192,
+      "lng": 88.379201
+    },
+    "toCoord": {
+      "lat": 22.725279,
+      "lng": 88.37282
+    }
+  },
+  {
+    "key": "khardah-titagarh",
+    "from": "khardah",
+    "to": "titagarh",
+    "fromCoord": {
+      "lat": 22.725279,
+      "lng": 88.37282
+    },
+    "toCoord": {
+      "lat": 22.74192,
+      "lng": 88.379201
+    }
+  },
+  {
+    "key": "shyambazar-rajballavpara",
+    "from": "shyambazar",
+    "to": "rajballavpara",
+    "fromCoord": {
+      "lat": 22.5975,
+      "lng": 88.3745
+    },
+    "toCoord": {
+      "lat": 22.605553,
+      "lng": 88.365589
+    }
+  },
+  {
+    "key": "rajballavpara-shyambazar",
+    "from": "rajballavpara",
+    "to": "shyambazar",
+    "fromCoord": {
+      "lat": 22.605553,
+      "lng": 88.365589
+    },
+    "toCoord": {
+      "lat": 22.5975,
+      "lng": 88.3745
+    }
+  },
+  {
+    "key": "bishnupur-khariberia",
+    "from": "bishnupur",
+    "to": "khariberia",
+    "fromCoord": {
+      "lat": 22.381184,
+      "lng": 88.268017
+    },
+    "toCoord": {
+      "lat": 22.397918,
+      "lng": 88.27737
+    }
+  },
+  {
+    "key": "khariberia-bishnupur",
+    "from": "khariberia",
+    "to": "bishnupur",
+    "fromCoord": {
+      "lat": 22.397918,
+      "lng": 88.27737
+    },
+    "toCoord": {
+      "lat": 22.381184,
+      "lng": 88.268017
+    }
+  },
+  {
+    "key": "khariberia-joka-bridge",
+    "from": "khariberia",
+    "to": "joka",
+    "fromCoord": {
+      "lat": 22.397918,
+      "lng": 88.27737
+    },
+    "toCoord": {
+      "lat": 22.45,
+      "lng": 88.287
+    }
+  },
+  {
+    "key": "thakurpukur-joka-bridge",
+    "from": "thakurpukur",
+    "to": "joka",
+    "fromCoord": {
+      "lat": 22.462,
+      "lng": 88.298
+    },
+    "toCoord": {
+      "lat": 22.45,
+      "lng": 88.287
+    }
+  },
+  {
+    "key": "mominpur-ekbalpur",
+    "from": "mominpur",
+    "to": "ekbalpur",
+    "fromCoord": {
+      "lat": 22.529,
+      "lng": 88.321
+    },
+    "toCoord": {
+      "lat": 22.533306,
+      "lng": 88.327236
+    }
+  },
+  {
+    "key": "ekbalpur-mominpur",
+    "from": "ekbalpur",
+    "to": "mominpur",
+    "fromCoord": {
+      "lat": 22.533306,
+      "lng": 88.327236
+    },
+    "toCoord": {
+      "lat": 22.529,
+      "lng": 88.321
+    }
+  },
+  {
+    "key": "ekbalpur-khidderpur",
+    "from": "ekbalpur",
+    "to": "khidderpur",
+    "fromCoord": {
+      "lat": 22.533306,
+      "lng": 88.327236
+    },
+    "toCoord": {
+      "lat": 22.539,
+      "lng": 88.326
+    }
+  },
+  {
+    "key": "khidderpur-ekbalpur",
+    "from": "khidderpur",
+    "to": "ekbalpur",
+    "fromCoord": {
+      "lat": 22.539,
+      "lng": 88.326
+    },
+    "toCoord": {
+      "lat": 22.533306,
+      "lng": 88.327236
+    }
+  },
+  {
+    "key": "kaikhali-baguihati",
+    "from": "kaikhali",
+    "to": "baguihati",
+    "fromCoord": {
+      "lat": 22.635039,
+      "lng": 88.429052
+    },
+    "toCoord": {
+      "lat": 22.616173,
+      "lng": 88.417958
+    }
+  },
+  {
+    "key": "baguihati-kaikhali",
+    "from": "baguihati",
+    "to": "kaikhali",
+    "fromCoord": {
+      "lat": 22.616173,
+      "lng": 88.417958
+    },
+    "toCoord": {
+      "lat": 22.635039,
+      "lng": 88.429052
+    }
+  },
+  {
+    "key": "duttapukur-barasat",
+    "from": "duttapukur",
+    "to": "barasat",
+    "fromCoord": {
+      "lat": 22.769727,
+      "lng": 88.545368
+    },
+    "toCoord": {
+      "lat": 22.721983,
+      "lng": 88.480043
+    }
+  },
+  {
+    "key": "barasat-duttapukur",
+    "from": "barasat",
+    "to": "duttapukur",
+    "fromCoord": {
+      "lat": 22.721983,
+      "lng": 88.480043
+    },
+    "toCoord": {
+      "lat": 22.769727,
+      "lng": 88.545368
+    }
+  },
+  {
+    "key": "belaghata-chingrighata",
+    "from": "belaghata",
+    "to": "chingrighata",
+    "fromCoord": {
+      "lat": 22.550656,
+      "lng": 88.403917
+    },
+    "toCoord": {
+      "lat": 22.556,
+      "lng": 88.409
+    }
+  },
+  {
+    "key": "chingrighata-belaghata",
+    "from": "chingrighata",
+    "to": "belaghata",
+    "fromCoord": {
+      "lat": 22.556,
+      "lng": 88.409
+    },
+    "toCoord": {
+      "lat": 22.550656,
+      "lng": 88.403917
+    }
+  },
+  {
+    "key": "golpark-rashbehari",
+    "from": "golpark",
+    "to": "rashbehari",
+    "fromCoord": {
+      "lat": 22.513432,
+      "lng": 88.401745
+    },
+    "toCoord": {
+      "lat": 22.519,
+      "lng": 88.363
+    }
+  },
+  {
+    "key": "rashbehari-golpark",
+    "from": "rashbehari",
+    "to": "golpark",
+    "fromCoord": {
+      "lat": 22.519,
+      "lng": 88.363
+    },
+    "toCoord": {
+      "lat": 22.513432,
+      "lng": 88.401745
+    }
+  },
+  {
+    "key": "mandirtala-pts",
+    "from": "mandirtala",
+    "to": "pts",
+    "fromCoord": {
+      "lat": 22.569958,
+      "lng": 88.317423
+    },
+    "toCoord": {
+      "lat": 22.544254,
+      "lng": 88.336332
+    }
+  },
+  {
+    "key": "pts-mandirtala",
+    "from": "pts",
+    "to": "mandirtala",
+    "fromCoord": {
+      "lat": 22.544254,
+      "lng": 88.336332
+    },
+    "toCoord": {
+      "lat": 22.569958,
+      "lng": 88.317423
+    }
+  },
+  {
+    "key": "tollygunge-karunamoyee-raja-rammohan-roy-rd",
+    "from": "tollygunge",
+    "to": "karunamoyee",
+    "fromCoord": {
+      "lat": 22.499,
+      "lng": 88.345
+    },
+    "toCoord": {
+      "lat": 22.583,
+      "lng": 88.416
+    }
+  },
+  {
+    "key": "chetla-rashbehari",
+    "from": "chetla",
+    "to": "rashbehari",
+    "fromCoord": {
+      "lat": 22.514325,
+      "lng": 88.336958
+    },
+    "toCoord": {
+      "lat": 22.519,
+      "lng": 88.363
+    }
+  },
+  {
+    "key": "rashbehari-chetla",
+    "from": "rashbehari",
+    "to": "chetla",
+    "fromCoord": {
+      "lat": 22.519,
+      "lng": 88.363
+    },
+    "toCoord": {
+      "lat": 22.514325,
+      "lng": 88.336958
+    }
+  },
+  {
+    "key": "santoshpur-ruby",
+    "from": "santoshpur",
+    "to": "ruby",
+    "fromCoord": {
+      "lat": 22.496048,
+      "lng": 88.38223
+    },
+    "toCoord": {
+      "lat": 22.51331,
+      "lng": 88.398988
+    }
+  },
+  {
+    "key": "ruby-santoshpur",
+    "from": "ruby",
+    "to": "santoshpur",
+    "fromCoord": {
+      "lat": 22.51331,
+      "lng": 88.398988
+    },
+    "toCoord": {
+      "lat": 22.496048,
+      "lng": 88.38223
+    }
+  },
+  {
+    "key": "shyambazar-paikpara-xing",
+    "from": "shyambazar",
+    "to": "paikpara",
+    "fromCoord": {
+      "lat": 22.5975,
+      "lng": 88.3745
+    },
+    "toCoord": {
+      "lat": 22.612051,
+      "lng": 88.385565
+    }
+  },
+  {
+    "key": "thakurpukur-behala-chowrasta",
+    "from": "thakurpukur",
+    "to": "behala",
+    "fromCoord": {
+      "lat": 22.462,
+      "lng": 88.298
+    },
+    "toCoord": {
+      "lat": 22.5,
+      "lng": 88.313
+    }
+  },
+  {
+    "key": "menton-behala-chowrasta",
+    "from": "menton",
+    "to": "behala",
+    "fromCoord": {
+      "lat": 22.494863,
+      "lng": 88.316607
+    },
+    "toCoord": {
+      "lat": 22.5,
+      "lng": 88.313
+    }
+  },
+  {
+    "key": "menton-behala-tram-depot",
+    "from": "menton",
+    "to": "behala",
+    "fromCoord": {
+      "lat": 22.494863,
+      "lng": 88.316607
+    },
+    "toCoord": {
+      "lat": 22.5,
+      "lng": 88.313
+    }
+  },
+  {
+    "key": "dakshineswar-alambazar",
+    "from": "dakshineswar",
+    "to": "alambazar",
+    "fromCoord": {
+      "lat": 22.654827,
+      "lng": 88.357578
+    },
+    "toCoord": {
+      "lat": 22.653077,
+      "lng": 88.380596
+    }
+  },
+  {
+    "key": "alambazar-dakshineswar",
+    "from": "alambazar",
+    "to": "dakshineswar",
+    "fromCoord": {
+      "lat": 22.653077,
+      "lng": 88.380596
+    },
+    "toCoord": {
+      "lat": 22.654827,
+      "lng": 88.357578
+    }
+  },
+  {
+    "key": "alambazar-baghajatin-rd",
+    "from": "alambazar",
+    "to": "baghajatin",
+    "fromCoord": {
+      "lat": 22.653077,
+      "lng": 88.380596
+    },
+    "toCoord": {
+      "lat": 22.482739,
+      "lng": 88.386671
+    }
+  }
+]

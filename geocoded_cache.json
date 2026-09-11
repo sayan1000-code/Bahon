@@ -1,0 +1,698 @@
+{
+  "Hatibagan": {
+    "lat": 22.5949572,
+    "lng": 88.3709282,
+    "name": "Hatibagan",
+    "display_name": "Hatibagan, Bidhan Sarani, Shyam Bazar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700004, India"
+  },
+  "Nimtala Ghat St": {
+    "lat": 22.5927706,
+    "lng": 88.3548077,
+    "name": "Nimtala Ghat St",
+    "display_name": "Nimtala Ghat Street, Jorasanko North, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 711101, India"
+  },
+  "B.K. Paul Ave": {
+    "lat": 22.5975289,
+    "lng": 88.3549336,
+    "name": "B.K. Paul Ave",
+    "display_name": "Sovabazar Ahiritola, Strand Bank Road, Jagganath Ghat, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 711101, India"
+  },
+  "Paikpara": {
+    "lat": 22.6120515,
+    "lng": 88.3855648,
+    "name": "Paikpara",
+    "display_name": "Paikpara, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700037, India"
+  },
+  "Padmapukur": {
+    "lat": 22.5315429,
+    "lng": 88.3524574,
+    "name": "Padmapukur",
+    "display_name": "Padmapukur Park, Bhowanipore, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India"
+  },
+  "Darga Rd": {
+    "lat": 22.542955,
+    "lng": 88.37128,
+    "name": "Darga Rd",
+    "display_name": "Darga Road, Park Circus, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700017, India"
+  },
+  "Bondel Gate": {
+    "lat": 22.529094,
+    "lng": 88.3748907,
+    "name": "Bondel Gate",
+    "display_name": "Bondel Road, Kushtia, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700042, India"
+  },
+  "Alipur Rd": {
+    "lat": 22.5340606,
+    "lng": 88.3322525,
+    "name": "Alipur Rd",
+    "display_name": "Alipore Road, Alipore, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700027, India"
+  },
+  "Sarsuna": {
+    "lat": 22.4809986,
+    "lng": 88.284838,
+    "name": "Sarsuna",
+    "display_name": "Sarsuna College, 4/HB/A, Biren Roy Road West, Kolkata, Kolkata Metropolitan Area, Thakurpukur Maheshtala, Kolkata, West Bengal, 700061, India"
+  },
+  "Bakultala": {
+    "lat": 22.4840184,
+    "lng": 88.3023908,
+    "name": "Bakultala",
+    "display_name": "Bakultala, Biren Roy Road West, Behala, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700008, India"
+  },
+  "Manton Xing": {
+    "lat": 22.4948629,
+    "lng": 88.3166069,
+    "name": "Manton Xing",
+    "display_name": "Manton, Diamond Harbour Road, Behala, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700034, India"
+  },
+  "Casurina Ave": {
+    "lat": 22.5593659,
+    "lng": 88.3458674,
+    "name": "Casurina Ave",
+    "display_name": "Indira Gandhi Sarani, Esplanade, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700001, India"
+  },
+  "Bedon Square": {
+    "lat": 22.5904611,
+    "lng": 88.3607426,
+    "name": "Bedon Square",
+    "display_name": "Beadon Square, Jorasanko North, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700003, India"
+  },
+  "Ganguli Bagan": {
+    "lat": 22.4791542,
+    "lng": 88.3882283,
+    "name": "Ganguli Bagan",
+    "display_name": "Ganguly Bagan Estate Road, Baghajatin, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700086, India"
+  },
+  "Baghajatin": {
+    "lat": 22.4827391,
+    "lng": 88.3866708,
+    "name": "Baghajatin",
+    "display_name": "Baghajatin, Baghajatin Station Road, Baghajatin, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700086, India"
+  },
+  "D Park": {
+    "lat": 22.5184354,
+    "lng": 88.3535152,
+    "name": "D Park",
+    "display_name": "Deshapriya Park, Manoharpukur, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India"
+  },
+  "PTS": {
+    "lat": 22.544254,
+    "lng": 88.3363321,
+    "name": "PTS",
+    "display_name": "Kolkata Race Course, Kidderporre Road, Maidan, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700022, India"
+  },
+  "Bankra More": {
+    "lat": 22.6632119,
+    "lng": 88.4271269,
+    "name": "Bankra More",
+    "display_name": "Birati, North Dumdum, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700051, India"
+  },
+  "Bangur/Dum Dum Park": {
+    "lat": 22.603428,
+    "lng": 88.4230377,
+    "name": "Bangur/Dum Dum Park",
+    "display_name": "Dum Dum Park, Kazi Nazrul Islam Avenue, AF Block, Baguiati, Bidhannagar, Kolkata Metropolitan Area, Rajarhat, North 24 Parganas, West Bengal, 700101, India"
+  },
+  "Beliaghata Con.": {
+    "lat": 22.56942,
+    "lng": 88.40581,
+    "name": "Beliaghata Con.",
+    "display_name": "Beliaghata, Eastern Metropolitan Bypass, Tapuriaghat, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700105, India"
+  },
+  "Shibanipit": {
+    "lat": 22.3607154,
+    "lng": 88.4325575,
+    "name": "Shibanipit",
+    "display_name": "Baruipur, Kolkata Metropolitan Area, Baruipur, South 24 Parganas, West Bengal, 700144, India"
+  },
+  "Baruipur/Padmapukur": {
+    "lat": 22.3607154,
+    "lng": 88.4325575,
+    "name": "Baruipur/Padmapukur",
+    "display_name": "Baruipur, Kolkata Metropolitan Area, Baruipur, South 24 Parganas, West Bengal, 700144, India"
+  },
+  "Malancha Bazar": {
+    "lat": 22.3607154,
+    "lng": 88.4325575,
+    "name": "Malancha Bazar",
+    "display_name": "Baruipur, Kolkata Metropolitan Area, Baruipur, South 24 Parganas, West Bengal, 700144, India"
+  },
+  "Harinavi": {
+    "lat": 22.4125168,
+    "lng": 88.4185772,
+    "name": "Harinavi",
+    "display_name": "Harinavi, Rajpur Sonarpur, Kolkata Metropolitan Area, Sonarpur, South 24 Parganas, West Bengal, 700150, India"
+  },
+  "Mission Gate": {
+    "lat": 22.4539009,
+    "lng": 88.4184898,
+    "name": "Mission Gate",
+    "display_name": "Narendrapur, Sonarpur-Kamalgazi Road, Shimultala, Rajpur Sonarpur, Kolkata Metropolitan Area, Sonarpur, South 24 Parganas, West Bengal, 700150, India"
+  },
+  "Ramkrishna Ashram": {
+    "lat": 22.4375078,
+    "lng": 88.4017642,
+    "name": "Ramkrishna Ashram",
+    "display_name": "Ramakrishna Mission Ashram, 1st Row, Narendrapur, Rajpur Sonarpur, Kolkata Metropolitan Area, Sonarpur, South 24 Parganas, West Bengal, 700150, India"
+  },
+  "Motilal Gupta Road": {
+    "lat": 22.4871387,
+    "lng": 88.3322013,
+    "name": "Motilal Gupta Road",
+    "display_name": "Motilal Gupta Road, Ashok Nagar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700082, India"
+  },
+  "Lake Gardens": {
+    "lat": 22.5080547,
+    "lng": 88.3533289,
+    "name": "Lake Gardens",
+    "display_name": "Lake Gardens, Lake Gardens Flyover, Lake Gardens, Charu Market Area, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700033, India"
+  },
+  "Babubazar": {
+    "lat": 22.5376181,
+    "lng": 88.3158211,
+    "name": "Babubazar",
+    "display_name": "Khidirpur, Karl Marx Sarani, BNR South Colony, Kidderpore, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700023, India"
+  },
+  "BNR More": {
+    "lat": 22.5471073,
+    "lng": 88.3222291,
+    "name": "BNR More",
+    "display_name": "Garden Reach Road, Watganj, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700022, India"
+  },
+  "Muduali": {
+    "lat": 22.5471073,
+    "lng": 88.3222291,
+    "name": "Muduali",
+    "display_name": "Garden Reach Road, Watganj, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700022, India"
+  },
+  "Kachhi Sarab": {
+    "lat": 22.5471073,
+    "lng": 88.3222291,
+    "name": "Kachhi Sarab",
+    "display_name": "Garden Reach Road, Watganj, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700022, India"
+  },
+  "Garden Reach": {
+    "lat": 22.5471073,
+    "lng": 88.3222291,
+    "name": "Garden Reach",
+    "display_name": "Garden Reach Road, Watganj, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700022, India"
+  },
+  "Ramnagar": {
+    "lat": 22.54357,
+    "lng": 88.2679343,
+    "name": "Ramnagar",
+    "display_name": "Metiabruz, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700018, India"
+  },
+  "Fatehpur": {
+    "lat": 22.54357,
+    "lng": 88.2679343,
+    "name": "Fatehpur",
+    "display_name": "Metiabruz, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700018, India"
+  },
+  "Dackbanglow More": {
+    "lat": 22.7191072,
+    "lng": 88.4826229,
+    "name": "Dackbanglow More",
+    "display_name": "Barasat, Kolkata Metropolitan Area, Barasat - I, North 24 Parganas, West Bengal, 700124, India"
+  },
+  "Chinar Park": {
+    "lat": 22.6235932,
+    "lng": 88.441046,
+    "name": "Chinar Park",
+    "display_name": "Chinar Park, Rajarhat Gopalpur, Bidhannagar, Kolkata Metropolitan Area, Rajarhat, North 24 Parganas, West Bengal, 700157, India"
+  },
+  "Baruipur Hospital": {
+    "lat": 22.359177,
+    "lng": 88.4335616,
+    "name": "Baruipur Hospital",
+    "display_name": "Baruipur Sub Division Hospital, Kulpi Road, Baruipur, Kolkata Metropolitan Area, Baruipur, South 24 Parganas, West Bengal, 700144, India"
+  },
+  "Baruipur Station": {
+    "lat": 22.3663286,
+    "lng": 88.4312776,
+    "name": "Baruipur Station",
+    "display_name": "Baruipur Junction, Kulpi Road, Baruipur, Kolkata Metropolitan Area, Baruipur, South 24 Parganas, West Bengal, 700144, India"
+  },
+  "Khasmallick": {
+    "lat": 22.3607154,
+    "lng": 88.4325575,
+    "name": "Khasmallick",
+    "display_name": "Baruipur, Kolkata Metropolitan Area, Baruipur, South 24 Parganas, West Bengal, 700144, India"
+  },
+  "Rajpur Bazar": {
+    "lat": 22.4227897,
+    "lng": 88.4107273,
+    "name": "Rajpur Bazar",
+    "display_name": "Rajpur Bazar, Garia Main Road, Rajpur, Rajpur Sonarpur, Kolkata Metropolitan Area, Sonarpur, South 24 Parganas, West Bengal, 700150, India"
+  },
+  "Narendrapur": {
+    "lat": 22.4539009,
+    "lng": 88.4184898,
+    "name": "Narendrapur",
+    "display_name": "Narendrapur, Sonarpur-Kamalgazi Road, Shimultala, Rajpur Sonarpur, Kolkata Metropolitan Area, Sonarpur, South 24 Parganas, West Bengal, 700150, India"
+  },
+  "Mukundapur": {
+    "lat": 22.4956263,
+    "lng": 88.398449,
+    "name": "Mukundapur",
+    "display_name": "Jyotirindra Nandi, Eastern Metropolitan Bypass, Ajoynagar, Mukundapur, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700099, India"
+  },
+  "Uttar Panchannagram": {
+    "lat": 22.5246847,
+    "lng": 88.3962331,
+    "name": "Uttar Panchannagram",
+    "display_name": "VIP Bazar, Eastern Metropolitan Bypass, Kushtia, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700100, India"
+  },
+  "4no. Bridge": {
+    "lat": 22.5407799,
+    "lng": 88.3738814,
+    "name": "4no. Bridge",
+    "display_name": "Park Circus, Maa Flyover, Park Circus, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700046, India"
+  },
+  "Chittaranjan Hospital": {
+    "lat": 22.5407799,
+    "lng": 88.3738814,
+    "name": "Chittaranjan Hospital",
+    "display_name": "Park Circus, Maa Flyover, Park Circus, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700046, India"
+  },
+  "Titagarh": {
+    "lat": 22.7419198,
+    "lng": 88.379201,
+    "name": "Titagarh",
+    "display_name": "Titagarh, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700119, India"
+  },
+  "Khardah": {
+    "lat": 22.7252789,
+    "lng": 88.3728198,
+    "name": "Khardah",
+    "display_name": "Khardah, Barrackpore Trunk Road, SK Path, Sodepur, Barrackpore, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700117, India"
+  },
+  "Sodepur Girja": {
+    "lat": 22.4816097,
+    "lng": 88.3317151,
+    "name": "Sodepur Girja",
+    "display_name": "Sodepur Pragati Sangha, Motilal Gupta Rd, Ashok Nagar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700008, India"
+  },
+  "Kamarhati": {
+    "lat": 22.6812945,
+    "lng": 88.3654521,
+    "name": "Kamarhati",
+    "display_name": "Kamarhati Municipality children's park, Hindmotor, Kolkata, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700058, India"
+  },
+  "Rathtala More": {
+    "lat": 22.6603642,
+    "lng": 88.3857189,
+    "name": "Rathtala More",
+    "display_name": "Shatarupa Plaza, Belgharia, 96 Feeder Road, Belgharia, Kolkata, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700056, India"
+  },
+  "Tobin Road": {
+    "lat": 22.6383356,
+    "lng": 88.3759051,
+    "name": "Tobin Road",
+    "display_name": "Tobin Road, Dunlop, Baranagar, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700090, India"
+  },
+  "Rajballavpara": {
+    "lat": 22.6055529,
+    "lng": 88.3655888,
+    "name": "Rajballavpara",
+    "display_name": "Bagbazar, Rabindra Sarani, Bag Bazar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700004, India"
+  },
+  "Bishnupur": {
+    "lat": 22.381184,
+    "lng": 88.2680173,
+    "name": "Bishnupur",
+    "display_name": "Bishnupur, Bishnupur - I, South 24 Parganas, West Bengal, 743398, India"
+  },
+  "Khariberia": {
+    "lat": 22.3979182,
+    "lng": 88.2773704,
+    "name": "Khariberia",
+    "display_name": "Khariberia, Bishnupur - I, South 24 Parganas, West Bengal, 743503, India"
+  },
+  "Joka Bridge": {
+    "lat": 22.4523728,
+    "lng": 88.301852,
+    "name": "Joka Bridge",
+    "display_name": "Joka, Diamond Harbour Road, Joka, Kolkata, Kolkata Metropolitan Area, Thakurpukur Maheshtala, South 24 Parganas, West Bengal, 700104, India"
+  },
+  "Ekbalpur": {
+    "lat": 22.533306,
+    "lng": 88.3272361,
+    "name": "Ekbalpur",
+    "display_name": "Ekbalpore, Diamond Harbour Road, Alipore, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700027, India"
+  },
+  "Bank of India": {
+    "lat": 22.5704924,
+    "lng": 88.3615602,
+    "name": "Bank of India",
+    "display_name": "Bowbazar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700012, India"
+  },
+  "Stand Road": {
+    "lat": 22.5570169,
+    "lng": 88.3321712,
+    "name": "Stand Road",
+    "display_name": "Strand Road, Hastings, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700022, India"
+  },
+  "Duttapukur": {
+    "lat": 22.7697267,
+    "lng": 88.5453683,
+    "name": "Duttapukur",
+    "display_name": "Duttapukur, Kolkata Metropolitan Area, Barasat - I, North 24 Parganas, West Bengal, 743248, India"
+  },
+  "Belaghata": {
+    "lat": 22.5506557,
+    "lng": 88.4039172,
+    "name": "Belaghata",
+    "display_name": "Beliaghata, Eastern Metropolitan Bypass, Tapuriaghat, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700105, India"
+  },
+  "Mandirtala": {
+    "lat": 22.5699577,
+    "lng": 88.3174226,
+    "name": "Mandirtala",
+    "display_name": "Mandirtala Mandir, Shibpur Road, Howrah Maidan, Haora, Kolkata Metropolitan Area, Howrah, West Bengal, 711102, India"
+  },
+  "Beckbagan": {
+    "lat": 22.5408326,
+    "lng": 88.3592162,
+    "name": "Beckbagan",
+    "display_name": "Beckbagan, Circus Avenue, Park Circus, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700017, India"
+  },
+  "Wipro More": {
+    "lat": 22.5754543,
+    "lng": 88.4322569,
+    "name": "Wipro More",
+    "display_name": "Sector V, Bidhannagar, Kolkata Metropolitan Area, Rajarhat, North 24 Parganas, West Bengal, 700091, India"
+  },
+  "Raja Rammohan Roy Rd": {
+    "lat": 22.4881118,
+    "lng": 88.3241825,
+    "name": "Raja Rammohan Roy Rd",
+    "display_name": "Raja Rammohan Roy Road, Behala, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700008, India"
+  },
+  "Sukanta Setu": {
+    "lat": 22.495499,
+    "lng": 88.3709006,
+    "name": "Sukanta Setu",
+    "display_name": "Jadavpur, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700032, India"
+  },
+  "Santoshpur": {
+    "lat": 22.4960484,
+    "lng": 88.3822296,
+    "name": "Santoshpur",
+    "display_name": "Santoshpur, Jadavpur, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700075, India"
+  },
+  "Central Jail": {
+    "lat": 22.6211141,
+    "lng": 88.3928973,
+    "name": "Central Jail",
+    "display_name": "Dum Dum, Dum Dum Station Road, Paikpara, Kolkata, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700030, India"
+  },
+  "Nager Bazar": {
+    "lat": 22.6215504,
+    "lng": 88.4022842,
+    "name": "Nager Bazar",
+    "display_name": "North Kolkata Public, Dum Dum Road, Chhatakal, Nagerbazar, South Dumdum, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700005, India"
+  },
+  "Paikpara Xing": {
+    "lat": 22.6120515,
+    "lng": 88.3855648,
+    "name": "Paikpara Xing",
+    "display_name": "Paikpara, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700037, India"
+  },
+  "Colutala Street": {
+    "lat": 22.5754065,
+    "lng": 88.3594048,
+    "name": "Colutala Street",
+    "display_name": "Colootola Street, Tiretta Bazaar, Central Avenue 2, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700073, India"
+  },
+  "Mayo Rd": {
+    "lat": 22.5619824,
+    "lng": 88.3478371,
+    "name": "Mayo Rd",
+    "display_name": "Mayo Road, Esplanade, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700001, India"
+  },
+  "Toll Plaza": {
+    "lat": 22.5696052,
+    "lng": 88.3170772,
+    "name": "Toll Plaza",
+    "display_name": "Mandirtala ground, Howrah Maidan, Haora, Kolkata Metropolitan Area, Howrah, West Bengal, India"
+  },
+  "Menton": {
+    "lat": 22.4948629,
+    "lng": 88.3166069,
+    "name": "Menton",
+    "display_name": "Manton, Diamond Harbour Road, Behala, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700034, India"
+  },
+  "C.A. Island": {
+    "lat": 22.5869725,
+    "lng": 88.4010659,
+    "name": "C.A. Island",
+    "display_name": "CA Block, Sector I, Bidhannagar, Kolkata Metropolitan Area, Rajarhat, North 24 Parganas, West Bengal, 700048, India"
+  },
+  "Seva Hospital": {
+    "lat": 22.5241122,
+    "lng": 88.3523865,
+    "name": "Seva Hospital",
+    "display_name": "Sarat Bose Road, Hazra, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700026, India"
+  },
+  "Baisaki Bhavan": {
+    "lat": 22.5946735,
+    "lng": 88.4054907,
+    "name": "Baisaki Bhavan",
+    "display_name": "1, BD Block, Sector I, Kolkata, Kolkata Metropolitan Area, Rajarhat, North 24 Parganas, West Bengal, 700064, India"
+  },
+  "Alambazar": {
+    "lat": 22.6530765,
+    "lng": 88.3805962,
+    "name": "Alambazar",
+    "display_name": "Baranagar, Belghoria Expressway, Dunlop, Baranagar, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700108, India"
+  },
+  "Baghajatin Rd": {
+    "lat": 22.6530765,
+    "lng": 88.3805962,
+    "name": "Baghajatin Rd",
+    "display_name": "Baranagar, Belghoria Expressway, Dunlop, Baranagar, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700108, India"
+  },
+  "Baranagar Bazar": {
+    "lat": 22.6530765,
+    "lng": 88.3805962,
+    "name": "Baranagar Bazar",
+    "display_name": "Baranagar, Belghoria Expressway, Dunlop, Baranagar, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700108, India"
+  },
+  "Bibir Bazar": {
+    "lat": 22.6173485,
+    "lng": 88.3737337,
+    "name": "Bibir Bazar",
+    "display_name": "Cossipore, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700002, India"
+  },
+  "Cossipur": {
+    "lat": 22.6173485,
+    "lng": 88.3737337,
+    "name": "Cossipur",
+    "display_name": "Cossipore, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700002, India"
+  },
+  "Bag Bazar": {
+    "lat": 22.6055529,
+    "lng": 88.3655888,
+    "name": "Bag Bazar",
+    "display_name": "Bagbazar, Rabindra Sarani, Bag Bazar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700004, India"
+  },
+  "Colutala St": {
+    "lat": 22.5754065,
+    "lng": 88.3594048,
+    "name": "Colutala St",
+    "display_name": "Colootola Street, Tiretta Bazaar, Central Avenue 2, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700073, India"
+  },
+  "Chandi Ghosh": {
+    "lat": 22.4813707,
+    "lng": 88.3458155,
+    "name": "Chandi Ghosh",
+    "display_name": "Kudghat, Chandi Ghosh Road, Purba Putiary, Ashok Nagar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700041, India"
+  },
+  "SLD Gate": {
+    "lat": 22.5688798,
+    "lng": 88.4310536,
+    "name": "SLD Gate",
+    "display_name": "SDF Building, Ring Road, GP Block, Sector V, Bidhannagar, Kolkata Metropolitan Area, Rajarhat, North 24 Parganas, West Bengal, 700091, India"
+  },
+  "Weble House": {
+    "lat": 22.5699956,
+    "lng": 88.4364653,
+    "name": "Weble House",
+    "display_name": "WEBEL Bhavan, Block EP & GP, Ring Road, GP Block, Sector V, Bidhannagar, Kolkata Metropolitan Area, Rajarhat, North 24 Parganas, West Bengal, 700091, India"
+  },
+  "Ranirashmoni Bazar": {
+    "lat": 22.5506557,
+    "lng": 88.4039172,
+    "name": "Ranirashmoni Bazar",
+    "display_name": "Beliaghata, Eastern Metropolitan Bypass, Tapuriaghat, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700105, India"
+  },
+  "Kalighat": {
+    "lat": 22.5153313,
+    "lng": 88.3477052,
+    "name": "Kalighat",
+    "display_name": "Kalighat, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700026, India"
+  },
+  "Chiria More": {
+    "lat": 22.6187242,
+    "lng": 88.3793002,
+    "name": "Chiria More",
+    "display_name": "Chiria more, Dum Dum Road, Paik Para, Cossipore, Kolkata, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700002, India"
+  },
+  "Jadavpur": {
+    "lat": 22.495499,
+    "lng": 88.3709006,
+    "name": "Jadavpur",
+    "display_name": "Jadavpur, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700032, India"
+  },
+  "Dhakuria": {
+    "lat": 22.5091067,
+    "lng": 88.3711314,
+    "name": "Dhakuria",
+    "display_name": "Dhakuria, Sarat Ghosh Garden Road, Dhakuria, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700031, India"
+  },
+  "Golpark": {
+    "lat": 22.5134321,
+    "lng": 88.4017445,
+    "name": "Golpark",
+    "display_name": "Golpark, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India"
+  },
+  "Hridaypur": {
+    "lat": 22.7109969,
+    "lng": 88.4699989,
+    "name": "Hridaypur",
+    "display_name": "Hridaypur, Hridaypur Station road, Barasat, Kolkata Metropolitan Area, Barasat - II, North 24 Parganas, West Bengal, 700127, India"
+  },
+  "Topsia": {
+    "lat": 22.5329913,
+    "lng": 88.396456,
+    "name": "Topsia",
+    "display_name": "Ritwik Ghatak, Eastern Metropolitan Bypass, Kushtia, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700100, India"
+  },
+  "Topsia More": {
+    "lat": 22.5329913,
+    "lng": 88.396456,
+    "name": "Topsia More",
+    "display_name": "Ritwik Ghatak, Eastern Metropolitan Bypass, Kushtia, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700100, India"
+  },
+  "James Long Sarani": {
+    "lat": 22.5041984,
+    "lng": 88.3222229,
+    "name": "James Long Sarani",
+    "display_name": "James Long Sarani, Behala, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700034, India"
+  },
+  "Princep Ghat": {
+    "lat": 22.5565925,
+    "lng": 88.3314074,
+    "name": "Princep Ghat",
+    "display_name": "Prinsep Ghat, Strand Road, Hastings, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700022, India"
+  },
+  "CIT Road": {
+    "lat": 22.576167,
+    "lng": 88.3899119,
+    "name": "CIT Road",
+    "display_name": "CIT Road, Phoolbagan, Maniktala, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700054, India"
+  },
+  "Dunlop More": {
+    "lat": 22.6524964,
+    "lng": 88.3773002,
+    "name": "Dunlop More",
+    "display_name": "Dunlop, Baranagar, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700108, India"
+  },
+  "Sinthee More": {
+    "lat": 22.6319288,
+    "lng": 88.3778696,
+    "name": "Sinthee More",
+    "display_name": "Sinthee More Ground, Cossipore, Kolkata, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, India"
+  },
+  "Central Avenue": {
+    "lat": 22.5731374,
+    "lng": 88.3647355,
+    "name": "Central Avenue",
+    "display_name": "Kolkata, Surya Sen Street, Baithakkhana, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700073, India"
+  },
+  "Park Circus": {
+    "lat": 22.5433264,
+    "lng": 88.3661378,
+    "name": "Park Circus",
+    "display_name": "Park Circus 7-point;JBS Haldane Avenue, Suhrawardy Avenue, Mallick Bazaar, Beniapukur, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700017, India"
+  },
+  "Vivekananda Rd": {
+    "lat": 22.583538,
+    "lng": 88.3795766,
+    "name": "Vivekananda Rd",
+    "display_name": "Vivekananda Road, Circular Canal, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700011, India"
+  },
+  "Dakshineswar": {
+    "lat": 22.654827,
+    "lng": 88.3575776,
+    "name": "Dakshineswar",
+    "display_name": "Dakshineswar Kali Hindu Temple, Vivekananda Setu, Dakshineswar, Kolkata, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700076, India"
+  },
+  "Dum Dum Stn": {
+    "lat": 22.6211141,
+    "lng": 88.3928973,
+    "name": "Dum Dum Stn",
+    "display_name": "Dum Dum, Dum Dum Station Road, Paikpara, Kolkata, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700030, India"
+  },
+  "Kudghat": {
+    "lat": 22.4825494,
+    "lng": 88.3257073,
+    "name": "Kudghat",
+    "display_name": "CGHS Dispensary, Kudghat, Motilal Gupta Rd, Ashok Nagar, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700092, India"
+  },
+  "Nabanna": {
+    "lat": 22.5675682,
+    "lng": 88.3136826,
+    "name": "Nabanna",
+    "display_name": "Nabanna, NH12, Shibpur, Haora, Kolkata Metropolitan Area, Howrah, West Bengal, 711102, India"
+  },
+  "B.T. College": {
+    "lat": 22.6860681,
+    "lng": 88.4446406,
+    "name": "B.T. College",
+    "display_name": "New Barrackpore, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700131, India"
+  },
+  "New Barrackpur B.T. College": {
+    "lat": 22.6860681,
+    "lng": 88.4446406,
+    "name": "New Barrackpur B.T. College",
+    "display_name": "New Barrackpore, Kolkata Metropolitan Area, Barrackpur - II, North 24 Parganas, West Bengal, 700131, India"
+  },
+  "EM Bypass": {
+    "lat": 22.4690721,
+    "lng": 88.3912838,
+    "name": "EM Bypass",
+    "display_name": "EM Bypass, Baghajatin, Kolkata, Kolkata Metropolitan Area, Sonarpur, Kolkata, West Bengal, 700094, India"
+  },
+  "EM Byapss": {
+    "lat": 22.4690721,
+    "lng": 88.3912838,
+    "name": "EM Byapss",
+    "display_name": "EM Bypass, Baghajatin, Kolkata, Kolkata Metropolitan Area, Sonarpur, Kolkata, West Bengal, 700094, India"
+  },
+  "V.I.P. Road": {
+    "lat": 22.6309793,
+    "lng": 88.4344131,
+    "name": "V.I.P. Road",
+    "display_name": "VIP Road, Kazi Nazrul Islam Avenue, Rajarhat Gopalpur, Bidhannagar, Kolkata Metropolitan Area, Rajarhat, North 24 Parganas, West Bengal, 700052, India"
+  },
+  "Subodh Mallick Square": {
+    "lat": 22.5672638,
+    "lng": 88.3565794,
+    "name": "Subodh Mallick Square",
+    "display_name": "Dell Exclusive Store - Ganesh Chandra Avenue, Kolkata, 26, Ganesh Chandra Road, Chandni Chowk, Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, 700012, India"
+  },
+  "Grey St": {
+    "lat": 22.5668867,
+    "lng": 88.2697149,
+    "name": "Grey St",
+    "display_name": "Arabinda Sarani, VIVEKANANDA NAGAR, Kolkata Metropolitan Area, Sankrail, Howrah, West Bengal, 711109, India"
+  },
+  "Grey Street": {
+    "lat": 22.5668867,
+    "lng": 88.2697149,
+    "name": "Grey Street",
+    "display_name": "Arabinda Sarani, VIVEKANANDA NAGAR, Kolkata Metropolitan Area, Sankrail, Howrah, West Bengal, 711109, India"
+  }
+}

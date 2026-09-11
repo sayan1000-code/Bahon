@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "hatibagan",
+    "name": "Hatibagan",
+    "code": "HATI",
+    "platform": "Bay 1",
+    "lat": 22.594957,
+    "lng": 88.370928,
+    "description": "WBTC stop at Hatibagan"
+  },
+  {
+    "id": "nimtala-ghat-st",
+    "name": "Nimtala Ghat St",
+    "code": "NIMT",
+    "platform": "Bay 1",
+    "lat": 22.592771,
+    "lng": 88.354808,
+    "description": "WBTC stop at Nimtala Ghat St"
+  },
+  {
+    "id": "b-k-paul-ave",
+    "name": "B.K. Paul Ave",
+    "code": "B-K-",
+    "platform": "Bay 1",
+    "lat": 22.597529,
+    "lng": 88.354934,
+    "description": "WBTC stop at B.K. Paul Ave"
+  },
+  {
+    "id": "paikpara",
+    "name": "Paikpara",
+    "code": "PAIK",
+    "platform": "Bay 1",
+    "lat": 22.612051,
+    "lng": 88.385565,
+    "description": "WBTC stop at Paikpara"
+  },
+  {
+    "id": "padmapukur",
+    "name": "Padmapukur",
+    "code": "PADM",
+    "platform": "Bay 1",
+    "lat": 22.531543,
+    "lng": 88.352457,
+    "description": "WBTC stop at Padmapukur"
+  },
+  {
+    "id": "darga-rd",
+    "name": "Darga Rd",
+    "code": "DARG",
+    "platform": "Bay 1",
+    "lat": 22.542955,
+    "lng": 88.37128,
+    "description": "WBTC stop at Darga Rd"
+  },
+  {
+    "id": "bondel-gate",
+    "name": "Bondel Gate",
+    "code": "BOND",
+    "platform": "Bay 1",
+    "lat": 22.529094,
+    "lng": 88.374891,
+    "description": "WBTC stop at Bondel Gate"
+  },
+  {
+    "id": "alipur-rd",
+    "name": "Alipur Rd",
+    "code": "ALIP",
+    "platform": "Bay 1",
+    "lat": 22.534061,
+    "lng": 88.332252,
+    "description": "WBTC stop at Alipur Rd"
+  },
+  {
+    "id": "sarsuna",
+    "name": "Sarsuna",
+    "code": "SARS",
+    "platform": "Bay 1",
+    "lat": 22.480999,
+    "lng": 88.284838,
+    "description": "WBTC stop at Sarsuna"
+  },
+  {
+    "id": "bakultala",
+    "name": "Bakultala",
+    "code": "BAKU",
+    "platform": "Bay 1",
+    "lat": 22.484018,
+    "lng": 88.302391,
+    "description": "WBTC stop at Bakultala"
+  },
+  {
+    "id": "manton-xing",
+    "name": "Manton Xing",
+    "code": "MANT",
+    "platform": "Bay 1",
+    "lat": 22.494863,
+    "lng": 88.316607,
+    "description": "WBTC stop at Manton Xing"
+  },
+  {
+    "id": "casurina-ave",
+    "name": "Casurina Ave",
+    "code": "CASU",
+    "platform": "Bay 1",
+    "lat": 22.559366,
+    "lng": 88.345867,
+    "description": "WBTC stop at Casurina Ave"
+  },
+  {
+    "id": "bedon-square",
+    "name": "Bedon Square",
+    "code": "BEDO",
+    "platform": "Bay 1",
+    "lat": 22.590461,
+    "lng": 88.360743,
+    "description": "WBTC stop at Bedon Square"
+  },
+  {
+    "id": "ganguli-bagan",
+    "name": "Ganguli Bagan",
+    "code": "GANG",
+    "platform": "Bay 1",
+    "lat": 22.479154,
+    "lng": 88.388228,
+    "description": "WBTC stop at Ganguli Bagan"
+  },
+  {
+    "id": "baghajatin",
+    "name": "Baghajatin",
+    "code": "BAGH",
+    "platform": "Bay 1",
+    "lat": 22.482739,
+    "lng": 88.386671,
+    "description": "WBTC stop at Baghajatin"
+  },
+  {
+    "id": "d-park",
+    "name": "D Park",
+    "code": "D-PA",
+    "platform": "Bay 1",
+    "lat": 22.518435,
+    "lng": 88.353515,
+    "description": "WBTC stop at D Park"
+  },
+  {
+    "id": "pts",
+    "name": "PTS",
+    "code": "PTS",
+    "platform": "Bay 1",
+    "lat": 22.544254,
+    "lng": 88.336332,
+    "description": "WBTC stop at PTS"
+  },
+  {
+    "id": "bankra-more",
+    "name": "Bankra More",
+    "code": "BANK",
+    "platform": "Bay 1",
+    "lat": 22.663212,
+    "lng": 88.427127,
+    "description": "WBTC stop at Bankra More"
+  },
+  {
+    "id": "bangur-dum-dum-park",
+    "name": "Bangur/Dum Dum Park",
+    "code": "BANG",
+    "platform": "Bay 1",
+    "lat": 22.603428,
+    "lng": 88.423038,
+    "description": "WBTC stop at Bangur/Dum Dum Park"
+  },
+  {
+    "id": "beliaghata-con",
+    "name": "Beliaghata Con.",
+    "code": "BELI",
+    "platform": "Bay 1",
+    "lat": 22.56942,
+    "lng": 88.40581,
+    "description": "WBTC stop at Beliaghata Con."
+  },
+  {
+    "id": "shibanipit",
+    "name": "Shibanipit",
+    "code": "SHIB",
+    "platform": "Bay 1",
+    "lat": 22.360715,
+    "lng": 88.432558,
+    "description": "WBTC stop at Shibanipit"
+  },
+  {
+    "id": "baruipur-padmapukur",
+    "name": "Baruipur/Padmapukur",
+    "code": "BARU",
+    "platform": "Bay 1",
+    "lat": 22.360715,
+    "lng": 88.432558,
+    "description": "WBTC stop at Baruipur/Padmapukur"
+  },
+  {
+    "id": "malancha-bazar",
+    "name": "Malancha Bazar",
+    "code": "MALA",
+    "platform": "Bay 1",
+    "lat": 22.360715,
+    "lng": 88.432558,
+    "description": "WBTC stop at Malancha Bazar"
+  },
+  {
+    "id": "harinavi",
+    "name": "Harinavi",
+    "code": "HARI",
+    "platform": "Bay 1",
+    "lat": 22.412517,
+    "lng": 88.418577,
+    "description": "WBTC stop at Harinavi"
+  },
+  {
+    "id": "mission-gate",
+    "name": "Mission Gate",
+    "code": "MISS",
+    "platform": "Bay 1",
+    "lat": 22.453901,
+    "lng": 88.41849,
+    "description": "WBTC stop at Mission Gate"
+  },
+  {
+    "id": "ramkrishna-ashram",
+    "name": "Ramkrishna Ashram",
+    "code": "RAMK",
+    "platform": "Bay 1",
+    "lat": 22.437508,
+    "lng": 88.401764,
+    "description": "WBTC stop at Ramkrishna Ashram"
+  },
+  {
+    "id": "motilal-gupta-road",
+    "name": "Motilal Gupta Road",
+    "code": "MOTI",
+    "platform": "Bay 1",
+    "lat": 22.487139,
+    "lng": 88.332201,
+    "description": "WBTC stop at Motilal Gupta Road"
+  },
+  {
+    "id": "lake-gardens",
+    "name": "Lake Gardens",
+    "code": "LAKE",
+    "platform": "Bay 1",
+    "lat": 22.508055,
+    "lng": 88.353329,
+    "description": "WBTC stop at Lake Gardens"
+  },
+  {
+    "id": "babubazar",
+    "name": "Babubazar",
+    "code": "BABU",
+    "platform": "Bay 1",
+    "lat": 22.537618,
+    "lng": 88.315821,
+    "description": "WBTC stop at Babubazar"
+  },
+  {
+    "id": "bnr-more",
+    "name": "BNR More",
+    "code": "BNR-",
+    "platform": "Bay 1",
+    "lat": 22.547107,
+    "lng": 88.322229,
+    "description": "WBTC stop at BNR More"
+  },
+  {
+    "id": "muduali",
+    "name": "Muduali",
+    "code": "MUDU",
+    "platform": "Bay 1",
+    "lat": 22.547107,
+    "lng": 88.322229,
+    "description": "WBTC stop at Muduali"
+  },
+  {
+    "id": "kachhi-sarab",
+    "name": "Kachhi Sarab",
+    "code": "KACH",
+    "platform": "Bay 1",
+    "lat": 22.547107,
+    "lng": 88.322229,
+    "description": "WBTC stop at Kachhi Sarab"
+  },
+  {
+    "id": "garden-reach",
+    "name": "Garden Reach",
+    "code": "GARD",
+    "platform": "Bay 1",
+    "lat": 22.547107,
+    "lng": 88.322229,
+    "description": "WBTC stop at Garden Reach"
+  },
+  {
+    "id": "ramnagar",
+    "name": "Ramnagar",
+    "code": "RAMN",
+    "platform": "Bay 1",
+    "lat": 22.54357,
+    "lng": 88.267934,
+    "description": "WBTC stop at Ramnagar"
+  },
+  {
+    "id": "fatehpur",
+    "name": "Fatehpur",
+    "code": "FATE",
+    "platform": "Bay 1",
+    "lat": 22.54357,
+    "lng": 88.267934,
+    "description": "WBTC stop at Fatehpur"
+  },
+  {
+    "id": "dackbanglow-more",
+    "name": "Dackbanglow More",
+    "code": "DACK",
+    "platform": "Bay 1",
+    "lat": 22.719107,
+    "lng": 88.482623,
+    "description": "WBTC stop at Dackbanglow More"
+  },
+  {
+    "id": "chinar-park",
+    "name": "Chinar Park",
+    "code": "CHIN",
+    "platform": "Bay 1",
+    "lat": 22.623593,
+    "lng": 88.441046,
+    "description": "WBTC stop at Chinar Park"
+  },
+  {
+    "id": "baruipur-hospital",
+    "name": "Baruipur Hospital",
+    "code": "BARU",
+    "platform": "Bay 1",
+    "lat": 22.359177,
+    "lng": 88.433562,
+    "description": "WBTC stop at Baruipur Hospital"
+  },
+  {
+    "id": "baruipur-station",
+    "name": "Baruipur Station",
+    "code": "BARU",
+    "platform": "Bay 1",
+    "lat": 22.366329,
+    "lng": 88.431278,
+    "description": "WBTC stop at Baruipur Station"
+  },
+  {
+    "id": "khasmallick",
+    "name": "Khasmallick",
+    "code": "KHAS",
+    "platform": "Bay 1",
+    "lat": 22.360715,
+    "lng": 88.432558,
+    "description": "WBTC stop at Khasmallick"
+  },
+  {
+    "id": "rajpur-bazar",
+    "name": "Rajpur Bazar",
+    "code": "RAJP",
+    "platform": "Bay 1",
+    "lat": 22.42279,
+    "lng": 88.410727,
+    "description": "WBTC stop at Rajpur Bazar"
+  },
+  {
+    "id": "narendrapur",
+    "name": "Narendrapur",
+    "code": "NARE",
+    "platform": "Bay 1",
+    "lat": 22.453901,
+    "lng": 88.41849,
+    "description": "WBTC stop at Narendrapur"
+  },
+  {
+    "id": "mukundapur",
+    "name": "Mukundapur",
+    "code": "MUKU",
+    "platform": "Bay 1",
+    "lat": 22.495626,
+    "lng": 88.398449,
+    "description": "WBTC stop at Mukundapur"
+  },
+  {
+    "id": "uttar-panchannagram",
+    "name": "Uttar Panchannagram",
+    "code": "UTTA",
+    "platform": "Bay 1",
+    "lat": 22.524685,
+    "lng": 88.396233,
+    "description": "WBTC stop at Uttar Panchannagram"
+  },
+  {
+    "id": "4no-bridge",
+    "name": "4no. Bridge",
+    "code": "4NO-",
+    "platform": "Bay 1",
+    "lat": 22.54078,
+    "lng": 88.373881,
+    "description": "WBTC stop at 4no. Bridge"
+  },
+  {
+    "id": "chittaranjan-hospital",
+    "name": "Chittaranjan Hospital",
+    "code": "CHIT",
+    "platform": "Bay 1",
+    "lat": 22.54078,
+    "lng": 88.373881,
+    "description": "WBTC stop at Chittaranjan Hospital"
+  },
+  {
+    "id": "titagarh",
+    "name": "Titagarh",
+    "code": "TITA",
+    "platform": "Bay 1",
+    "lat": 22.74192,
+    "lng": 88.379201,
+    "description": "WBTC stop at Titagarh"
+  },
+  {
+    "id": "khardah",
+    "name": "Khardah",
+    "code": "KHAR",
+    "platform": "Bay 1",
+    "lat": 22.725279,
+    "lng": 88.37282,
+    "description": "WBTC stop at Khardah"
+  },
+  {
+    "id": "sodepur-girja",
+    "name": "Sodepur Girja",
+    "code": "SODE",
+    "platform": "Bay 1",
+    "lat": 22.48161,
+    "lng": 88.331715,
+    "description": "WBTC stop at Sodepur Girja"
+  },
+  {
+    "id": "kamarhati",
+    "name": "Kamarhati",
+    "code": "KAMA",
+    "platform": "Bay 1",
+    "lat": 22.681294,
+    "lng": 88.365452,
+    "description": "WBTC stop at Kamarhati"
+  },
+  {
+    "id": "rathtala-more",
+    "name": "Rathtala More",
+    "code": "RATH",
+    "platform": "Bay 1",
+    "lat": 22.660364,
+    "lng": 88.385719,
+    "description": "WBTC stop at Rathtala More"
+  },
+  {
+    "id": "tobin-road",
+    "name": "Tobin Road",
+    "code": "TOBI",
+    "platform": "Bay 1",
+    "lat": 22.638336,
+    "lng": 88.375905,
+    "description": "WBTC stop at Tobin Road"
+  },
+  {
+    "id": "rajballavpara",
+    "name": "Rajballavpara",
+    "code": "RAJB",
+    "platform": "Bay 1",
+    "lat": 22.605553,
+    "lng": 88.365589,
+    "description": "WBTC stop at Rajballavpara"
+  },
+  {
+    "id": "bishnupur",
+    "name": "Bishnupur",
+    "code": "BISH",
+    "platform": "Bay 1",
+    "lat": 22.381184,
+    "lng": 88.268017,
+    "description": "WBTC stop at Bishnupur"
+  },
+  {
+    "id": "khariberia",
+    "name": "Khariberia",
+    "code": "KHAR",
+    "platform": "Bay 1",
+    "lat": 22.397918,
+    "lng": 88.27737,
+    "description": "WBTC stop at Khariberia"
+  },
+  {
+    "id": "joka-bridge",
+    "name": "Joka Bridge",
+    "code": "JOKA",
+    "platform": "Bay 1",
+    "lat": 22.452373,
+    "lng": 88.301852,
+    "description": "WBTC stop at Joka Bridge"
+  },
+  {
+    "id": "ekbalpur",
+    "name": "Ekbalpur",
+    "code": "EKBA",
+    "platform": "Bay 1",
+    "lat": 22.533306,
+    "lng": 88.327236,
+    "description": "WBTC stop at Ekbalpur"
+  },
+  {
+    "id": "bank-of-india",
+    "name": "Bank of India",
+    "code": "BANK",
+    "platform": "Bay 1",
+    "lat": 22.570492,
+    "lng": 88.36156,
+    "description": "WBTC stop at Bank of India"
+  },
+  {
+    "id": "stand-road",
+    "name": "Stand Road",
+    "code": "STAN",
+    "platform": "Bay 1",
+    "lat": 22.557017,
+    "lng": 88.332171,
+    "description": "WBTC stop at Stand Road"
+  },
+  {
+    "id": "duttapukur",
+    "name": "Duttapukur",
+    "code": "DUTT",
+    "platform": "Bay 1",
+    "lat": 22.769727,
+    "lng": 88.545368,
+    "description": "WBTC stop at Duttapukur"
+  },
+  {
+    "id": "belaghata",
+    "name": "Belaghata",
+    "code": "BELA",
+    "platform": "Bay 1",
+    "lat": 22.550656,
+    "lng": 88.403917,
+    "description": "WBTC stop at Belaghata"
+  },
+  {
+    "id": "mandirtala",
+    "name": "Mandirtala",
+    "code": "MAND",
+    "platform": "Bay 1",
+    "lat": 22.569958,
+    "lng": 88.317423,
+    "description": "WBTC stop at Mandirtala"
+  },
+  {
+    "id": "beckbagan",
+    "name": "Beckbagan",
+    "code": "BECK",
+    "platform": "Bay 1",
+    "lat": 22.540833,
+    "lng": 88.359216,
+    "description": "WBTC stop at Beckbagan"
+  },
+  {
+    "id": "wipro-more",
+    "name": "Wipro More",
+    "code": "WIPR",
+    "platform": "Bay 1",
+    "lat": 22.575454,
+    "lng": 88.432257,
+    "description": "WBTC stop at Wipro More"
+  },
+  {
+    "id": "raja-rammohan-roy-rd",
+    "name": "Raja Rammohan Roy Rd",
+    "code": "RAJA",
+    "platform": "Bay 1",
+    "lat": 22.488112,
+    "lng": 88.324183,
+    "description": "WBTC stop at Raja Rammohan Roy Rd"
+  },
+  {
+    "id": "sukanta-setu",
+    "name": "Sukanta Setu",
+    "code": "SUKA",
+    "platform": "Bay 1",
+    "lat": 22.495499,
+    "lng": 88.370901,
+    "description": "WBTC stop at Sukanta Setu"
+  },
+  {
+    "id": "santoshpur",
+    "name": "Santoshpur",
+    "code": "SANT",
+    "platform": "Bay 1",
+    "lat": 22.496048,
+    "lng": 88.38223,
+    "description": "WBTC stop at Santoshpur"
+  },
+  {
+    "id": "central-jail",
+    "name": "Central Jail",
+    "code": "CENT",
+    "platform": "Bay 1",
+    "lat": 22.621114,
+    "lng": 88.392897,
+    "description": "WBTC stop at Central Jail"
+  },
+  {
+    "id": "nager-bazar",
+    "name": "Nager Bazar",
+    "code": "NAGE",
+    "platform": "Bay 1",
+    "lat": 22.62155,
+    "lng": 88.402284,
+    "description": "WBTC stop at Nager Bazar"
+  },
+  {
+    "id": "paikpara-xing",
+    "name": "Paikpara Xing",
+    "code": "PAIK",
+    "platform": "Bay 1",
+    "lat": 22.612051,
+    "lng": 88.385565,
+    "description": "WBTC stop at Paikpara Xing"
+  },
+  {
+    "id": "colutala-street",
+    "name": "Colutala Street",
+    "code": "COLU",
+    "platform": "Bay 1",
+    "lat": 22.575406,
+    "lng": 88.359405,
+    "description": "WBTC stop at Colutala Street"
+  },
+  {
+    "id": "mayo-rd",
+    "name": "Mayo Rd",
+    "code": "MAYO",
+    "platform": "Bay 1",
+    "lat": 22.561982,
+    "lng": 88.347837,
+    "description": "WBTC stop at Mayo Rd"
+  },
+  {
+    "id": "toll-plaza",
+    "name": "Toll Plaza",
+    "code": "TOLL",
+    "platform": "Bay 1",
+    "lat": 22.569605,
+    "lng": 88.317077,
+    "description": "WBTC stop at Toll Plaza"
+  },
+  {
+    "id": "menton",
+    "name": "Menton",
+    "code": "MENT",
+    "platform": "Bay 1",
+    "lat": 22.494863,
+    "lng": 88.316607,
+    "description": "WBTC stop at Menton"
+  },
+  {
+    "id": "c-a-island",
+    "name": "C.A. Island",
+    "code": "C-A-",
+    "platform": "Bay 1",
+    "lat": 22.586973,
+    "lng": 88.401066,
+    "description": "WBTC stop at C.A. Island"
+  },
+  {
+    "id": "seva-hospital",
+    "name": "Seva Hospital",
+    "code": "SEVA",
+    "platform": "Bay 1",
+    "lat": 22.524112,
+    "lng": 88.352386,
+    "description": "WBTC stop at Seva Hospital"
+  },
+  {
+    "id": "baisaki-bhavan",
+    "name": "Baisaki Bhavan",
+    "code": "BAIS",
+    "platform": "Bay 1",
+    "lat": 22.594673,
+    "lng": 88.405491,
+    "description": "WBTC stop at Baisaki Bhavan"
+  },
+  {
+    "id": "alambazar",
+    "name": "Alambazar",
+    "code": "ALAM",
+    "platform": "Bay 1",
+    "lat": 22.653077,
+    "lng": 88.380596,
+    "description": "WBTC stop at Alambazar"
+  },
+  {
+    "id": "baghajatin-rd",
+    "name": "Baghajatin Rd",
+    "code": "BAGH",
+    "platform": "Bay 1",
+    "lat": 22.653077,
+    "lng": 88.380596,
+    "description": "WBTC stop at Baghajatin Rd"
+  },
+  {
+    "id": "baranagar-bazar",
+    "name": "Baranagar Bazar",
+    "code": "BARA",
+    "platform": "Bay 1",
+    "lat": 22.653077,
+    "lng": 88.380596,
+    "description": "WBTC stop at Baranagar Bazar"
+  },
+  {
+    "id": "bibir-bazar",
+    "name": "Bibir Bazar",
+    "code": "BIBI",
+    "platform": "Bay 1",
+    "lat": 22.617348,
+    "lng": 88.373734,
+    "description": "WBTC stop at Bibir Bazar"
+  },
+  {
+    "id": "cossipur",
+    "name": "Cossipur",
+    "code": "COSS",
+    "platform": "Bay 1",
+    "lat": 22.617348,
+    "lng": 88.373734,
+    "description": "WBTC stop at Cossipur"
+  },
+  {
+    "id": "bag-bazar",
+    "name": "Bag Bazar",
+    "code": "BAG-",
+    "platform": "Bay 1",
+    "lat": 22.605553,
+    "lng": 88.365589,
+    "description": "WBTC stop at Bag Bazar"
+  },
+  {
+    "id": "colutala-st",
+    "name": "Colutala St",
+    "code": "COLU",
+    "platform": "Bay 1",
+    "lat": 22.575406,
+    "lng": 88.359405,
+    "description": "WBTC stop at Colutala St"
+  },
+  {
+    "id": "chandi-ghosh",
+    "name": "Chandi Ghosh",
+    "code": "CHAN",
+    "platform": "Bay 1",
+    "lat": 22.481371,
+    "lng": 88.345816,
+    "description": "WBTC stop at Chandi Ghosh"
+  },
+  {
+    "id": "sld-gate",
+    "name": "SLD Gate",
+    "code": "SLD-",
+    "platform": "Bay 1",
+    "lat": 22.56888,
+    "lng": 88.431054,
+    "description": "WBTC stop at SLD Gate"
+  },
+  {
+    "id": "weble-house",
+    "name": "Weble House",
+    "code": "WEBL",
+    "platform": "Bay 1",
+    "lat": 22.569996,
+    "lng": 88.436465,
+    "description": "WBTC stop at Weble House"
+  },
+  {
+    "id": "ranirashmoni-bazar",
+    "name": "Ranirashmoni Bazar",
+    "code": "RANI",
+    "platform": "Bay 1",
+    "lat": 22.550656,
+    "lng": 88.403917,
+    "description": "WBTC stop at Ranirashmoni Bazar"
+  },
+  {
+    "id": "kalighat",
+    "name": "Kalighat",
+    "code": "KALI",
+    "platform": "Bay 1",
+    "lat": 22.515331,
+    "lng": 88.347705,
+    "description": "WBTC stop at Kalighat"
+  },
+  {
+    "id": "chiria-more",
+    "name": "Chiria More",
+    "code": "CHIR",
+    "platform": "Bay 1",
+    "lat": 22.618724,
+    "lng": 88.3793,
+    "description": "WBTC stop at Chiria More"
+  },
+  {
+    "id": "jadavpur",
+    "name": "Jadavpur",
+    "code": "JADA",
+    "platform": "Bay 1",
+    "lat": 22.495499,
+    "lng": 88.370901,
+    "description": "WBTC stop at Jadavpur"
+  },
+  {
+    "id": "dhakuria",
+    "name": "Dhakuria",
+    "code": "DHAK",
+    "platform": "Bay 1",
+    "lat": 22.509107,
+    "lng": 88.371131,
+    "description": "WBTC stop at Dhakuria"
+  },
+  {
+    "id": "golpark",
+    "name": "Golpark",
+    "code": "GOLP",
+    "platform": "Bay 1",
+    "lat": 22.513432,
+    "lng": 88.401745,
+    "description": "WBTC stop at Golpark"
+  },
+  {
+    "id": "hridaypur",
+    "name": "Hridaypur",
+    "code": "HRID",
+    "platform": "Bay 1",
+    "lat": 22.710997,
+    "lng": 88.469999,
+    "description": "WBTC stop at Hridaypur"
+  },
+  {
+    "id": "topsia",
+    "name": "Topsia",
+    "code": "TOPS",
+    "platform": "Bay 1",
+    "lat": 22.532991,
+    "lng": 88.396456,
+    "description": "WBTC stop at Topsia"
+  },
+  {
+    "id": "topsia-more",
+    "name": "Topsia More",
+    "code": "TOPS",
+    "platform": "Bay 1",
+    "lat": 22.532991,
+    "lng": 88.396456,
+    "description": "WBTC stop at Topsia More"
+  },
+  {
+    "id": "james-long-sarani",
+    "name": "James Long Sarani",
+    "code": "JAME",
+    "platform": "Bay 1",
+    "lat": 22.504198,
+    "lng": 88.322223,
+    "description": "WBTC stop at James Long Sarani"
+  },
+  {
+    "id": "princep-ghat",
+    "name": "Princep Ghat",
+    "code": "PRIN",
+    "platform": "Bay 1",
+    "lat": 22.556593,
+    "lng": 88.331407,
+    "description": "WBTC stop at Princep Ghat"
+  },
+  {
+    "id": "cit-road",
+    "name": "CIT Road",
+    "code": "CIT-",
+    "platform": "Bay 1",
+    "lat": 22.576167,
+    "lng": 88.389912,
+    "description": "WBTC stop at CIT Road"
+  },
+  {
+    "id": "dunlop-more",
+    "name": "Dunlop More",
+    "code": "DUNL",
+    "platform": "Bay 1",
+    "lat": 22.652496,
+    "lng": 88.3773,
+    "description": "WBTC stop at Dunlop More"
+  },
+  {
+    "id": "sinthee-more",
+    "name": "Sinthee More",
+    "code": "SINT",
+    "platform": "Bay 1",
+    "lat": 22.631929,
+    "lng": 88.37787,
+    "description": "WBTC stop at Sinthee More"
+  },
+  {
+    "id": "central-avenue",
+    "name": "Central Avenue",
+    "code": "CENT",
+    "platform": "Bay 1",
+    "lat": 22.573137,
+    "lng": 88.364735,
+    "description": "WBTC stop at Central Avenue"
+  },
+  {
+    "id": "park-circus",
+    "name": "Park Circus",
+    "code": "PARK",
+    "platform": "Bay 1",
+    "lat": 22.543326,
+    "lng": 88.366138,
+    "description": "WBTC stop at Park Circus"
+  },
+  {
+    "id": "vivekananda-rd",
+    "name": "Vivekananda Rd",
+    "code": "VIVE",
+    "platform": "Bay 1",
+    "lat": 22.583538,
+    "lng": 88.379577,
+    "description": "WBTC stop at Vivekananda Rd"
+  },
+  {
+    "id": "dakshineswar",
+    "name": "Dakshineswar",
+    "code": "DAKS",
+    "platform": "Bay 1",
+    "lat": 22.654827,
+    "lng": 88.357578,
+    "description": "WBTC stop at Dakshineswar"
+  },
+  {
+    "id": "dum-dum-stn",
+    "name": "Dum Dum Stn",
+    "code": "DUM-",
+    "platform": "Bay 1",
+    "lat": 22.621114,
+    "lng": 88.392897,
+    "description": "WBTC stop at Dum Dum Stn"
+  },
+  {
+    "id": "kudghat",
+    "name": "Kudghat",
+    "code": "KUDG",
+    "platform": "Bay 1",
+    "lat": 22.482549,
+    "lng": 88.325707,
+    "description": "WBTC stop at Kudghat"
+  },
+  {
+    "id": "nabanna",
+    "name": "Nabanna",
+    "code": "NABA",
+    "platform": "Bay 1",
+    "lat": 22.567568,
+    "lng": 88.313683,
+    "description": "WBTC stop at Nabanna"
+  },
+  {
+    "id": "b-t-college",
+    "name": "B.T. College",
+    "code": "B-T-",
+    "platform": "Bay 1",
+    "lat": 22.686068,
+    "lng": 88.444641,
+    "description": "WBTC stop at B.T. College"
+  },
+  {
+    "id": "new-barrackpur-b-t-college",
+    "name": "New Barrackpur B.T. College",
+    "code": "NEW-",
+    "platform": "Bay 1",
+    "lat": 22.686068,
+    "lng": 88.444641,
+    "description": "WBTC stop at New Barrackpur B.T. College"
+  },
+  {
+    "id": "em-bypass",
+    "name": "EM Bypass",
+    "code": "EM-B",
+    "platform": "Bay 1",
+    "lat": 22.469072,
+    "lng": 88.391284,
+    "description": "WBTC stop at EM Bypass"
+  },
+  {
+    "id": "em-byapss",
+    "name": "EM Byapss",
+    "code": "EM-B",
+    "platform": "Bay 1",
+    "lat": 22.469072,
+    "lng": 88.391284,
+    "description": "WBTC stop at EM Byapss"
+  },
+  {
+    "id": "v-i-p-road",
+    "name": "V.I.P. Road",
+    "code": "V-I-",
+    "platform": "Bay 1",
+    "lat": 22.630979,
+    "lng": 88.434413,
+    "description": "WBTC stop at V.I.P. Road"
+  },
+  {
+    "id": "subodh-mallick-square",
+    "name": "Subodh Mallick Square",
+    "code": "SUBO",
+    "platform": "Bay 1",
+    "lat": 22.567264,
+    "lng": 88.356579,
+    "description": "WBTC stop at Subodh Mallick Square"
+  },
+  {
+    "id": "grey-st",
+    "name": "Grey St",
+    "code": "GREY",
+    "platform": "Bay 1",
+    "lat": 22.566887,
+    "lng": 88.269715,
+    "description": "WBTC stop at Grey St"
+  },
+  {
+    "id": "grey-street",
+    "name": "Grey Street",
+    "code": "GREY",
+    "platform": "Bay 1",
+    "lat": 22.566887,
+    "lng": 88.269715,
+    "description": "WBTC stop at Grey Street"
+  }
+]

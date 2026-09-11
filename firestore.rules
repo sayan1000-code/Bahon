@@ -1,0 +1,94 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Default Deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    function isValidUserProfile(data) {
+      return data.keys().hasAll(['userId', 'email']) &&
+             data.userId is string && data.userId.size() <= 128 &&
+             data.email is string && data.email.size() <= 256;
+    }
+
+    function isValidFavoriteStop(data) {
+      return data.keys().hasAll(['id', 'userId', 'stopId', 'stopName']) &&
+             data.id is string && data.id.size() <= 128 &&
+             data.userId is string && data.userId.size() <= 128 &&
+             data.stopId is string && data.stopId.size() <= 64 &&
+             data.stopName is string && data.stopName.size() <= 128;
+    }
+
+    function isValidSavedRoute(data) {
+      return data.keys().hasAll(['id', 'userId', 'fromStopId', 'toStopId', 'routeNumber']) &&
+             data.id is string && data.id.size() <= 128 &&
+             data.userId is string && data.userId.size() <= 128 &&
+             data.fromStopId is string && data.fromStopId.size() <= 64 &&
+             data.toStopId is string && data.toStopId.size() <= 64 &&
+             data.routeNumber is string && data.routeNumber.size() <= 32;
+    }
+
+    function isValidTransitAlert(data) {
+      return data.keys().hasAll(['id', 'userId', 'stopId', 'routeNumber', 'message', 'severity']) &&
+             data.id is string && data.id.size() <= 128 &&
+             data.userId is string && data.userId.size() <= 128 &&
+             data.stopId is string && data.stopId.size() <= 64 &&
+             data.routeNumber is string && data.routeNumber.size() <= 32 &&
+             data.message is string && data.message.size() <= 500 &&
+             data.severity in ['low', 'medium', 'high'];
+    }
+
+    // User Profile
+    match /users/{userId} {
+      allow get: if isOwner(userId) && isValidId(userId);
+      allow create: if isOwner(userId) && isValidId(userId) && isValidUserProfile(incoming()) && incoming().userId == request.auth.uid;
+      allow update: if isOwner(userId) && isValidId(userId) && isValidUserProfile(incoming()) && incoming().userId == existing().userId;
+      allow delete: if isOwner(userId) && isValidId(userId);
+
+      // Favorite stops subcollection
+      match /favorites/{favoriteId} {
+        allow get, list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(favoriteId) && isValidFavoriteStop(incoming()) && incoming().userId == request.auth.uid;
+        allow update: if isOwner(userId) && isValidId(favoriteId) && isValidFavoriteStop(incoming()) && incoming().userId == existing().userId;
+        allow delete: if isOwner(userId) && isValidId(favoriteId);
+      }
+
+      // Saved routes subcollection
+      match /savedRoutes/{savedRouteId} {
+        allow get, list: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidId(savedRouteId) && isValidSavedRoute(incoming()) && incoming().userId == request.auth.uid;
+        allow update: if isOwner(userId) && isValidId(savedRouteId) && isValidSavedRoute(incoming()) && incoming().userId == existing().userId;
+        allow delete: if isOwner(userId) && isValidId(savedRouteId);
+      }
+    }
+
+    // Transit community alerts
+    match /alerts/{alertId} {
+      allow list: if true;
+      allow get: if isValidId(alertId);
+      allow create: if isSignedIn() && isValidId(alertId) && isValidTransitAlert(incoming()) && incoming().userId == request.auth.uid;
+      allow update, delete: if isSignedIn() && isValidId(alertId) && resource.data.userId == request.auth.uid;
+    }
+  }
+}

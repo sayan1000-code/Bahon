@@ -1,0 +1,3052 @@
+[
+  {
+    "stopId": "ultadanga_hudco",
+    "stopName": "Ultadanga Hudco",
+    "corridor": "Near PNB",
+    "originalLat": 22.5898,
+    "originalLng": 88.3972,
+    "correctedLat": 22.586064,
+    "correctedLng": 88.398584,
+    "shiftMeters": 439,
+    "routeNumbers": [
+      "S-22"
+    ]
+  },
+  {
+    "stopId": "rashbehari_junction",
+    "stopName": "Rashbehari Junction",
+    "corridor": "Near Lake Kali Bari",
+    "originalLat": 22.5186,
+    "originalLng": 88.35011,
+    "correctedLat": 22.522097,
+    "correctedLng": 88.352071,
+    "shiftMeters": 438,
+    "routeNumbers": [
+      "S-21"
+    ]
+  },
+  {
+    "stopId": "college_more",
+    "stopName": "College More",
+    "corridor": "Near Wipro More",
+    "originalLat": 22.573799,
+    "originalLng": 88.432957,
+    "correctedLat": 22.577533,
+    "correctedLng": 88.432426,
+    "shiftMeters": 419,
+    "routeNumbers": [
+      "AC-30S (IT Spl.)"
+    ]
+  },
+  {
+    "stopId": "exide_crossing",
+    "stopName": "Exide Crossing",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.53856,
+    "originalLng": 88.35084,
+    "correctedLat": 22.538797,
+    "correctedLng": 88.34688,
+    "shiftMeters": 408,
+    "routeNumbers": [
+      "S-11"
+    ]
+  },
+  {
+    "stopId": "karunamoyee_(tollygunge)",
+    "stopName": "Karunamoyee (Tollygunge)",
+    "corridor": "Near Kundghat",
+    "originalLat": 22.492512,
+    "originalLng": 88.344015,
+    "correctedLat": 22.495039,
+    "correctedLng": 88.341505,
+    "shiftMeters": 381,
+    "routeNumbers": [
+      "AC-31"
+    ]
+  },
+  {
+    "stopId": "brabourne_road",
+    "stopName": "Brabourne Road",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.581136,
+    "originalLng": 88.351284,
+    "correctedLat": 22.584478,
+    "correctedLng": 88.350936,
+    "shiftMeters": 373,
+    "routeNumbers": [
+      "VS2"
+    ]
+  },
+  {
+    "stopId": "baguiati",
+    "stopName": "Baguiati",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.613708,
+    "originalLng": 88.425873,
+    "correctedLat": 22.615302,
+    "correctedLng": 88.422858,
+    "shiftMeters": 357,
+    "routeNumbers": [
+      "AC 2"
+    ]
+  },
+  {
+    "stopId": "ruby_general_hospital_crossing",
+    "stopName": "Ruby General Hospital Crossing",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.513271,
+    "originalLng": 88.402128,
+    "correctedLat": 22.513142,
+    "correctedLng": 88.398916,
+    "shiftMeters": 330,
+    "routeNumbers": [
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "girish_park_metro",
+    "stopName": "Girish Park Metro",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.585515,
+    "originalLng": 88.362602,
+    "correctedLat": 22.583,
+    "correctedLng": 88.362072,
+    "shiftMeters": 285,
+    "routeNumbers": [
+      "AC 2"
+    ]
+  },
+  {
+    "stopId": "behala_chowrasta",
+    "stopName": "Behala Chowrasta",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.489315,
+    "originalLng": 88.310925,
+    "correctedLat": 22.488813,
+    "correctedLng": 88.313594,
+    "shiftMeters": 280,
+    "routeNumbers": [
+      "AC-12D",
+      "S-14",
+      "M-24",
+      "S-45"
+    ]
+  },
+  {
+    "stopId": "topsia_crossing",
+    "stopName": "Topsia Crossing",
+    "corridor": "Near Shibtala Math",
+    "originalLat": 22.53965,
+    "originalLng": 88.38421,
+    "correctedLat": 22.542118,
+    "correctedLng": 88.383988,
+    "shiftMeters": 275,
+    "routeNumbers": [
+      "AC-12"
+    ]
+  },
+  {
+    "stopId": "kalighat_/_rashbehari_crossing",
+    "stopName": "Kalighat / Rashbehari Crossing",
+    "corridor": "Near Kalighat",
+    "originalLat": 22.51941,
+    "originalLng": 88.34781,
+    "correctedLat": 22.51696,
+    "correctedLng": 88.348203,
+    "shiftMeters": 275,
+    "routeNumbers": [
+      "S-46"
+    ]
+  },
+  {
+    "stopId": "ultadanga_(hudco)",
+    "stopName": "Ultadanga (Hudco)",
+    "corridor": "Near PNB",
+    "originalLat": 22.58431,
+    "originalLng": 88.39701,
+    "correctedLat": 22.583495,
+    "correctedLng": 88.394499,
+    "shiftMeters": 273,
+    "routeNumbers": [
+      "15"
+    ]
+  },
+  {
+    "stopId": "jadavpur_8b",
+    "stopName": "Jadavpur 8B",
+    "corridor": "Near Prince A.Saha Rd",
+    "originalLat": 22.497612,
+    "originalLng": 88.371853,
+    "correctedLat": 22.497433,
+    "correctedLng": 88.369384,
+    "shiftMeters": 254,
+    "routeNumbers": [
+      "S-11"
+    ]
+  },
+  {
+    "stopId": "talpukur_crossing",
+    "stopName": "Talpukur Crossing",
+    "corridor": "Near Barrackpore",
+    "originalLat": 22.756306,
+    "originalLng": 88.371697,
+    "correctedLat": 22.755739,
+    "correctedLng": 88.369355,
+    "shiftMeters": 248,
+    "routeNumbers": [
+      "AC-20"
+    ]
+  },
+  {
+    "stopId": "baguihati",
+    "stopName": "Baguihati",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.611777,
+    "originalLng": 88.426017,
+    "correctedLat": 22.613595,
+    "correctedLng": 88.424627,
+    "shiftMeters": 247,
+    "routeNumbers": [
+      "AC39"
+    ]
+  },
+  {
+    "stopId": "ajaynagar",
+    "stopName": "Ajaynagar",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.48891,
+    "originalLng": 88.399701,
+    "correctedLat": 22.489518,
+    "correctedLng": 88.397389,
+    "shiftMeters": 247,
+    "routeNumbers": [
+      "S-24N"
+    ]
+  },
+  {
+    "stopId": "khidirpur_crossing",
+    "stopName": "Khidirpur Crossing",
+    "corridor": "Near Zoo",
+    "originalLat": 22.535127,
+    "originalLng": 88.329836,
+    "correctedLat": 22.535884,
+    "correctedLng": 88.327606,
+    "shiftMeters": 244,
+    "routeNumbers": [
+      "S-14",
+      "E-4"
+    ]
+  },
+  {
+    "stopId": "majerhat_bridge_/_station",
+    "stopName": "Majerhat Bridge / Station",
+    "corridor": "Near Mominpur",
+    "originalLat": 22.52125,
+    "originalLng": 88.32412,
+    "correctedLat": 22.519918,
+    "correctedLng": 88.326003,
+    "shiftMeters": 244,
+    "routeNumbers": [
+      "S-45"
+    ]
+  },
+  {
+    "stopId": "behala_thana_(14_no.)",
+    "stopName": "Behala Thana (14 No.)",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.50125,
+    "originalLng": 88.31428,
+    "correctedLat": 22.50059,
+    "correctedLng": 88.316536,
+    "shiftMeters": 243,
+    "routeNumbers": [
+      "S-31"
+    ]
+  },
+  {
+    "stopId": "kaikhali_crossing",
+    "stopName": "Kaikhali Crossing",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.633645,
+    "originalLng": 88.434237,
+    "correctedLat": 22.632359,
+    "correctedLng": 88.436135,
+    "shiftMeters": 242,
+    "routeNumbers": [
+      "S-34C"
+    ]
+  },
+  {
+    "stopId": "park_circus_7-point",
+    "stopName": "Park Circus 7-Point",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.539884,
+    "originalLng": 88.36543,
+    "correctedLat": 22.542044,
+    "correctedLng": 88.365597,
+    "shiftMeters": 241,
+    "routeNumbers": [
+      "AC-12"
+    ]
+  },
+  {
+    "stopId": "majerhat_bridge_crossing",
+    "stopName": "Majerhat Bridge Crossing",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.519278,
+    "originalLng": 88.320418,
+    "correctedLat": 22.518675,
+    "correctedLng": 88.322627,
+    "shiftMeters": 237,
+    "routeNumbers": [
+      "S-3A"
+    ]
+  },
+  {
+    "stopId": "new_town_bus_stand_(dlf_1)",
+    "stopName": "New Town Bus Stand (DLF 1)",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.582071,
+    "originalLng": 88.452905,
+    "correctedLat": 22.579965,
+    "correctedLng": 88.45281,
+    "shiftMeters": 234,
+    "routeNumbers": [
+      "AC-12",
+      "AC-30S (IT Spl.)"
+    ]
+  },
+  {
+    "stopId": "dakshineswar_/_nivedita_setu",
+    "stopName": "Dakshineswar / Nivedita Setu",
+    "corridor": "Near Belghoria Exp. Way",
+    "originalLat": 22.654877,
+    "originalLng": 88.362624,
+    "correctedLat": 22.652844,
+    "correctedLng": 88.362924,
+    "shiftMeters": 228,
+    "routeNumbers": [
+      "WBTC C31"
+    ]
+  },
+  {
+    "stopId": "13_no._tank_/_bidhannagar_link",
+    "stopName": "13 No. Tank / Bidhannagar Link",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.59214,
+    "originalLng": 88.401825,
+    "correctedLat": 22.590222,
+    "correctedLng": 88.401093,
+    "shiftMeters": 226,
+    "routeNumbers": [
+      "AC-30S (IT Spl.)"
+    ]
+  },
+  {
+    "stopId": "ekbalpur",
+    "stopName": "Ekbalpur",
+    "corridor": "Near Mominpur",
+    "originalLat": 22.522743,
+    "originalLng": 88.322379,
+    "correctedLat": 22.522021,
+    "correctedLng": 88.324432,
+    "shiftMeters": 226,
+    "routeNumbers": [
+      "S-14"
+    ]
+  },
+  {
+    "stopId": "burrabazar_(central_avenue_crossing)",
+    "stopName": "Burrabazar (Central Avenue Crossing)",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.581546,
+    "originalLng": 88.359161,
+    "correctedLat": 22.57985,
+    "correctedLng": 88.358008,
+    "shiftMeters": 223,
+    "routeNumbers": [
+      "S-32"
+    ]
+  },
+  {
+    "stopId": "tegharia",
+    "stopName": "Tegharia",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.618378,
+    "originalLng": 88.431967,
+    "correctedLat": 22.619261,
+    "correctedLng": 88.430038,
+    "shiftMeters": 221,
+    "routeNumbers": [
+      "AC39"
+    ]
+  },
+  {
+    "stopId": "akankha_more",
+    "stopName": "Akankha More",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.604961,
+    "originalLng": 88.459494,
+    "correctedLat": 22.604569,
+    "correctedLng": 88.457418,
+    "shiftMeters": 218,
+    "routeNumbers": [
+      "AC-23A"
+    ]
+  },
+  {
+    "stopId": "majerhat_bridge",
+    "stopName": "Majerhat Bridge",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.511554,
+    "originalLng": 88.318189,
+    "correctedLat": 22.511015,
+    "correctedLng": 88.32019,
+    "shiftMeters": 214,
+    "routeNumbers": [
+      "S-14",
+      "S-4D"
+    ]
+  },
+  {
+    "stopId": "gariahat_crossing",
+    "stopName": "Gariahat Crossing",
+    "corridor": "Near Gariahat",
+    "originalLat": 22.51923,
+    "originalLng": 88.364803,
+    "correctedLat": 22.517314,
+    "correctedLng": 88.364882,
+    "shiftMeters": 213,
+    "routeNumbers": [
+      "AC-24A",
+      "AC-24",
+      "S-4",
+      "S-5C"
+    ]
+  },
+  {
+    "stopId": "behala_14_no.",
+    "stopName": "Behala 14 No.",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.506807,
+    "originalLng": 88.317157,
+    "correctedLat": 22.506365,
+    "correctedLng": 88.319176,
+    "shiftMeters": 213,
+    "routeNumbers": [
+      "AC-12D"
+    ]
+  },
+  {
+    "stopId": "esplanade_(laldighi)",
+    "stopName": "Esplanade (Laldighi)",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.566113,
+    "originalLng": 88.351398,
+    "correctedLat": 22.565837,
+    "correctedLng": 88.349349,
+    "shiftMeters": 213,
+    "routeNumbers": [
+      "S-2"
+    ]
+  },
+  {
+    "stopId": "lake_town_crossing",
+    "stopName": "Lake Town Crossing",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.600122,
+    "originalLng": 88.404016,
+    "correctedLat": 22.60133,
+    "correctedLng": 88.402449,
+    "shiftMeters": 210,
+    "routeNumbers": [
+      "S-16"
+    ]
+  },
+  {
+    "stopId": "sakher_bazar",
+    "stopName": "Sakher Bazar",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.48362,
+    "originalLng": 88.31245,
+    "correctedLat": 22.483762,
+    "correctedLng": 88.31046,
+    "shiftMeters": 205,
+    "routeNumbers": [
+      "AC-12D",
+      "AC 4B"
+    ]
+  },
+  {
+    "stopId": "girish_park_metro_crossing",
+    "stopName": "Girish Park Metro Crossing",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.586115,
+    "originalLng": 88.36014,
+    "correctedLat": 22.584303,
+    "correctedLng": 88.360355,
+    "shiftMeters": 203,
+    "routeNumbers": [
+      "AC-30"
+    ]
+  },
+  {
+    "stopId": "dum_dum_park",
+    "stopName": "Dum Dum Park",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.60587,
+    "originalLng": 88.417521,
+    "correctedLat": 22.60713,
+    "correctedLng": 88.416176,
+    "shiftMeters": 197,
+    "routeNumbers": [
+      "AC39"
+    ]
+  },
+  {
+    "stopId": "mominpur",
+    "stopName": "Mominpur",
+    "corridor": "Near Alipur Rd",
+    "originalLat": 22.529695,
+    "originalLng": 88.327787,
+    "correctedLat": 22.530289,
+    "correctedLng": 88.326008,
+    "shiftMeters": 194,
+    "routeNumbers": [
+      "AC 4"
+    ]
+  },
+  {
+    "stopId": "esplanade_bus_stand",
+    "stopName": "Esplanade Bus Stand",
+    "corridor": "Near Esplanade",
+    "originalLat": 22.564013,
+    "originalLng": 88.34959,
+    "correctedLat": 22.563876,
+    "correctedLng": 88.347704,
+    "shiftMeters": 194,
+    "routeNumbers": [
+      "D1A",
+      "E-4"
+    ]
+  },
+  {
+    "stopId": "nicco_park",
+    "stopName": "Nicco Park",
+    "corridor": "Near Appolo Hospital",
+    "originalLat": 22.568961,
+    "originalLng": 88.418514,
+    "correctedLat": 22.567684,
+    "correctedLng": 88.419699,
+    "shiftMeters": 187,
+    "routeNumbers": [
+      "S-30 (IT Spl)",
+      "AC 9B",
+      "AC 4A",
+      "C42"
+    ]
+  },
+  {
+    "stopId": "burrabazar_/_satyanarayan_park",
+    "stopName": "Burrabazar / Satyanarayan Park",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.58191,
+    "originalLng": 88.354919,
+    "correctedLat": 22.583589,
+    "correctedLng": 88.355057,
+    "shiftMeters": 187,
+    "routeNumbers": [
+      "AC-30",
+      "S-32A"
+    ]
+  },
+  {
+    "stopId": "bridge_no._4",
+    "stopName": "Bridge No. 4",
+    "corridor": "Near Darga Rd",
+    "originalLat": 22.541427,
+    "originalLng": 88.374972,
+    "correctedLat": 22.539765,
+    "correctedLng": 88.374948,
+    "shiftMeters": 185,
+    "routeNumbers": [
+      "AC-12"
+    ]
+  },
+  {
+    "stopId": "fancy_market",
+    "stopName": "Fancy Market",
+    "corridor": "Near Khidderpur",
+    "originalLat": 22.53799,
+    "originalLng": 88.320065,
+    "correctedLat": 22.539603,
+    "correctedLng": 88.319744,
+    "shiftMeters": 182,
+    "routeNumbers": [
+      "M-14"
+    ]
+  },
+  {
+    "stopId": "peerless_hospital",
+    "stopName": "Peerless Hospital",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.48232,
+    "originalLng": 88.39912,
+    "correctedLat": 22.482616,
+    "correctedLng": 88.397383,
+    "shiftMeters": 181,
+    "routeNumbers": [
+      "S-24"
+    ]
+  },
+  {
+    "stopId": "mukundapur_crossing",
+    "stopName": "Mukundapur Crossing",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.493398,
+    "originalLng": 88.395753,
+    "correctedLat": 22.493014,
+    "correctedLng": 88.397388,
+    "shiftMeters": 173,
+    "routeNumbers": [
+      "S-24",
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "rajabazar",
+    "stopName": "Rajabazar",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.576555,
+    "originalLng": 88.37207,
+    "correctedLat": 22.576392,
+    "correctedLng": 88.3704,
+    "shiftMeters": 172,
+    "routeNumbers": [
+      "S64"
+    ]
+  },
+  {
+    "stopId": "teghoria_crossing",
+    "stopName": "Teghoria Crossing",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.626813,
+    "originalLng": 88.431724,
+    "correctedLat": 22.627604,
+    "correctedLng": 88.4303,
+    "shiftMeters": 171,
+    "routeNumbers": [
+      "S-34C"
+    ]
+  },
+  {
+    "stopId": "kankurgachi",
+    "stopName": "Kankurgachi",
+    "corridor": "Near PNB",
+    "originalLat": 22.582898,
+    "originalLng": 88.394726,
+    "correctedLat": 22.584377,
+    "correctedLng": 88.394778,
+    "shiftMeters": 165,
+    "routeNumbers": [
+      "15",
+      "EB-12",
+      "E75",
+      "VS2",
+      "VS-1",
+      "S64"
+    ]
+  },
+  {
+    "stopId": "kaikhali",
+    "stopName": "Kaikhali",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.634827,
+    "originalLng": 88.437361,
+    "correctedLat": 22.634071,
+    "correctedLng": 88.438728,
+    "shiftMeters": 164,
+    "routeNumbers": [
+      "AC39",
+      "EB-12",
+      "VS2"
+    ]
+  },
+  {
+    "stopId": "majherhat_station_/_bridge",
+    "stopName": "Majherhat Station / Bridge",
+    "corridor": "Near Mominpur",
+    "originalLat": 22.520732,
+    "originalLng": 88.322268,
+    "correctedLat": 22.520194,
+    "correctedLng": 88.323753,
+    "shiftMeters": 164,
+    "routeNumbers": [
+      "AC 4"
+    ]
+  },
+  {
+    "stopId": "khanna_cinema_(maniktala)",
+    "stopName": "Khanna Cinema (Maniktala)",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.58981,
+    "originalLng": 88.37125,
+    "correctedLat": 22.589709,
+    "correctedLng": 88.369653,
+    "shiftMeters": 164,
+    "routeNumbers": [
+      "S-32"
+    ]
+  },
+  {
+    "stopId": "central_avenue_crossing",
+    "stopName": "Central Avenue Crossing",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.569369,
+    "originalLng": 88.358304,
+    "correctedLat": 22.567911,
+    "correctedLng": 88.358223,
+    "shiftMeters": 162,
+    "routeNumbers": [
+      "S-3B"
+    ]
+  },
+  {
+    "stopId": "esplanade_bus_terminus",
+    "stopName": "Esplanade Bus Terminus",
+    "corridor": "Near Esplanade",
+    "originalLat": 22.563946,
+    "originalLng": 88.349543,
+    "correctedLat": 22.563772,
+    "correctedLng": 88.347987,
+    "shiftMeters": 161,
+    "routeNumbers": [
+      "C42"
+    ]
+  },
+  {
+    "stopId": "mg_road_/_central_ave_crossing",
+    "stopName": "MG Road / Central Ave Crossing",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.584306,
+    "originalLng": 88.3566,
+    "correctedLat": 22.583029,
+    "correctedLng": 88.357303,
+    "shiftMeters": 159,
+    "routeNumbers": [
+      "S-32A"
+    ]
+  },
+  {
+    "stopId": "kestopur",
+    "stopName": "Kestopur",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.610501,
+    "originalLng": 88.41988,
+    "correctedLat": 22.609465,
+    "correctedLng": 88.420921,
+    "shiftMeters": 157,
+    "routeNumbers": [
+      "AC39",
+      "AC 2"
+    ]
+  },
+  {
+    "stopId": "minto_park_(kalamandir)",
+    "stopName": "Minto Park (Kalamandir)",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.543466,
+    "originalLng": 88.358714,
+    "correctedLat": 22.542095,
+    "correctedLng": 88.358969,
+    "shiftMeters": 155,
+    "routeNumbers": [
+      "AC-12"
+    ]
+  },
+  {
+    "stopId": "mahatma_gandhi_road_crossing",
+    "stopName": "Mahatma Gandhi Road Crossing",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.583866,
+    "originalLng": 88.356041,
+    "correctedLat": 22.585227,
+    "correctedLng": 88.35572,
+    "shiftMeters": 155,
+    "routeNumbers": [
+      "AC-30"
+    ]
+  },
+  {
+    "stopId": "labony_/_gd_island",
+    "stopName": "Labony / GD Island",
+    "corridor": "Near Appolo Hospital",
+    "originalLat": 22.577046,
+    "originalLng": 88.411101,
+    "correctedLat": 22.576368,
+    "correctedLng": 88.41241,
+    "shiftMeters": 154,
+    "routeNumbers": [
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "technopolis",
+    "stopName": "Technopolis",
+    "corridor": "Near Wipro More",
+    "originalLat": 22.58012,
+    "originalLng": 88.43542,
+    "correctedLat": 22.578852,
+    "correctedLng": 88.436002,
+    "shiftMeters": 153,
+    "routeNumbers": [
+      "S-30 (IT Spl)",
+      "WBTC C23",
+      "WBTC C31"
+    ]
+  },
+  {
+    "stopId": "chaltabagan_/_hedua",
+    "stopName": "Chaltabagan / Hedua",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.58512,
+    "originalLng": 88.368415,
+    "correctedLat": 22.586482,
+    "correctedLng": 88.368343,
+    "shiftMeters": 152,
+    "routeNumbers": [
+      "AC-30"
+    ]
+  },
+  {
+    "stopId": "ajaynagar_crossing",
+    "stopName": "Ajaynagar Crossing",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.48892,
+    "originalLng": 88.39864,
+    "correctedLat": 22.488553,
+    "correctedLng": 88.397226,
+    "shiftMeters": 151,
+    "routeNumbers": [
+      "S-24"
+    ]
+  },
+  {
+    "stopId": "eco_park_gate_2",
+    "stopName": "Eco Park Gate 2",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.601893,
+    "originalLng": 88.458012,
+    "correctedLat": 22.601884,
+    "correctedLng": 88.459471,
+    "shiftMeters": 150,
+    "routeNumbers": [
+      "AC-23A"
+    ]
+  },
+  {
+    "stopId": "sealdah_station",
+    "stopName": "Sealdah Station",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.56732,
+    "originalLng": 88.370779,
+    "correctedLat": 22.568122,
+    "correctedLng": 88.369631,
+    "shiftMeters": 148,
+    "routeNumbers": [
+      "S-5",
+      "WBTC C36"
+    ]
+  },
+  {
+    "stopId": "esplanade_terminus",
+    "stopName": "Esplanade Terminus",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.564287,
+    "originalLng": 88.35008,
+    "correctedLat": 22.56398,
+    "correctedLng": 88.348683,
+    "shiftMeters": 147,
+    "routeNumbers": [
+      "E-1"
+    ]
+  },
+  {
+    "stopId": "airport_gate_1",
+    "stopName": "Airport Gate 1",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.642204,
+    "originalLng": 88.436918,
+    "correctedLat": 22.642379,
+    "correctedLng": 88.435513,
+    "shiftMeters": 145,
+    "routeNumbers": [
+      "S-16"
+    ]
+  },
+  {
+    "stopId": "mathpukur_/_beliaghata_more",
+    "stopName": "Mathpukur / Beliaghata More",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.54412,
+    "originalLng": 88.397645,
+    "correctedLat": 22.543713,
+    "correctedLng": 88.398979,
+    "shiftMeters": 144,
+    "routeNumbers": [
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "metropolitan_crossing",
+    "stopName": "Metropolitan Crossing",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.548285,
+    "originalLng": 88.400615,
+    "correctedLat": 22.548692,
+    "correctedLng": 88.399288,
+    "shiftMeters": 144,
+    "routeNumbers": [
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "hazra",
+    "stopName": "Hazra",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.524397,
+    "originalLng": 88.345033,
+    "correctedLat": 22.524353,
+    "correctedLng": 88.346438,
+    "shiftMeters": 144,
+    "routeNumbers": [
+      "T8",
+      "S63"
+    ]
+  },
+  {
+    "stopId": "south_city_mall",
+    "stopName": "South City Mall",
+    "corridor": "Near Lake Gardens",
+    "originalLat": 22.502232,
+    "originalLng": 88.358631,
+    "correctedLat": 22.500984,
+    "correctedLng": 88.35833,
+    "shiftMeters": 142,
+    "routeNumbers": [
+      "AC 1",
+      "AC 4A"
+    ]
+  },
+  {
+    "stopId": "park_street_metro",
+    "stopName": "Park Street Metro",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.552818,
+    "originalLng": 88.351558,
+    "correctedLat": 22.552851,
+    "correctedLng": 88.350171,
+    "shiftMeters": 142,
+    "routeNumbers": [
+      "E-1",
+      "S-47A"
+    ]
+  },
+  {
+    "stopId": "chingrighata_crossing",
+    "stopName": "Chingrighata Crossing",
+    "corridor": "Near Chingrihata",
+    "originalLat": 22.565178,
+    "originalLng": 88.405211,
+    "correctedLat": 22.564784,
+    "correctedLng": 88.406505,
+    "shiftMeters": 140,
+    "routeNumbers": [
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "mominpur_crossing",
+    "stopName": "Mominpur Crossing",
+    "corridor": "Near Alipur Rd",
+    "originalLat": 22.52837,
+    "originalLng": 88.327548,
+    "correctedLat": 22.528872,
+    "correctedLng": 88.32632,
+    "shiftMeters": 138,
+    "routeNumbers": [
+      "S-47"
+    ]
+  },
+  {
+    "stopId": "chandni_chowk",
+    "stopName": "Chandni Chowk",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.5669,
+    "originalLng": 88.353351,
+    "correctedLat": 22.567484,
+    "correctedLng": 88.352188,
+    "shiftMeters": 136,
+    "routeNumbers": [
+      "AC39",
+      "VS-1"
+    ]
+  },
+  {
+    "stopId": "majherhat_/_mint",
+    "stopName": "Majherhat / Mint",
+    "corridor": "Near Mominpur",
+    "originalLat": 22.521475,
+    "originalLng": 88.322048,
+    "correctedLat": 22.521142,
+    "correctedLng": 88.323322,
+    "shiftMeters": 136,
+    "routeNumbers": [
+      "AC-12D"
+    ]
+  },
+  {
+    "stopId": "babughat",
+    "stopName": "Babughat",
+    "corridor": "Near B.B.D.Bag",
+    "originalLat": 22.56664,
+    "originalLng": 88.34541,
+    "correctedLat": 22.566049,
+    "correctedLng": 88.346547,
+    "shiftMeters": 134,
+    "routeNumbers": [
+      "S-3B"
+    ]
+  },
+  {
+    "stopId": "airport_1_no._gate",
+    "stopName": "Airport 1 No. Gate",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.64396,
+    "originalLng": 88.437053,
+    "correctedLat": 22.64412,
+    "correctedLng": 88.435768,
+    "shiftMeters": 133,
+    "routeNumbers": [
+      "AC 2"
+    ]
+  },
+  {
+    "stopId": "pts_(police_training_school)",
+    "stopName": "PTS (Police Training School)",
+    "corridor": "Near Central Jail",
+    "originalLat": 22.53955,
+    "originalLng": 88.338519,
+    "correctedLat": 22.538436,
+    "correctedLng": 88.338991,
+    "shiftMeters": 133,
+    "routeNumbers": [
+      "E-4"
+    ]
+  },
+  {
+    "stopId": "golpark",
+    "stopName": "Golpark",
+    "corridor": "Near Gariahat",
+    "originalLat": 22.51582,
+    "originalLng": 88.36612,
+    "correctedLat": 22.515419,
+    "correctedLng": 88.364913,
+    "shiftMeters": 132,
+    "routeNumbers": [
+      "S-21"
+    ]
+  },
+  {
+    "stopId": "bbd_bag_(lalbazar)",
+    "stopName": "BBD Bag (Lalbazar)",
+    "corridor": "Near Mission Row Xing",
+    "originalLat": 22.568394,
+    "originalLng": 88.347977,
+    "correctedLat": 22.567244,
+    "correctedLng": 88.348263,
+    "shiftMeters": 131,
+    "routeNumbers": [
+      "S-3B"
+    ]
+  },
+  {
+    "stopId": "deshapriya_park",
+    "stopName": "Deshapriya Park",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.520132,
+    "originalLng": 88.354657,
+    "correctedLat": 22.518961,
+    "correctedLng": 88.354693,
+    "shiftMeters": 130,
+    "routeNumbers": [
+      "AC 5"
+    ]
+  },
+  {
+    "stopId": "topsia_vip_bazar",
+    "stopName": "Topsia VIP Bazar",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.529705,
+    "originalLng": 88.398137,
+    "correctedLat": 22.529881,
+    "correctedLng": 88.399386,
+    "shiftMeters": 130,
+    "routeNumbers": [
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "kalikapur_crossing",
+    "stopName": "Kalikapur Crossing",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.500697,
+    "originalLng": 88.399502,
+    "correctedLat": 22.501037,
+    "correctedLng": 88.398312,
+    "shiftMeters": 128,
+    "routeNumbers": [
+      "S-24",
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "santoshpur_jora_bridge",
+    "stopName": "Santoshpur Jora Bridge",
+    "corridor": "Near Santoshpur",
+    "originalLat": 22.495387,
+    "originalLng": 88.384542,
+    "correctedLat": 22.496506,
+    "correctedLng": 88.384453,
+    "shiftMeters": 125,
+    "routeNumbers": [
+      "AC 9B",
+      "AC 9"
+    ]
+  },
+  {
+    "stopId": "bansdroni",
+    "stopName": "Bansdroni",
+    "corridor": "Near Naktala",
+    "originalLat": 22.480831,
+    "originalLng": 88.359159,
+    "correctedLat": 22.481619,
+    "correctedLng": 88.359994,
+    "shiftMeters": 123,
+    "routeNumbers": [
+      "AC 6"
+    ]
+  },
+  {
+    "stopId": "ajay_nagar_/_hiland_park",
+    "stopName": "Ajay Nagar / Hiland Park",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.483652,
+    "originalLng": 88.394812,
+    "correctedLat": 22.483875,
+    "correctedLng": 88.393638,
+    "shiftMeters": 123,
+    "routeNumbers": [
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "barrackpore_railway_station",
+    "stopName": "Barrackpore Railway Station",
+    "corridor": "Near Barrackpore",
+    "originalLat": 22.762145,
+    "originalLng": 88.384512,
+    "correctedLat": 22.761046,
+    "correctedLng": 88.384436,
+    "shiftMeters": 122,
+    "routeNumbers": [
+      "WBTC C29"
+    ]
+  },
+  {
+    "stopId": "behala_tram_depot",
+    "stopName": "Behala Tram Depot",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.49314,
+    "originalLng": 88.314548,
+    "correctedLat": 22.492263,
+    "correctedLng": 88.315248,
+    "shiftMeters": 121,
+    "routeNumbers": [
+      "AC-12D",
+      "S-14",
+      "M-24",
+      "S-3A",
+      "S-45"
+    ]
+  },
+  {
+    "stopId": "sukchar_more",
+    "stopName": "Sukchar More",
+    "corridor": "Near Khardah",
+    "originalLat": 22.71214,
+    "originalLng": 88.37862,
+    "correctedLat": 22.712036,
+    "correctedLng": 88.377454,
+    "shiftMeters": 120,
+    "routeNumbers": [
+      "AC-20"
+    ]
+  },
+  {
+    "stopId": "sreebhumi_bus_stop",
+    "stopName": "Sreebhumi Bus Stop",
+    "corridor": "Near PNB",
+    "originalLat": 22.597211,
+    "originalLng": 88.396846,
+    "correctedLat": 22.59796,
+    "correctedLng": 88.396004,
+    "shiftMeters": 120,
+    "routeNumbers": [
+      "AC-30"
+    ]
+  },
+  {
+    "stopId": "grse_(shipbuilders)",
+    "stopName": "GRSE (Shipbuilders)",
+    "corridor": "Near Ramnagar More",
+    "originalLat": 22.53781,
+    "originalLng": 88.309201,
+    "correctedLat": 22.538886,
+    "correctedLng": 88.309306,
+    "shiftMeters": 120,
+    "routeNumbers": [
+      "M-14"
+    ]
+  },
+  {
+    "stopId": "central_avenue_xing",
+    "stopName": "Central Avenue Xing",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.581333,
+    "originalLng": 88.358814,
+    "correctedLat": 22.580275,
+    "correctedLng": 88.358735,
+    "shiftMeters": 118,
+    "routeNumbers": [
+      "WBTC C24"
+    ]
+  },
+  {
+    "stopId": "sulekha_crossing",
+    "stopName": "Sulekha Crossing",
+    "corridor": "Near Jadavpur",
+    "originalLat": 22.49057,
+    "originalLng": 88.369967,
+    "correctedLat": 22.490851,
+    "correctedLng": 88.371061,
+    "shiftMeters": 117,
+    "routeNumbers": [
+      "AC-24A"
+    ]
+  },
+  {
+    "stopId": "hastings_crossing",
+    "stopName": "Hastings Crossing",
+    "corridor": "Near Hastings",
+    "originalLat": 22.547666,
+    "originalLng": 88.332292,
+    "correctedLat": 22.547767,
+    "correctedLng": 88.331155,
+    "shiftMeters": 117,
+    "routeNumbers": [
+      "AC 4",
+      "S-14",
+      "M-14"
+    ]
+  },
+  {
+    "stopId": "rabindra_sadan_/_exide",
+    "stopName": "Rabindra Sadan / Exide",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.539326,
+    "originalLng": 88.349797,
+    "correctedLat": 22.539507,
+    "correctedLng": 88.348688,
+    "shiftMeters": 116,
+    "routeNumbers": [
+      "S-47A",
+      "S-5C"
+    ]
+  },
+  {
+    "stopId": "golpark_crossing",
+    "stopName": "Golpark Crossing",
+    "corridor": "Near Gariahat",
+    "originalLat": 22.51512,
+    "originalLng": 88.36481,
+    "correctedLat": 22.51538,
+    "correctedLng": 88.36589,
+    "shiftMeters": 115,
+    "routeNumbers": [
+      "AC-24A"
+    ]
+  },
+  {
+    "stopId": "kalighat",
+    "stopName": "Kalighat",
+    "corridor": "Near Kalighat",
+    "originalLat": 22.516146,
+    "originalLng": 88.346137,
+    "correctedLat": 22.516148,
+    "correctedLng": 88.345013,
+    "shiftMeters": 115,
+    "routeNumbers": [
+      "T8"
+    ]
+  },
+  {
+    "stopId": "central_metro",
+    "stopName": "Central Metro",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.569973,
+    "originalLng": 88.353655,
+    "correctedLat": 22.569545,
+    "correctedLng": 88.354665,
+    "shiftMeters": 114,
+    "routeNumbers": [
+      "VS-1"
+    ]
+  },
+  {
+    "stopId": "city_centre_2_(new_town)",
+    "stopName": "City Centre 2 (New Town)",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.612252,
+    "originalLng": 88.455714,
+    "correctedLat": 22.612572,
+    "correctedLng": 88.45676,
+    "shiftMeters": 113,
+    "routeNumbers": [
+      "AC-23A"
+    ]
+  },
+  {
+    "stopId": "vivekananda_road_&_bidhan_sarani",
+    "stopName": "Vivekananda Road & Bidhan Sarani",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.586833,
+    "originalLng": 88.3651,
+    "correctedLat": 22.585835,
+    "correctedLng": 88.365242,
+    "shiftMeters": 112,
+    "routeNumbers": [
+      "AC39"
+    ]
+  },
+  {
+    "stopId": "beliaghata_/_mathpukur",
+    "stopName": "Beliaghata / Mathpukur",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.544266,
+    "originalLng": 88.397296,
+    "correctedLat": 22.545026,
+    "correctedLng": 88.396577,
+    "shiftMeters": 112,
+    "routeNumbers": [
+      "AC-12"
+    ]
+  },
+  {
+    "stopId": "tala_post_office",
+    "stopName": "Tala Post Office",
+    "corridor": "Near Paikpara",
+    "originalLat": 22.61481,
+    "originalLng": 88.37181,
+    "correctedLat": 22.614986,
+    "correctedLng": 88.370733,
+    "shiftMeters": 112,
+    "routeNumbers": [
+      "S-32A"
+    ]
+  },
+  {
+    "stopId": "mathpukur_/_metropolitan",
+    "stopName": "Mathpukur / Metropolitan",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.548701,
+    "originalLng": 88.403864,
+    "correctedLat": 22.548333,
+    "correctedLng": 88.404868,
+    "shiftMeters": 111,
+    "routeNumbers": [
+      "AC 9B",
+      "AC 9"
+    ]
+  },
+  {
+    "stopId": "narkelbagan_(biswa_bangla_gate)",
+    "stopName": "Narkelbagan (Biswa Bangla Gate)",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.578819,
+    "originalLng": 88.473302,
+    "correctedLat": 22.577891,
+    "correctedLng": 88.472916,
+    "shiftMeters": 111,
+    "routeNumbers": [
+      "AC-12",
+      "AC-30S (IT Spl.)"
+    ]
+  },
+  {
+    "stopId": "joramandir",
+    "stopName": "Joramandir",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.617708,
+    "originalLng": 88.427137,
+    "correctedLat": 22.617218,
+    "correctedLng": 88.428059,
+    "shiftMeters": 109,
+    "routeNumbers": [
+      "VS2"
+    ]
+  },
+  {
+    "stopId": "science_city_(parama_island)",
+    "stopName": "Science City (Parama Island)",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.541615,
+    "originalLng": 88.401977,
+    "correctedLat": 22.54151,
+    "correctedLng": 88.403017,
+    "shiftMeters": 107,
+    "routeNumbers": [
+      "AC 9B",
+      "AC 9"
+    ]
+  },
+  {
+    "stopId": "jadavpur_8b_bus_stand",
+    "stopName": "Jadavpur 8B Bus Stand",
+    "corridor": "Near Jadavpur",
+    "originalLat": 22.495501,
+    "originalLng": 88.369604,
+    "correctedLat": 22.495694,
+    "correctedLng": 88.370613,
+    "shiftMeters": 106,
+    "routeNumbers": [
+      "AC 5"
+    ]
+  },
+  {
+    "stopId": "mullick_phatak",
+    "stopName": "Mullick Phatak",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.574397,
+    "originalLng": 88.327719,
+    "correctedLat": 22.573737,
+    "correctedLng": 88.328412,
+    "shiftMeters": 102,
+    "routeNumbers": [
+      "AC-24A",
+      "AC-24"
+    ]
+  },
+  {
+    "stopId": "ultadanga_crossing",
+    "stopName": "Ultadanga Crossing",
+    "corridor": "Near PNB",
+    "originalLat": 22.592116,
+    "originalLng": 88.394111,
+    "correctedLat": 22.591474,
+    "correctedLng": 88.394819,
+    "shiftMeters": 102,
+    "routeNumbers": [
+      "S-16"
+    ]
+  },
+  {
+    "stopId": "p.t.s._(police_training_school)",
+    "stopName": "P.T.S. (Police Training School)",
+    "corridor": "Near Central Jail",
+    "originalLat": 22.542659,
+    "originalLng": 88.339947,
+    "correctedLat": 22.543459,
+    "correctedLng": 88.340391,
+    "shiftMeters": 100,
+    "routeNumbers": [
+      "AC-24A",
+      "AC-24",
+      "AC-12D"
+    ]
+  },
+  {
+    "stopId": "b.b.d._bag_east",
+    "stopName": "B.B.D. Bag East",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.571364,
+    "originalLng": 88.349847,
+    "correctedLat": 22.571325,
+    "correctedLng": 88.350817,
+    "shiftMeters": 100,
+    "routeNumbers": [
+      "AC 5",
+      "AC 1",
+      "AC 4",
+      "AC 6"
+    ]
+  },
+  {
+    "stopId": "maidan_metro_/_planetarium",
+    "stopName": "Maidan Metro / Planetarium",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.545984,
+    "originalLng": 88.35151,
+    "correctedLat": 22.546075,
+    "correctedLng": 88.350538,
+    "shiftMeters": 100,
+    "routeNumbers": [
+      "AC-12D"
+    ]
+  },
+  {
+    "stopId": "bbd_bagh_/_central_post_office",
+    "stopName": "BBD Bagh / Central Post Office",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.570057,
+    "originalLng": 88.349354,
+    "correctedLat": 22.569751,
+    "correctedLng": 88.348453,
+    "shiftMeters": 99,
+    "routeNumbers": [
+      "S-47A"
+    ]
+  },
+  {
+    "stopId": "siriti_more",
+    "stopName": "Siriti More",
+    "corridor": "Near D.P.Sasmal Rd",
+    "originalLat": 22.491933,
+    "originalLng": 88.337841,
+    "correctedLat": 22.492798,
+    "correctedLng": 88.337888,
+    "shiftMeters": 96,
+    "routeNumbers": [
+      "AC-31"
+    ]
+  },
+  {
+    "stopId": "rabindra_sarobar_metro",
+    "stopName": "Rabindra Sarobar Metro",
+    "corridor": "Near Kalighat",
+    "originalLat": 22.511346,
+    "originalLng": 88.347251,
+    "correctedLat": 22.511425,
+    "correctedLng": 88.346338,
+    "shiftMeters": 94,
+    "routeNumbers": [
+      "AC 1"
+    ]
+  },
+  {
+    "stopId": "mukundapur_/_peerless",
+    "stopName": "Mukundapur / Peerless",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.497647,
+    "originalLng": 88.398462,
+    "correctedLat": 22.497929,
+    "correctedLng": 88.397601,
+    "shiftMeters": 94,
+    "routeNumbers": [
+      "AC 9B",
+      "AC 9"
+    ]
+  },
+  {
+    "stopId": "park_street_crossing",
+    "stopName": "Park Street Crossing",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.553283,
+    "originalLng": 88.35133,
+    "correctedLat": 22.553342,
+    "correctedLng": 88.350427,
+    "shiftMeters": 93,
+    "routeNumbers": [
+      "AC 5",
+      "AC 1",
+      "AC 6",
+      "AC-12",
+      "S-2",
+      "S-11",
+      "S-5C"
+    ]
+  },
+  {
+    "stopId": "dlf_1_/_new_town_bus_stand",
+    "stopName": "DLF 1 / New Town Bus Stand",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.583254,
+    "originalLng": 88.452118,
+    "correctedLat": 22.582461,
+    "correctedLng": 88.452409,
+    "shiftMeters": 93,
+    "routeNumbers": [
+      "AC-23A"
+    ]
+  },
+  {
+    "stopId": "mayukh_bhavan",
+    "stopName": "Mayukh Bhavan",
+    "corridor": "Near Karunamoyee",
+    "originalLat": 22.583005,
+    "originalLng": 88.424031,
+    "correctedLat": 22.58234,
+    "correctedLng": 88.423476,
+    "shiftMeters": 93,
+    "routeNumbers": [
+      "S-30A"
+    ]
+  },
+  {
+    "stopId": "santoshpur_avenue",
+    "stopName": "Santoshpur Avenue",
+    "corridor": "Near Santoshpur",
+    "originalLat": 22.49681,
+    "originalLng": 88.38451,
+    "correctedLat": 22.496004,
+    "correctedLng": 88.384295,
+    "shiftMeters": 92,
+    "routeNumbers": [
+      "S-9"
+    ]
+  },
+  {
+    "stopId": "barrackpore_court_terminus",
+    "stopName": "Barrackpore Court Terminus",
+    "corridor": "Near Barrackpore",
+    "originalLat": 22.758936,
+    "originalLng": 88.368445,
+    "correctedLat": 22.759426,
+    "correctedLng": 88.36915,
+    "shiftMeters": 91,
+    "routeNumbers": [
+      "AC-20"
+    ]
+  },
+  {
+    "stopId": "rabindra_sadan_/_exide_crossing",
+    "stopName": "Rabindra Sadan / Exide Crossing",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.541422,
+    "originalLng": 88.344701,
+    "correctedLat": 22.542231,
+    "correctedLng": 88.344785,
+    "shiftMeters": 90,
+    "routeNumbers": [
+      "AC-24A",
+      "AC-24"
+    ]
+  },
+  {
+    "stopId": "esplanade_(dharmatala)",
+    "stopName": "Esplanade (Dharmatala)",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.563769,
+    "originalLng": 88.350577,
+    "correctedLat": 22.563654,
+    "correctedLng": 88.349712,
+    "shiftMeters": 90,
+    "routeNumbers": [
+      "S-5C"
+    ]
+  },
+  {
+    "stopId": "webel_bhavan",
+    "stopName": "Webel Bhavan",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.578526,
+    "originalLng": 88.440099,
+    "correctedLat": 22.579214,
+    "correctedLng": 88.439648,
+    "shiftMeters": 89,
+    "routeNumbers": [
+      "AC 9B"
+    ]
+  },
+  {
+    "stopId": "tea_board_/_brabourne_road",
+    "stopName": "Tea Board / Brabourne Road",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.577599,
+    "originalLng": 88.348418,
+    "correctedLat": 22.577283,
+    "correctedLng": 88.347643,
+    "shiftMeters": 87,
+    "routeNumbers": [
+      "AC-12"
+    ]
+  },
+  {
+    "stopId": "hazra_crossing",
+    "stopName": "Hazra Crossing",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.525044,
+    "originalLng": 88.345914,
+    "correctedLat": 22.525031,
+    "correctedLng": 88.346755,
+    "shiftMeters": 86,
+    "routeNumbers": [
+      "E-1",
+      "S-17A",
+      "S-21",
+      "S-2",
+      "S-11",
+      "S-7"
+    ]
+  },
+  {
+    "stopId": "dalhousie",
+    "stopName": "Dalhousie",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.571801,
+    "originalLng": 88.34869,
+    "correctedLat": 22.571547,
+    "correctedLng": 88.347896,
+    "shiftMeters": 86,
+    "routeNumbers": [
+      "M-7C",
+      "VS12"
+    ]
+  },
+  {
+    "stopId": "toll_plaza",
+    "stopName": "Toll Plaza",
+    "corridor": "Near Hastings",
+    "originalLat": 22.555924,
+    "originalLng": 88.332006,
+    "correctedLat": 22.555878,
+    "correctedLng": 88.332831,
+    "shiftMeters": 85,
+    "routeNumbers": [
+      "S-14"
+    ]
+  },
+  {
+    "stopId": "netaji_nagar",
+    "stopName": "Netaji Nagar",
+    "corridor": "Near Kundghat",
+    "originalLat": 22.487712,
+    "originalLng": 88.346054,
+    "correctedLat": 22.487839,
+    "correctedLng": 88.346874,
+    "shiftMeters": 85,
+    "routeNumbers": [
+      "T8"
+    ]
+  },
+  {
+    "stopId": "sarsuna_college_xing",
+    "stopName": "Sarsuna College Xing",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.47543,
+    "originalLng": 88.29696,
+    "correctedLat": 22.475962,
+    "correctedLng": 88.296387,
+    "shiftMeters": 83,
+    "routeNumbers": [
+      "S-3A"
+    ]
+  },
+  {
+    "stopId": "naktala",
+    "stopName": "Naktala",
+    "corridor": "Near Baghajatin",
+    "originalLat": 22.473758,
+    "originalLng": 88.368675,
+    "correctedLat": 22.474363,
+    "correctedLng": 88.369134,
+    "shiftMeters": 82,
+    "routeNumbers": [
+      "AC 6"
+    ]
+  },
+  {
+    "stopId": "technopolis_bus_stop",
+    "stopName": "Technopolis Bus Stop",
+    "corridor": "Near Wipro More",
+    "originalLat": 22.578367,
+    "originalLng": 88.439309,
+    "correctedLat": 22.577742,
+    "correctedLng": 88.439735,
+    "shiftMeters": 82,
+    "routeNumbers": [
+      "AC-12",
+      "AC-23A",
+      "AC-30S (IT Spl.)"
+    ]
+  },
+  {
+    "stopId": "howrah_bridge_east_(strand_road)",
+    "stopName": "Howrah Bridge East (Strand Road)",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.583367,
+    "originalLng": 88.346461,
+    "correctedLat": 22.584095,
+    "correctedLng": 88.346481,
+    "shiftMeters": 81,
+    "routeNumbers": [
+      "AC-30"
+    ]
+  },
+  {
+    "stopId": "exide_more",
+    "stopName": "Exide More",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.539713,
+    "originalLng": 88.346165,
+    "correctedLat": 22.539629,
+    "correctedLng": 88.34695,
+    "shiftMeters": 81,
+    "routeNumbers": [
+      "M-7B",
+      "E77",
+      "T2"
+    ]
+  },
+  {
+    "stopId": "hazra_more",
+    "stopName": "Hazra More",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.525745,
+    "originalLng": 88.348786,
+    "correctedLat": 22.525832,
+    "correctedLng": 88.348017,
+    "shiftMeters": 80,
+    "routeNumbers": [
+      "AC 5"
+    ]
+  },
+  {
+    "stopId": "nazrul_tirtha_crossing",
+    "stopName": "Nazrul Tirtha Crossing",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.585265,
+    "originalLng": 88.452403,
+    "correctedLat": 22.584573,
+    "correctedLng": 88.452613,
+    "shiftMeters": 80,
+    "routeNumbers": [
+      "S-30 (IT Spl)"
+    ]
+  },
+  {
+    "stopId": "hazra_more_(jatin_das_park_metro)",
+    "stopName": "Hazra More (Jatin Das Park Metro)",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.525745,
+    "originalLng": 88.348786,
+    "correctedLat": 22.525832,
+    "correctedLng": 88.348017,
+    "shiftMeters": 80,
+    "routeNumbers": [
+      "AC 1",
+      "AC 6"
+    ]
+  },
+  {
+    "stopId": "kalikapur",
+    "stopName": "Kalikapur",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.505351,
+    "originalLng": 88.40045,
+    "correctedLat": 22.505382,
+    "correctedLng": 88.399674,
+    "shiftMeters": 80,
+    "routeNumbers": [
+      "AC 9B",
+      "AC 9",
+      "S-9"
+    ]
+  },
+  {
+    "stopId": "beliaghata_building_more",
+    "stopName": "Beliaghata Building More",
+    "corridor": "Near Bldg. More",
+    "originalLat": 22.56784,
+    "originalLng": 88.41467,
+    "correctedLat": 22.568143,
+    "correctedLng": 88.413959,
+    "shiftMeters": 80,
+    "routeNumbers": [
+      "AC 9"
+    ]
+  },
+  {
+    "stopId": "salt_lake_stadium_(gate_3)",
+    "stopName": "Salt Lake Stadium (Gate 3)",
+    "corridor": "Near Beliaghata Main Road",
+    "originalLat": 22.569306,
+    "originalLng": 88.40812,
+    "correctedLat": 22.569607,
+    "correctedLng": 88.407409,
+    "shiftMeters": 80,
+    "routeNumbers": [
+      "AC-14"
+    ]
+  },
+  {
+    "stopId": "ramnagar",
+    "stopName": "Ramnagar",
+    "corridor": "Near HMG College/Metiabruj",
+    "originalLat": 22.537611,
+    "originalLng": 88.298343,
+    "correctedLat": 22.536893,
+    "correctedLng": 88.298339,
+    "shiftMeters": 80,
+    "routeNumbers": [
+      "C7"
+    ]
+  },
+  {
+    "stopId": "moulali_crossing",
+    "stopName": "Moulali Crossing",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.566711,
+    "originalLng": 88.368476,
+    "correctedLat": 22.567427,
+    "correctedLng": 88.368516,
+    "shiftMeters": 80,
+    "routeNumbers": [
+      "S-5"
+    ]
+  },
+  {
+    "stopId": "ramgarh_/_ganguly_bagan",
+    "stopName": "Ramgarh / Ganguly Bagan",
+    "corridor": "Near Raipur Club",
+    "originalLat": 22.474683,
+    "originalLng": 88.374519,
+    "correctedLat": 22.474827,
+    "correctedLng": 88.375275,
+    "shiftMeters": 79,
+    "routeNumbers": [
+      "AC-24A"
+    ]
+  },
+  {
+    "stopId": "khidirpur_more",
+    "stopName": "Khidirpur More",
+    "corridor": "Near Zoo",
+    "originalLat": 22.538418,
+    "originalLng": 88.329189,
+    "correctedLat": 22.538259,
+    "correctedLng": 88.329934,
+    "shiftMeters": 79,
+    "routeNumbers": [
+      "AC 4"
+    ]
+  },
+  {
+    "stopId": "hatibagan",
+    "stopName": "Hatibagan",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.595415,
+    "originalLng": 88.368521,
+    "correctedLat": 22.595038,
+    "correctedLng": 88.369163,
+    "shiftMeters": 78,
+    "routeNumbers": [
+      "M-7C"
+    ]
+  },
+  {
+    "stopId": "mohanpur_crossing",
+    "stopName": "Mohanpur Crossing",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.756234,
+    "originalLng": 88.421512,
+    "correctedLat": 22.755551,
+    "correctedLng": 88.421354,
+    "shiftMeters": 78,
+    "routeNumbers": [
+      "WBTC C29"
+    ]
+  },
+  {
+    "stopId": "howrah_station_bus_stand",
+    "stopName": "Howrah Station Bus Stand",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.586322,
+    "originalLng": 88.34279,
+    "correctedLat": 22.585646,
+    "correctedLng": 88.342785,
+    "shiftMeters": 75,
+    "routeNumbers": [
+      "AC-40"
+    ]
+  },
+  {
+    "stopId": "burrabazar_(posta)",
+    "stopName": "Burrabazar (Posta)",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.584983,
+    "originalLng": 88.35102,
+    "correctedLat": 22.58565,
+    "correctedLng": 88.351029,
+    "shiftMeters": 74,
+    "routeNumbers": [
+      "AC 2"
+    ]
+  },
+  {
+    "stopId": "ruby_crossing",
+    "stopName": "Ruby Crossing",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.512546,
+    "originalLng": 88.40001,
+    "correctedLat": 22.512447,
+    "correctedLng": 88.399296,
+    "shiftMeters": 74,
+    "routeNumbers": [
+      "S-9"
+    ]
+  },
+  {
+    "stopId": "rashbehari_crossing_(kalighat_metro)",
+    "stopName": "Rashbehari Crossing (Kalighat Metro)",
+    "corridor": "Near Kalighat",
+    "originalLat": 22.518759,
+    "originalLng": 88.347084,
+    "correctedLat": 22.518674,
+    "correctedLng": 88.347782,
+    "shiftMeters": 72,
+    "routeNumbers": [
+      "AC 1",
+      "AC 6"
+    ]
+  },
+  {
+    "stopId": "new_town_bus_stand_(action_area_i)",
+    "stopName": "New Town Bus Stand (Action Area I)",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.587923,
+    "originalLng": 88.465549,
+    "correctedLat": 22.588536,
+    "correctedLng": 88.465368,
+    "shiftMeters": 71,
+    "routeNumbers": [
+      "S-30 (IT Spl)"
+    ]
+  },
+  {
+    "stopId": "bbd_bagh",
+    "stopName": "BBD Bagh",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.571543,
+    "originalLng": 88.351519,
+    "correctedLat": 22.571571,
+    "correctedLng": 88.350828,
+    "shiftMeters": 71,
+    "routeNumbers": [
+      "6-N",
+      "M-7B",
+      "E75",
+      "T2",
+      "T12"
+    ]
+  },
+  {
+    "stopId": "mg_road_crossing",
+    "stopName": "MG Road Crossing",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.584511,
+    "originalLng": 88.358215,
+    "correctedLat": 22.583921,
+    "correctedLng": 88.358483,
+    "shiftMeters": 71,
+    "routeNumbers": [
+      "M-7C"
+    ]
+  },
+  {
+    "stopId": "jadavpur_police_station",
+    "stopName": "Jadavpur Police Station",
+    "corridor": "Near Jadavpur",
+    "originalLat": 22.496068,
+    "originalLng": 88.369936,
+    "correctedLat": 22.495533,
+    "correctedLng": 88.369552,
+    "shiftMeters": 71,
+    "routeNumbers": [
+      "S-31"
+    ]
+  },
+  {
+    "stopId": "labony_island",
+    "stopName": "Labony Island",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.593174,
+    "originalLng": 88.411127,
+    "correctedLat": 22.592769,
+    "correctedLng": 88.410597,
+    "shiftMeters": 71,
+    "routeNumbers": [
+      "S-58"
+    ]
+  },
+  {
+    "stopId": "great_eastern",
+    "stopName": "Great Eastern",
+    "corridor": "Near Mission Row Xing",
+    "originalLat": 22.569233,
+    "originalLng": 88.349533,
+    "correctedLat": 22.569612,
+    "correctedLng": 88.350073,
+    "shiftMeters": 70,
+    "routeNumbers": [
+      "AC39"
+    ]
+  },
+  {
+    "stopId": "rabindra_sadan_(exide)",
+    "stopName": "Rabindra Sadan (Exide)",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.539491,
+    "originalLng": 88.349373,
+    "correctedLat": 22.5396,
+    "correctedLng": 88.348706,
+    "shiftMeters": 70,
+    "routeNumbers": [
+      "S-2"
+    ]
+  },
+  {
+    "stopId": "alipore_zoo_/_national_library",
+    "stopName": "Alipore Zoo / National Library",
+    "corridor": "Near Axis Mall",
+    "originalLat": 22.532007,
+    "originalLng": 88.336029,
+    "correctedLat": 22.532438,
+    "correctedLng": 88.335534,
+    "shiftMeters": 70,
+    "routeNumbers": [
+      "S-45"
+    ]
+  },
+  {
+    "stopId": "dhakarmath_/_anwar_shah_connector",
+    "stopName": "Dhakarmath / Anwar Shah Connector",
+    "corridor": "Near Anwar Shah Rd",
+    "originalLat": 22.505603,
+    "originalLng": 88.351623,
+    "correctedLat": 22.505036,
+    "correctedLng": 88.351367,
+    "shiftMeters": 68,
+    "routeNumbers": [
+      "S-31"
+    ]
+  },
+  {
+    "stopId": "majerhat_railway_station",
+    "stopName": "Majerhat Railway Station",
+    "corridor": "Near Mominpur",
+    "originalLat": 22.522148,
+    "originalLng": 88.323096,
+    "correctedLat": 22.522525,
+    "correctedLng": 88.322577,
+    "shiftMeters": 68,
+    "routeNumbers": [
+      "S-47"
+    ]
+  },
+  {
+    "stopId": "vidyasagar_setu_toll_plaza",
+    "stopName": "Vidyasagar Setu Toll Plaza",
+    "corridor": "Near Dahighat",
+    "originalLat": 22.551161,
+    "originalLng": 88.324097,
+    "correctedLat": 22.55167,
+    "correctedLng": 88.324444,
+    "shiftMeters": 67,
+    "routeNumbers": [
+      "AC-24A",
+      "AC-24",
+      "WBTC C36"
+    ]
+  },
+  {
+    "stopId": "agarpara_crossing",
+    "stopName": "Agarpara Crossing",
+    "corridor": "Near Sodpur",
+    "originalLat": 22.6842,
+    "originalLng": 88.378766,
+    "correctedLat": 22.684229,
+    "correctedLng": 88.37812,
+    "shiftMeters": 66,
+    "routeNumbers": [
+      "AC-20"
+    ]
+  },
+  {
+    "stopId": "b.b.d._bagh_(lal_dighi)",
+    "stopName": "B.B.D. Bagh (Lal Dighi)",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.572117,
+    "originalLng": 88.350114,
+    "correctedLat": 22.572014,
+    "correctedLng": 88.349483,
+    "shiftMeters": 66,
+    "routeNumbers": [
+      "AC-12",
+      "AC-12D"
+    ]
+  },
+  {
+    "stopId": "mahisbathan_/_box_bridge",
+    "stopName": "Mahisbathan / Box Bridge",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.580299,
+    "originalLng": 88.44413,
+    "correctedLat": 22.57973,
+    "correctedLng": 88.444312,
+    "shiftMeters": 66,
+    "routeNumbers": [
+      "AC-30S (IT Spl.)"
+    ]
+  },
+  {
+    "stopId": "dalhousie_(bbd_bagh)",
+    "stopName": "Dalhousie (BBD Bagh)",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.571421,
+    "originalLng": 88.348611,
+    "correctedLat": 22.57123,
+    "correctedLng": 88.348015,
+    "shiftMeters": 65,
+    "routeNumbers": [
+      "7A",
+      "C7"
+    ]
+  },
+  {
+    "stopId": "sovabazar_metro",
+    "stopName": "Sovabazar Metro",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.597616,
+    "originalLng": 88.36721,
+    "correctedLat": 22.597784,
+    "correctedLng": 88.366606,
+    "shiftMeters": 65,
+    "routeNumbers": [
+      "S-32A"
+    ]
+  },
+  {
+    "stopId": "rashbehari_crossing",
+    "stopName": "Rashbehari Crossing",
+    "corridor": "Near Kalighat",
+    "originalLat": 22.516667,
+    "originalLng": 88.346598,
+    "correctedLat": 22.516663,
+    "correctedLng": 88.345973,
+    "shiftMeters": 64,
+    "routeNumbers": [
+      "S-2"
+    ]
+  },
+  {
+    "stopId": "kidderpore_bus_stand",
+    "stopName": "Kidderpore Bus Stand",
+    "corridor": "Near Khidderpur",
+    "originalLat": 22.540322,
+    "originalLng": 88.323974,
+    "correctedLat": 22.540761,
+    "correctedLng": 88.323567,
+    "shiftMeters": 64,
+    "routeNumbers": [
+      "M-14"
+    ]
+  },
+  {
+    "stopId": "karunamoyee_central_bus_station",
+    "stopName": "Karunamoyee Central Bus Station",
+    "corridor": "Near Karunamoyee",
+    "originalLat": 22.584134,
+    "originalLng": 88.420955,
+    "correctedLat": 22.584605,
+    "correctedLng": 88.421276,
+    "shiftMeters": 62,
+    "routeNumbers": [
+      "S-30A"
+    ]
+  },
+  {
+    "stopId": "patuli_fire_station_/_floating_market",
+    "stopName": "Patuli Fire Station / Floating Market",
+    "corridor": "Near Kamalgazi",
+    "originalLat": 22.47891,
+    "originalLng": 88.39412,
+    "correctedLat": 22.47868,
+    "correctedLng": 88.394668,
+    "shiftMeters": 62,
+    "routeNumbers": [
+      "S-24N"
+    ]
+  },
+  {
+    "stopId": "sealdah_railway_station",
+    "stopName": "Sealdah Railway Station",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.568976,
+    "originalLng": 88.369354,
+    "correctedLat": 22.569037,
+    "correctedLng": 88.368755,
+    "shiftMeters": 62,
+    "routeNumbers": [
+      "S-45"
+    ]
+  },
+  {
+    "stopId": "jadavpur_thana",
+    "stopName": "Jadavpur Thana",
+    "corridor": "Near Prince A.Saha Rd",
+    "originalLat": 22.498982,
+    "originalLng": 88.36807,
+    "correctedLat": 22.499038,
+    "correctedLng": 88.368658,
+    "shiftMeters": 61,
+    "routeNumbers": [
+      "AC-24A",
+      "AC 1",
+      "AC-31"
+    ]
+  },
+  {
+    "stopId": "rabindra_sadan",
+    "stopName": "Rabindra Sadan",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.541353,
+    "originalLng": 88.34706,
+    "correctedLat": 22.541442,
+    "correctedLng": 88.34647,
+    "shiftMeters": 61,
+    "routeNumbers": [
+      "E-1",
+      "M-7B",
+      "S-11"
+    ]
+  },
+  {
+    "stopId": "dhakuria",
+    "stopName": "Dhakuria",
+    "corridor": "Near Dhakuria",
+    "originalLat": 22.507817,
+    "originalLng": 88.368503,
+    "correctedLat": 22.507632,
+    "correctedLng": 88.367948,
+    "shiftMeters": 61,
+    "routeNumbers": [
+      "S-11"
+    ]
+  },
+  {
+    "stopId": "b.b.d._bag",
+    "stopName": "B.B.D. Bag",
+    "corridor": "Near B.B.D.Bag",
+    "originalLat": 22.569711,
+    "originalLng": 88.347207,
+    "correctedLat": 22.569853,
+    "correctedLng": 88.34776,
+    "shiftMeters": 59,
+    "routeNumbers": [
+      "D1A",
+      "E-1",
+      "C42",
+      "E-4"
+    ]
+  },
+  {
+    "stopId": "vip_bazar",
+    "stopName": "VIP Bazar",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.525564,
+    "originalLng": 88.394365,
+    "correctedLat": 22.525567,
+    "correctedLng": 88.393797,
+    "shiftMeters": 58,
+    "routeNumbers": [
+      "E 37A",
+      "AC-37A",
+      "ST6"
+    ]
+  },
+  {
+    "stopId": "jadavpur_8b_bus_terminus",
+    "stopName": "Jadavpur 8B Bus Terminus",
+    "corridor": "Near Prince A.Saha Rd",
+    "originalLat": 22.498701,
+    "originalLng": 88.368696,
+    "correctedLat": 22.498597,
+    "correctedLng": 88.368157,
+    "shiftMeters": 57,
+    "routeNumbers": [
+      "AC-24A"
+    ]
+  },
+  {
+    "stopId": "brabourne_road_(tea_board)",
+    "stopName": "Brabourne Road (Tea Board)",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.573807,
+    "originalLng": 88.346856,
+    "correctedLat": 22.573666,
+    "correctedLng": 88.346326,
+    "shiftMeters": 57,
+    "routeNumbers": [
+      "AC 1",
+      "S-5"
+    ]
+  },
+  {
+    "stopId": "kidderpore_crossing",
+    "stopName": "Kidderpore Crossing",
+    "corridor": "Near Zoo",
+    "originalLat": 22.537717,
+    "originalLng": 88.328719,
+    "correctedLat": 22.5379,
+    "correctedLng": 88.328207,
+    "shiftMeters": 56,
+    "routeNumbers": [
+      "S-3A"
+    ]
+  },
+  {
+    "stopId": "raja_bazar_crossing",
+    "stopName": "Raja Bazar Crossing",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.576861,
+    "originalLng": 88.370606,
+    "correctedLat": 22.576902,
+    "correctedLng": 88.370075,
+    "shiftMeters": 55,
+    "routeNumbers": [
+      "S-32"
+    ]
+  },
+  {
+    "stopId": "burrabazar",
+    "stopName": "Burrabazar",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.580778,
+    "originalLng": 88.350805,
+    "correctedLat": 22.581234,
+    "correctedLng": 88.350976,
+    "shiftMeters": 54,
+    "routeNumbers": [
+      "15",
+      "M-7C",
+      "EB-12",
+      "S65",
+      "WBTC C24"
+    ]
+  },
+  {
+    "stopId": "baghajatin_crossing",
+    "stopName": "Baghajatin Crossing",
+    "corridor": "Near Baghajatin",
+    "originalLat": 22.482686,
+    "originalLng": 88.373521,
+    "correctedLat": 22.482832,
+    "correctedLng": 88.374013,
+    "shiftMeters": 53,
+    "routeNumbers": [
+      "AC-24A",
+      "AC 5"
+    ]
+  },
+  {
+    "stopId": "brabourne_road_/_canning_st",
+    "stopName": "Brabourne Road / Canning St",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.57976,
+    "originalLng": 88.344964,
+    "correctedLat": 22.57999,
+    "correctedLng": 88.345416,
+    "shiftMeters": 53,
+    "routeNumbers": [
+      "AC-12D"
+    ]
+  },
+  {
+    "stopId": "college_ghat_road_crossing",
+    "stopName": "College Ghat Road Crossing",
+    "corridor": "Near Dahighat",
+    "originalLat": 22.554583,
+    "originalLng": 88.318146,
+    "correctedLat": 22.554159,
+    "correctedLng": 88.317905,
+    "shiftMeters": 53,
+    "routeNumbers": [
+      "WBTC C36"
+    ]
+  },
+  {
+    "stopId": "lords_more",
+    "stopName": "Lords More",
+    "corridor": "Near Nababpur",
+    "originalLat": 22.501638,
+    "originalLng": 88.355146,
+    "correctedLat": 22.501197,
+    "correctedLng": 88.355307,
+    "shiftMeters": 52,
+    "routeNumbers": [
+      "AC 1"
+    ]
+  },
+  {
+    "stopId": "sdf_building",
+    "stopName": "SDF Building",
+    "corridor": "Near Wipro More",
+    "originalLat": 22.5731,
+    "originalLng": 88.4325,
+    "correctedLat": 22.573525,
+    "correctedLng": 88.432294,
+    "shiftMeters": 52,
+    "routeNumbers": [
+      "AC-12"
+    ]
+  },
+  {
+    "stopId": "ekbalpur_crossing",
+    "stopName": "Ekbalpur Crossing",
+    "corridor": "Near Zoo",
+    "originalLat": 22.535005,
+    "originalLng": 88.327801,
+    "correctedLat": 22.534824,
+    "correctedLng": 88.328267,
+    "shiftMeters": 52,
+    "routeNumbers": [
+      "AC-12D"
+    ]
+  },
+  {
+    "stopId": "bonhooghly_crossing",
+    "stopName": "Bonhooghly Crossing",
+    "corridor": "Near Bonhooghly",
+    "originalLat": 22.64681,
+    "originalLng": 88.37491,
+    "correctedLat": 22.646834,
+    "correctedLng": 88.374403,
+    "shiftMeters": 52,
+    "routeNumbers": [
+      "S-32"
+    ]
+  },
+  {
+    "stopId": "baghajatin_crossing_/_bazar",
+    "stopName": "Baghajatin Crossing / Bazar",
+    "corridor": "Near Baghajatin",
+    "originalLat": 22.484151,
+    "originalLng": 88.375814,
+    "correctedLat": 22.483957,
+    "correctedLng": 88.375359,
+    "shiftMeters": 51,
+    "routeNumbers": [
+      "AC-24"
+    ]
+  },
+  {
+    "stopId": "bbd_bagh_/_lalbazar",
+    "stopName": "BBD Bagh / Lalbazar",
+    "corridor": "Near Weble House",
+    "originalLat": 22.569995,
+    "originalLng": 88.349026,
+    "correctedLat": 22.569859,
+    "correctedLng": 88.348549,
+    "shiftMeters": 51,
+    "routeNumbers": [
+      "S-24",
+      "S-47"
+    ]
+  },
+  {
+    "stopId": "taratala_crossing",
+    "stopName": "Taratala Crossing",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.514071,
+    "originalLng": 88.321154,
+    "correctedLat": 22.513933,
+    "correctedLng": 88.321628,
+    "shiftMeters": 51,
+    "routeNumbers": [
+      "AC 4",
+      "AC-12D",
+      "S-14",
+      "M-24",
+      "S-3A",
+      "S-3B",
+      "S-45"
+    ]
+  },
+  {
+    "stopId": "esplanade_/_dorina_crossing",
+    "stopName": "Esplanade / Dorina Crossing",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.564697,
+    "originalLng": 88.350878,
+    "correctedLat": 22.564663,
+    "correctedLng": 88.350397,
+    "shiftMeters": 50,
+    "routeNumbers": [
+      "AC 5",
+      "AC 1",
+      "AC 6"
+    ]
+  },
+  {
+    "stopId": "tollygunge_metro",
+    "stopName": "Tollygunge Metro",
+    "corridor": "Near Kundghat",
+    "originalLat": 22.492311,
+    "originalLng": 88.346062,
+    "correctedLat": 22.492267,
+    "correctedLng": 88.345573,
+    "shiftMeters": 50,
+    "routeNumbers": [
+      "T8"
+    ]
+  },
+  {
+    "stopId": "city_centre_1_(salt_lake)",
+    "stopName": "City Centre 1 (Salt Lake)",
+    "corridor": "Near Unnayan Bhavan",
+    "originalLat": 22.588686,
+    "originalLng": 88.414251,
+    "correctedLat": 22.58832,
+    "correctedLng": 88.413993,
+    "shiftMeters": 49,
+    "routeNumbers": [
+      "S-30A",
+      "S-58"
+    ]
+  },
+  {
+    "stopId": "r.g._kar_medical_college",
+    "stopName": "R.G. Kar Medical College",
+    "corridor": "Near Dinobandhu Andrews College",
+    "originalLat": 22.605261,
+    "originalLng": 88.375186,
+    "correctedLat": 22.605683,
+    "correctedLng": 88.375049,
+    "shiftMeters": 49,
+    "routeNumbers": [
+      "S-45"
+    ]
+  },
+  {
+    "stopId": "bbd_bagh_/_koilaghat",
+    "stopName": "BBD Bagh / Koilaghat",
+    "corridor": "Near Weble House",
+    "originalLat": 22.569857,
+    "originalLng": 88.348744,
+    "correctedLat": 22.569708,
+    "correctedLng": 88.34829,
+    "shiftMeters": 49,
+    "routeNumbers": [
+      "S-5C"
+    ]
+  },
+  {
+    "stopId": "air_india_building",
+    "stopName": "Air India Building",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.5699,
+    "originalLng": 88.353622,
+    "correctedLat": 22.569802,
+    "correctedLng": 88.35408,
+    "shiftMeters": 48,
+    "routeNumbers": [
+      "AC39"
+    ]
+  },
+  {
+    "stopId": "haldiram",
+    "stopName": "Haldiram",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.627511,
+    "originalLng": 88.43447,
+    "correctedLat": 22.627385,
+    "correctedLng": 88.434921,
+    "shiftMeters": 48,
+    "routeNumbers": [
+      "AC39",
+      "EB-12",
+      "VS2",
+      "VS-1",
+      "V1",
+      "V1(L)"
+    ]
+  },
+  {
+    "stopId": "dhalai_bridge_(patuli)",
+    "stopName": "Dhalai Bridge (Patuli)",
+    "corridor": "Near Garia",
+    "originalLat": 22.463214,
+    "originalLng": 88.394872,
+    "correctedLat": 22.463261,
+    "correctedLng": 88.394406,
+    "shiftMeters": 48,
+    "routeNumbers": [
+      "WBTC C26"
+    ]
+  },
+  {
+    "stopId": "khanna_crossing",
+    "stopName": "Khanna Crossing",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.589102,
+    "originalLng": 88.37321,
+    "correctedLat": 22.589123,
+    "correctedLng": 88.372756,
+    "shiftMeters": 47,
+    "routeNumbers": [
+      "33"
+    ]
+  },
+  {
+    "stopId": "esplanade",
+    "stopName": "Esplanade",
+    "corridor": "Central Avenue / Lenin Sarani",
+    "originalLat": 22.564615,
+    "originalLng": 88.350497,
+    "correctedLat": 22.564567,
+    "correctedLng": 88.350056,
+    "shiftMeters": 46,
+    "routeNumbers": [
+      "AC 4",
+      "S-47A"
+    ]
+  },
+  {
+    "stopId": "armenian_street",
+    "stopName": "Armenian Street",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.57884,
+    "originalLng": 88.34542,
+    "correctedLat": 22.578928,
+    "correctedLng": 88.345822,
+    "shiftMeters": 42,
+    "routeNumbers": [
+      "AC39"
+    ]
+  },
+  {
+    "stopId": "lord's_more_(lake_gardens)",
+    "stopName": "Lord's More (Lake Gardens)",
+    "corridor": "Near Lake Gardens",
+    "originalLat": 22.498926,
+    "originalLng": 88.358542,
+    "correctedLat": 22.498568,
+    "correctedLng": 88.35856,
+    "shiftMeters": 40,
+    "routeNumbers": [
+      "AC-31"
+    ]
+  },
+  {
+    "stopId": "new_alipore_petrol_pump",
+    "stopName": "New Alipore Petrol Pump",
+    "corridor": "Near New Alipore",
+    "originalLat": 22.510417,
+    "originalLng": 88.335869,
+    "correctedLat": 22.510072,
+    "correctedLng": 88.335758,
+    "shiftMeters": 40,
+    "routeNumbers": [
+      "S-31"
+    ]
+  },
+  {
+    "stopId": "kamarhati_/_sagar_dutta_hospital",
+    "stopName": "Kamarhati / Sagar Dutta Hospital",
+    "corridor": "Near Dunlop",
+    "originalLat": 22.671172,
+    "originalLng": 88.37743,
+    "correctedLat": 22.671215,
+    "correctedLng": 88.377049,
+    "shiftMeters": 39,
+    "routeNumbers": [
+      "AC-20"
+    ]
+  },
+  {
+    "stopId": "minto_park_(beckbagan)",
+    "stopName": "Minto Park (Beckbagan)",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.538995,
+    "originalLng": 88.356223,
+    "correctedLat": 22.53934,
+    "correctedLng": 88.356287,
+    "shiftMeters": 39,
+    "routeNumbers": [
+      "S-24N"
+    ]
+  },
+  {
+    "stopId": "tollygunge_phari",
+    "stopName": "Tollygunge Phari",
+    "corridor": "Near Tollygunge Metro",
+    "originalLat": 22.497976,
+    "originalLng": 88.344969,
+    "correctedLat": 22.498009,
+    "correctedLng": 88.344603,
+    "shiftMeters": 38,
+    "routeNumbers": [
+      "C2A",
+      "T8"
+    ]
+  },
+  {
+    "stopId": "phoolbagan_crossing",
+    "stopName": "Phoolbagan Crossing",
+    "corridor": "Near Kankurgachi",
+    "originalLat": 22.579787,
+    "originalLng": 88.380886,
+    "correctedLat": 22.5801,
+    "correctedLng": 88.380736,
+    "shiftMeters": 38,
+    "routeNumbers": [
+      "S-3B"
+    ]
+  },
+  {
+    "stopId": "mukundapur",
+    "stopName": "Mukundapur",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.498379,
+    "originalLng": 88.400119,
+    "correctedLat": 22.498381,
+    "correctedLng": 88.399747,
+    "shiftMeters": 38,
+    "routeNumbers": [
+      "S-37",
+      "S-24N"
+    ]
+  },
+  {
+    "stopId": "mominpore",
+    "stopName": "Mominpore",
+    "corridor": "Near Mominpur",
+    "originalLat": 22.529815,
+    "originalLng": 88.325982,
+    "correctedLat": 22.529937,
+    "correctedLng": 88.325646,
+    "shiftMeters": 37,
+    "routeNumbers": [
+      "AC-12D"
+    ]
+  },
+  {
+    "stopId": "vidyasagar_hospital",
+    "stopName": "Vidyasagar Hospital",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.493666,
+    "originalLng": 88.319267,
+    "correctedLat": 22.49333,
+    "correctedLng": 88.319237,
+    "shiftMeters": 37,
+    "routeNumbers": [
+      "AC-31"
+    ]
+  },
+  {
+    "stopId": "kidderpore_tram_depot_/_5-point",
+    "stopName": "Kidderpore Tram Depot / 5-Point",
+    "corridor": "Near Zoo",
+    "originalLat": 22.536256,
+    "originalLng": 88.329859,
+    "correctedLat": 22.53633,
+    "correctedLng": 88.329505,
+    "shiftMeters": 37,
+    "routeNumbers": [
+      "S-47"
+    ]
+  },
+  {
+    "stopId": "ajay_nagar",
+    "stopName": "Ajay Nagar",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.492107,
+    "originalLng": 88.399052,
+    "correctedLat": 22.492098,
+    "correctedLng": 88.399408,
+    "shiftMeters": 37,
+    "routeNumbers": [
+      "S-9C"
+    ]
+  },
+  {
+    "stopId": "b.b.d._bagh_/_dalhousie",
+    "stopName": "B.B.D. Bagh / Dalhousie",
+    "corridor": "Howrah Bridge Approach / Strand Rd",
+    "originalLat": 22.571004,
+    "originalLng": 88.346899,
+    "correctedLat": 22.571098,
+    "correctedLng": 88.347242,
+    "shiftMeters": 37,
+    "routeNumbers": [
+      "WBTC C37"
+    ]
+  },
+  {
+    "stopId": "ruby_hospital_crossing",
+    "stopName": "Ruby Hospital Crossing",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.513749,
+    "originalLng": 88.400447,
+    "correctedLat": 22.513737,
+    "correctedLng": 88.400794,
+    "shiftMeters": 36,
+    "routeNumbers": [
+      "AC 9B",
+      "AC 9"
+    ]
+  },
+  {
+    "stopId": "exide_/_rabindra_sadan",
+    "stopName": "Exide / Rabindra Sadan",
+    "corridor": "AJC Bose Road / Park Street",
+    "originalLat": 22.540669,
+    "originalLng": 88.347846,
+    "correctedLat": 22.540982,
+    "correctedLng": 88.347789,
+    "shiftMeters": 35,
+    "routeNumbers": [
+      "M-7K",
+      "S-3W",
+      "S-24N"
+    ]
+  },
+  {
+    "stopId": "nicco_park_crossing",
+    "stopName": "Nicco Park Crossing",
+    "corridor": "Near Appolo Hospital",
+    "originalLat": 22.574332,
+    "originalLng": 88.422597,
+    "correctedLat": 22.574039,
+    "correctedLng": 88.422709,
+    "shiftMeters": 35,
+    "routeNumbers": [
+      "S-30A"
+    ]
+  },
+  {
+    "stopId": "swasthya_bhawan",
+    "stopName": "Swasthya Bhawan",
+    "corridor": "Near Sec5",
+    "originalLat": 22.570718,
+    "originalLng": 88.425495,
+    "correctedLat": 22.570998,
+    "correctedLng": 88.425398,
+    "shiftMeters": 33,
+    "routeNumbers": [
+      "AC-12"
+    ]
+  },
+  {
+    "stopId": "garden_reach",
+    "stopName": "Garden Reach",
+    "corridor": "Near Ramnagar More",
+    "originalLat": 22.536865,
+    "originalLng": 88.304403,
+    "correctedLat": 22.537161,
+    "correctedLng": 88.304429,
+    "shiftMeters": 33,
+    "routeNumbers": [
+      "C7"
+    ]
+  },
+  {
+    "stopId": "behala_chowrasta_terminus",
+    "stopName": "Behala Chowrasta Terminus",
+    "corridor": "Diamond Harbour Road",
+    "originalLat": 22.493791,
+    "originalLng": 88.314206,
+    "correctedLat": 22.4938,
+    "correctedLng": 88.314526,
+    "shiftMeters": 33,
+    "routeNumbers": [
+      "S-31"
+    ]
+  },
+  {
+    "stopId": "girish_park",
+    "stopName": "Girish Park",
+    "corridor": "APC Road / CIT Road",
+    "originalLat": 22.585515,
+    "originalLng": 88.362602,
+    "correctedLat": 22.585775,
+    "correctedLng": 88.362479,
+    "shiftMeters": 32,
+    "routeNumbers": [
+      "15",
+      "AC39",
+      "M-7C",
+      "EB-12",
+      "S-32A",
+      "VS2"
+    ]
+  },
+  {
+    "stopId": "unitech_(infospace)",
+    "stopName": "Unitech (Infospace)",
+    "corridor": "Major Arterial Road (New Town)",
+    "originalLat": 22.576214,
+    "originalLng": 88.477651,
+    "correctedLat": 22.576463,
+    "correctedLng": 88.477804,
+    "shiftMeters": 32,
+    "routeNumbers": [
+      "AC-12",
+      "AC-30S (IT Spl.)"
+    ]
+  },
+  {
+    "stopId": "dhakuria_bridge",
+    "stopName": "Dhakuria Bridge",
+    "corridor": "Near Dhakuria",
+    "originalLat": 22.509881,
+    "originalLng": 88.367442,
+    "correctedLat": 22.509838,
+    "correctedLng": 88.367146,
+    "shiftMeters": 31,
+    "routeNumbers": [
+      "AC-24A",
+      "AC 5",
+      "E-1",
+      "S-7"
+    ]
+  },
+  {
+    "stopId": "chingrighata",
+    "stopName": "Chingrighata",
+    "corridor": "Eastern Metropolitan Bypass",
+    "originalLat": 22.559883,
+    "originalLng": 88.409838,
+    "correctedLat": 22.559754,
+    "correctedLng": 88.410105,
+    "shiftMeters": 31,
+    "routeNumbers": [
+      "AC 9B",
+      "AC 9"
+    ]
+  },
+  {
+    "stopId": "wireless_more",
+    "stopName": "Wireless More",
+    "corridor": "VIP Road / Jessore Road",
+    "originalLat": 22.758019,
+    "originalLng": 88.408847,
+    "correctedLat": 22.758289,
+    "correctedLng": 88.408899,
+    "shiftMeters": 30,
+    "routeNumbers": [
+      "WBTC C29"
+    ]
+  }
+]
