@@ -20,6 +20,7 @@ import {
 } from './data/canonicalStops';
 import { runAllRoutesStopOrderAudit, RouteAuditResult } from './utils/routeOrderAudit';
 import { RouteOrderAuditModal } from './components/RouteOrderAuditModal';
+import { TransitTimeDebugModal } from './components/TransitTimeDebugModal';
 import { useFirebaseTransit } from './hooks/useFirebaseTransit';
 import { useSupabaseTransit } from './hooks/useSupabaseTransit';
 import { useTransitIntelligence } from './hooks/useTransitIntelligence';
@@ -67,6 +68,22 @@ export default function App() {
       return false;
     }
   });
+
+  // Live device local clock (updates every 10s to keep status bar accurate)
+  const [deviceTime, setDeviceTime] = useState<string>(() => {
+    return new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+  });
+
+  useEffect(() => {
+    const updateTime = () => {
+      setDeviceTime(new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }));
+    };
+    const interval = setInterval(updateTime, 10000);
+    return () => clearInterval(interval);
+  }, []);
+
+  // Transit time & loop telemetry debug modal
+  const [isTimeDebugModalOpen, setIsTimeDebugModalOpen] = useState<boolean>(false);
 
   const handleToggleDarkMode = useCallback(() => {
     setIsDarkMode((prev) => {
@@ -820,10 +837,22 @@ export default function App() {
         {/* Sleek Dynamic Island / Top Notch (Visible on Tablet/Desktop) */}
         <div className="hidden sm:block absolute top-2 left-1/2 -translate-x-1/2 w-28 h-4 bg-slate-800 rounded-full z-40 pointer-events-none" />
 
-        {/* Mobile Status Bar (9:41, wifi, battery) matching reference image */}
-        <div className="w-full px-6 pt-3.5 pb-1 flex items-center justify-between text-xs font-semibold text-slate-800 z-30 select-none pointer-events-none">
-          <span className="font-bold text-[13px] tracking-tight">9:41</span>
-          <div className="flex items-center gap-1.5 text-slate-800">
+        {/* Mobile Status Bar (Live Device Clock, WiFi, Battery) */}
+        <div
+          className={`w-full px-6 pt-3.5 pb-1 flex items-center justify-between text-xs font-semibold ${
+            isDarkMode ? 'text-slate-300' : 'text-slate-800'
+          } z-30 select-none`}
+        >
+          <button
+            type="button"
+            onClick={() => setIsTimeDebugModalOpen(true)}
+            className="font-bold text-[13px] tracking-tight hover:opacity-80 active:scale-95 transition-all cursor-pointer flex items-center gap-1.5"
+            title="Click to view Live Transit Time & Telemetry Diagnostics"
+          >
+            <span>{deviceTime}</span>
+            <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
+          </button>
+          <div className="flex items-center gap-1.5">
             <Signal className="w-3.5 h-3.5 fill-current" />
             <Wifi className="w-3.5 h-3.5" />
             <Battery className="w-4 h-4 fill-current" />
@@ -1095,6 +1124,18 @@ export default function App() {
               await refreshTransitData();
             }
           }}
+        />
+
+        {/* Transit Time & Loop Telemetry Debug Modal */}
+        <TransitTimeDebugModal
+          isOpen={isTimeDebugModalOpen}
+          onClose={() => setIsTimeDebugModalOpen(false)}
+          currentStop={currentStop}
+          destinationStop={destinationStop}
+          activeBus={primaryBus || fleet[0] || null}
+          fleet={fleet}
+          trips={supabaseTrips}
+          routes={allRoutes}
         />
       </main>
     </div>
