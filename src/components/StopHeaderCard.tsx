@@ -11,7 +11,6 @@ import {
 
 interface StopHeaderCardProps {
   currentStop: Stop;
-  onOpenQrSimulator: () => void;
   selectedDestinationId: string;
   onSelectDestination: (destId: string) => void;
   isDarkMode?: boolean;
@@ -23,7 +22,6 @@ interface StopHeaderCardProps {
 
 export const StopHeaderCard: React.FC<StopHeaderCardProps> = React.memo(({
   currentStop,
-  onOpenQrSimulator,
   selectedDestinationId,
   onSelectDestination,
   isDarkMode = false,
@@ -118,21 +116,19 @@ export const StopHeaderCard: React.FC<StopHeaderCardProps> = React.memo(({
         id="stop-header-card"
         className="bg-slate-800 rounded-3xl p-4 sm:p-5 shadow-lg text-white transition-all duration-200"
       >
-        {/* Top Row: Clean and simple QR Icon + Station Name */}
+        {/* Top Row: Clean QR Verified Badge + Station Name */}
         <div className="flex items-center gap-3 mb-3">
-          {/* Small QR-code icon on the left */}
-          <button
-            id="header-qr-button"
-            type="button"
-            onClick={onOpenQrSimulator}
-            title="Scan or change stop QR"
-            aria-label="Scan stop QR code"
-            className="w-10 h-10 rounded-xl bg-blue-500 hover:bg-blue-600 active:scale-95 text-white flex items-center justify-center shrink-0 shadow-sm cursor-pointer transition-all"
+          {/* QR-verified icon badge (purely decorative/informational, no click interaction) */}
+          <div
+            id="header-qr-badge"
+            title="QR Verified Stop Origin"
+            aria-label="QR Verified Stop Origin"
+            className="w-10 h-10 rounded-xl bg-blue-600/90 border border-blue-400/30 text-white flex items-center justify-center shrink-0 shadow-sm pointer-events-none select-none"
           >
             <QrCode className="w-5 h-5 text-white" />
-          </button>
+          </div>
 
-          {/* Stop name as bold white text (clean and simple — no technical/debug labels) */}
+          {/* Stop name as bold white text */}
           <div className="min-w-0 flex-1">
             <h1 className="text-base sm:text-lg font-bold text-white leading-tight truncate tracking-tight">
               {displayName}

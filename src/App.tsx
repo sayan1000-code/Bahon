@@ -4,7 +4,8 @@ import { DestinationSelector } from './components/DestinationSelector';
 import { ResultsCard } from './components/ResultsCard';
 import { LiveBusMap } from './components/LiveBusMap';
 import { ActiveFleetCard } from './components/ActiveFleetCard';
-import { QrScanSimulatorModal } from './components/QrScanSimulatorModal';
+import { DevQrGenerator } from './components/DevQrGenerator';
+import { InvalidQrScreen } from './components/InvalidQrScreen';
 import { TransitIntelligenceSection } from './components/TransitIntelligenceSection';
 import { StopHeaderCard } from './components/StopHeaderCard';
 import { StopDetailPanel } from './components/StopDetailPanel';
@@ -41,8 +42,22 @@ import {
 } from './services/tripService';
 
 export default function App() {
-  // Current stop automatically detected from URL (e.g. /stop/howrah)
-  const [currentStop, setCurrentStop] = useState<Stop>(() => getStopFromCurrentUrl());
+  // Check if developer / test QR generator page is requested via URL (?dev=qr-generator or /dev/qr-generator)
+  const [isDevQrGeneratorOpen, setIsDevQrGeneratorOpen] = useState<boolean>(() => {
+    if (typeof window === 'undefined') return false;
+    const path = window.location.pathname.toLowerCase();
+    const search = new URLSearchParams(window.location.search);
+    return (
+      path.includes('/dev/qr-generator') ||
+      path.includes('/qr-generator') ||
+      search.get('dev') === 'qr-generator' ||
+      search.get('page') === 'qr-generator'
+    );
+  });
+
+  // Current stop automatically detected strictly from URL parameter (?stop=ruby_general_hospital)
+  // If missing or invalid, remains null (never falls back/guesses)
+  const [currentStop, setCurrentStop] = useState<Stop | null>(() => getStopFromCurrentUrl(STOPS));
 
   // Night-time / Dark mode toggle for outdoor bus waiting
   const [isDarkMode, setIsDarkMode] = useState<boolean>(() => {
@@ -100,7 +115,7 @@ export default function App() {
     startTripNow,
     resetTrip,
   } = usePersistentFleet({
-    startStopId: currentStop.id,
+    startStopId: currentStop?.id || '',
     destStopId: destinationId,
     supabaseFleet: deterministicFleet,
     supabaseRoutes: allRoutes,
@@ -133,6 +148,7 @@ export default function App() {
 
   // Diagnostic logging for origin/destination pair, matched routes, and trip instances count
   useEffect(() => {
+    if (!currentStop) return;
     const targetDestIds = destinationId ? getAllUnderlyingStopIds(destinationId, allStops) : [];
     const matched = allRoutes.filter((r) => {
       const outStart = r.stops.indexOf(currentStop.id);
@@ -161,28 +177,15 @@ export default function App() {
   const [simPhase, setSimPhase] = useState<SimulationPhase>('approaching');
   const [simBusPosition, setSimBusPosition] = useState<[number, number] | null>(null);
 
-  // QR Simulator Modal state
-  const [isQrModalOpen, setIsQrModalOpen] = useState<boolean>(false);
+  // Navigation & Modals state
   const [isFullMapOpen, setIsFullMapOpen] = useState<boolean>(false);
   const [isScheduleModalOpen, setIsScheduleModalOpen] = useState<boolean>(false);
   const [isAuditModalOpen, setIsAuditModalOpen] = useState<boolean>(false);
   const [copiedLink, setCopiedLink] = useState<boolean>(false);
 
   // Requirement 1: QR scan loading screen & locked origin state
-  const [isQrLoading, setIsQrLoading] = useState<boolean>(() => {
-    // Check if URL has a stop path or parameter on initial load
-    if (typeof window !== 'undefined') {
-      const path = window.location.pathname;
-      return path.includes('/stop/');
-    }
-    return false;
-  });
-  const [isOriginLocked, setIsOriginLocked] = useState<boolean>(() => {
-    if (typeof window !== 'undefined') {
-      return window.location.pathname.includes('/stop/');
-    }
-    return false;
-  });
+  const [isQrLoading, setIsQrLoading] = useState<boolean>(false);
+  const [isOriginLocked, setIsOriginLocked] = useState<boolean>(true);
 
   // Requirement 3 & 4: Boarding Detail Modal and Active Boarded Journey
   const [boardingModalData, setBoardingModalData] = useState<BoardingModalData | null>(null);
@@ -194,9 +197,9 @@ export default function App() {
   const [isFeedbackModalOpen, setIsFeedbackModalOpen] = useState<boolean>(false);
   const hasTriggeredFeedbackRef = useRef<boolean>(false);
 
-  const handleOpenQrSimulator = useCallback(() => setIsQrModalOpen(true), []);
   const handleOpenAuditModal = useCallback(() => setIsAuditModalOpen(true), []);
   const handleOpenScheduleModal = useCallback(() => {
+    if (!currentStop) return;
     // If no destination is chosen yet, automatically select the default route destination
     // for this stop so the user immediately gets the full Bus Schedule view
     if (!destinationId) {
@@ -212,23 +215,9 @@ export default function App() {
       }
     }
     setIsScheduleModalOpen(true);
-  }, [destinationId, allRoutes, currentStop.id]);
+  }, [destinationId, allRoutes, currentStop]);
   const handleOpenFullMap = useCallback(() => setIsFullMapOpen(true), []);
   const handleCloseFullMap = useCallback(() => setIsFullMapOpen(false), []);
-
-  // When QR code is scanned or chosen in simulator:
-  // Show full-screen loading screen with Bahon logo, resolve stop, then set origin as locked!
-  const handleSimulateQrScan = useCallback((stop: Stop) => {
-    setIsQrModalOpen(false);
-    setIsQrLoading(true);
-    setCurrentStop(stop);
-    updateUrlForStop(stop.id);
-    setIsOriginLocked(true);
-    setDestinationId('');
-    clearStoredActiveTrip();
-    setActiveBoardedTrip(null);
-    hasTriggeredFeedbackRef.current = false;
-  }, []);
 
   const handleQrLoadingComplete = useCallback(() => {
     setIsQrLoading(false);
@@ -269,7 +258,7 @@ export default function App() {
 
   // Requirement 3: Dynamic Route Recommendation built directly from the live matching bus query
   const recommendation: RouteRecommendation | null = useMemo(() => {
-    if (!destinationId || destinationId === currentStop.id || !destinationStop) {
+    if (!currentStop || !destinationId || destinationId === currentStop.id || !destinationStop) {
       return null;
     }
 
@@ -367,6 +356,7 @@ export default function App() {
 
   // Fallback recommendation for the Bus Schedule modal if no destination was selected yet
   const scheduleModalRecommendation = useMemo(() => {
+    if (!currentStop) return null;
     if (recommendation) return recommendation;
 
     // Find the first route serving currentStop
@@ -423,7 +413,7 @@ export default function App() {
         lng: 88.3639,
       };
     const origStop: Stop =
-      allStops.find((s) => s.id === activeBoardedTrip.originStopId) || currentStop;
+      allStops.find((s) => s.id === activeBoardedTrip.originStopId) || currentStop || allStops[0];
 
     if (route) {
       const fromStatic = getRouteRecommendation(origStop.id, destStop.id, allRoutes, allStops);
@@ -473,9 +463,9 @@ export default function App() {
     mapsLoading,
     refetchMaps,
   } = useTransitIntelligence(
-    currentStop.name,
-    currentStop.lat,
-    currentStop.lng,
+    currentStop?.name || '',
+    currentStop?.lat || 22.5726,
+    currentStop?.lng || 88.3639,
     recommendation?.route?.number
   );
 
@@ -755,7 +745,7 @@ export default function App() {
   const handleShare = () => {
     if (navigator.share) {
       navigator.share({
-        title: `Bus Tracking at ${currentStop.name}`,
+        title: `Bus Tracking at ${currentStop?.name || 'Bus Stop'}`,
         url: window.location.href,
       }).catch(() => {});
     } else if (navigator.clipboard) {
@@ -765,10 +755,56 @@ export default function App() {
     }
   };
 
-  const isCurrentStopFav = isStopFavorited(currentStop.id);
-  const isCurrentRouteSaved = recommendation?.route?.number
+  const isCurrentStopFav = currentStop ? isStopFavorited(currentStop.id) : false;
+  const isCurrentRouteSaved = currentStop && recommendation?.route?.number
     ? isRouteSaved(currentStop.id, destinationId, recommendation.route.number)
     : false;
+
+  // Dev QR Generator Screen (accessed via ?dev=qr-generator or /dev/qr-generator)
+  if (isDevQrGeneratorOpen) {
+    return (
+      <DevQrGenerator
+        stops={allStops}
+        initialStopId={currentStop?.id}
+        onSelectStop={(stop) => {
+          setCurrentStop(stop);
+          updateUrlForStop(stop.id);
+          setIsDevQrGeneratorOpen(false);
+        }}
+        onClose={() => {
+          setIsDevQrGeneratorOpen(false);
+          try {
+            const url = new URL(window.location.href);
+            url.searchParams.delete('dev');
+            url.searchParams.delete('page');
+            window.history.replaceState({}, '', url.toString());
+          } catch {}
+        }}
+      />
+    );
+  }
+
+  // Missing or Invalid QR Code Screen (prevents origin guessing)
+  if (!currentStop) {
+    const invalidParam = typeof window !== 'undefined' ? new URLSearchParams(window.location.search).get('stop') : null;
+    return (
+      <>
+        <SplashScreen isDataReady={!isTransitLoading} />
+        <InvalidQrScreen
+          stops={allStops}
+          invalidParam={invalidParam}
+          onOpenQrGenerator={() => setIsDevQrGeneratorOpen(true)}
+          onSelectTestStop={(stopId) => {
+            const matched = allStops.find((s) => s.id === stopId);
+            if (matched) {
+              setCurrentStop(matched);
+              updateUrlForStop(matched.id);
+            }
+          }}
+        />
+      </>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-slate-900 flex justify-center items-center text-slate-900 font-sans antialiased p-0 sm:p-4 selection:bg-blue-600 selection:text-white">
@@ -797,7 +833,6 @@ export default function App() {
         {/* 1 & 2. HEADER CARD + SEARCH BAR: Dark slate/navy rounded card with QR icon, Verified, Live badge, Audit, and Search */}
         <StopHeaderCard
           currentStop={currentStop}
-          onOpenQrSimulator={handleOpenQrSimulator}
           selectedDestinationId={destinationId}
           onSelectDestination={setDestinationId}
           isDarkMode={isDarkMode}
@@ -1009,15 +1044,6 @@ export default function App() {
             </div>
           </div>
         )}
-
-        {/* QR Scan Simulator Modal */}
-        <QrScanSimulatorModal
-          isOpen={isQrModalOpen}
-          onClose={() => setIsQrModalOpen(false)}
-          currentStop={currentStop}
-          onSelectStop={handleSimulateQrScan}
-          stops={allStops}
-        />
 
         {/* Boarding Detail Modal: triggered when commuter taps "BOARD" */}
         <BoardingDetailModal
