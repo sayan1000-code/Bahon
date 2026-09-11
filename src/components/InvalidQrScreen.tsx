@@ -64,7 +64,7 @@ export const InvalidQrScreen: React.FC<InvalidQrScreenProps> = ({
           {/* Heading */}
           <div>
             <h1 className="text-xl sm:text-2xl font-black text-white tracking-tight">
-              {invalidParam ? 'Invalid Station QR Code' : 'Scan a Stop QR Code'}
+              {invalidParam ? 'Invalid Station QR Code' : 'Scan a Valid QR Code to Begin'}
             </h1>
             <p className="text-xs sm:text-sm text-slate-400 mt-2 leading-relaxed">
               {invalidParam ? (
@@ -72,7 +72,9 @@ export const InvalidQrScreen: React.FC<InvalidQrScreenProps> = ({
                   The scanned parameter <code className="text-amber-400 font-mono bg-slate-800 px-1.5 py-0.5 rounded text-xs">{invalidParam}</code> does not match any registered Kolkata bus stop.
                 </>
               ) : (
-                'Bahon automatically locks your starting origin via physical QR codes installed at Kolkata bus stops. Please scan the QR code at your station platform to begin.'
+                <>
+                  Bahon locks your starting origin via QR codes at bus stops. Please scan a physical stop QR code, or append <code className="text-blue-400 font-mono bg-slate-800/90 px-1.5 py-0.5 rounded text-xs">?stop=&lt;stop_id&gt;</code> to your URL to test.
+                </>
               )}
             </p>
           </div>

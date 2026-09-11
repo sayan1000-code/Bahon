@@ -5,7 +5,7 @@ import { User } from 'firebase/auth';
 interface UseUserJourneyTrackerParams {
   currentUser: User | null;
   destinationId: string | null;
-  currentStop: Stop;
+  currentStop: Stop | null;
   busPosition: [number, number] | null;
   simPhase: SimulationPhase;
 }
@@ -45,8 +45,8 @@ export function useUserJourneyTracker({
   simPhase,
 }: UseUserJourneyTrackerParams) {
   const isSignedIn = !!currentUser;
-  const hasDestination = !!destinationId && destinationId !== currentStop.id;
-  const isActive = isSignedIn && hasDestination;
+  const hasDestination = !!destinationId && !!currentStop && destinationId !== currentStop.id;
+  const isActive = isSignedIn && hasDestination && !!currentStop;
 
   const [userLocation, setUserLocation] = useState<UserLocationPing | null>(null);
   const [distanceToStopMeters, setDistanceToStopMeters] = useState<number>(0);
@@ -87,11 +87,12 @@ export function useUserJourneyTracker({
     setHasBoarded(false);
     setBoardedAt(null);
     setElapsedTravelTimeSeconds(0);
-  }, [currentStop.id, destinationId]);
+  }, [currentStop?.id, destinationId]);
 
   // Handle GPS location updates
   const handleLocationUpdate = useCallback(
     (lat: number, lng: number, accuracy = 15) => {
+      if (!currentStop) return;
       const now = Date.now();
       const ping: UserLocationPing = { lat, lng, timestamp: now, accuracy };
       setUserLocation(ping);
@@ -127,12 +128,12 @@ export function useUserJourneyTracker({
         }
       }
     },
-    [currentStop.lat, currentStop.lng, busPosition, simPhase, hasBoarded]
+    [currentStop?.lat, currentStop?.lng, busPosition, simPhase, hasBoarded]
   );
 
   // Real Geolocation watcher
   useEffect(() => {
-    if (!isActive || isSimulated) {
+    if (!isActive || isSimulated || !currentStop) {
       if (watchIdRef.current !== null) {
         navigator.geolocation.clearWatch(watchIdRef.current);
         watchIdRef.current = null;
@@ -192,11 +193,11 @@ export function useUserJourneyTracker({
         watchIdRef.current = null;
       }
     };
-  }, [isActive, isSimulated, currentStop.lat, currentStop.lng, handleLocationUpdate]);
+  }, [isActive, isSimulated, currentStop?.lat, currentStop?.lng, handleLocationUpdate]);
 
   // Simulation loop for testing when user enables simulated GPS or is outside Kolkata
   useEffect(() => {
-    if (!isActive || !isSimulated) return;
+    if (!isActive || !isSimulated || !currentStop) return;
 
     setGpsStatus('simulated');
     setGpsError(null);
@@ -219,7 +220,7 @@ export function useUserJourneyTracker({
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [isActive, isSimulated, hasBoarded, busPosition, currentStop.lat, currentStop.lng, handleLocationUpdate]);
+  }, [isActive, isSimulated, hasBoarded, busPosition, currentStop?.lat, currentStop?.lng, handleLocationUpdate]);
 
   // Live second-by-second ticker for elapsed travel time once boarded
   useEffect(() => {
